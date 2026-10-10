@@ -119,3 +119,24 @@ def parse_ingredients(section3):
                     item = Ingredient(name = name, cas = None, conc_min = conc_min, conc_max = conc_max, raw_line = k)
                     results.append(item)
     return results 
+
+def check_undisclosed(section3):
+    keywords = ["trade secret", "proprietary", "confidential", "withheld"]
+    text = section3.lower()
+    for key in keywords:
+        if key in text:
+            return True, key
+    if re.search(r"\bcbi\b", text):
+        return True, "cbi"
+    valid, invalid = find_cas(section3)
+    if not valid:
+        return True, "no valid CAS numbers"
+    results = parse_ingredients(section3)
+    missing = []
+    for r in results:
+        if r.cas is None:
+            missing.append(r.name)
+    if missing:
+        return True, "no CAS for: " + "; ".join(missing)
+    return False, ""
+

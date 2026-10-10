@@ -4,7 +4,7 @@
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from src.extract import parse_concentration, parse_ingredients
+from src.extract import parse_concentration, parse_ingredients, check_undisclosed
 
 def test_simple_range():
     assert parse_concentration("1-5%") == (1.0,5.0)
@@ -57,3 +57,34 @@ def test_proprietary_row():
 
 def test_empty_input():
     assert parse_ingredients("") == []
+
+def test_undisclosed_keyword():
+    flag, evidence = check_undisclosed(FAKE_SECTION_3)
+    assert flag is True
+    assert evidence == "trade secret"
+
+
+def test_fully_disclosed():
+    section = """
+Water 7732-18-5 60-100%
+N-Methyl-2-pyrrolidone 872-50-4 1-5%
+"""
+    flag, evidence = check_undisclosed(section)
+    assert flag is False
+    assert evidence == ""
+
+
+def test_no_cas_numbers_at_all():
+    flag, evidence = check_undisclosed("Non Reportable")
+    assert flag is True
+    assert evidence == "no valid CAS numbers"
+
+
+def test_ingredient_without_cas():
+    section = """
+Water 7732-18-5 60-100%
+Propellant 0-5
+"""
+    flag, evidence = check_undisclosed(section)
+    assert flag is True
+    assert evidence == "no CAS for: Propellant"

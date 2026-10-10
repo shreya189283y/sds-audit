@@ -3,7 +3,7 @@ import sys, os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 
-from src.extract import split_sections, parse_ingredients
+from src.extract import split_sections, parse_ingredients, check_undisclosed
 
 product_id = sys.argv[1]
 path = "data/text/" + product_id + ".txt"
@@ -21,3 +21,6 @@ results = parse_ingredients(section3)
 
 for item in results:
     print(item)
+
+results = check_undisclosed(section3)
+print(results)
