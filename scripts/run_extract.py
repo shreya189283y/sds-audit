@@ -4,7 +4,7 @@ from collections import Counter
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from src.extract import split_sections, parse_ingredients, check_undisclosed
 
-with open("/Users/shreya/Documents/sds-audit/data/manifest_draft.csv", newline="", encoding="utf-8") as f:
+with open("data/manifest_draft.csv", newline="", encoding="utf-8") as f:
     manifest = list(csv.DictReader(f))
 
 ingredient_rows = []
@@ -21,7 +21,7 @@ for row in manifest:
             text = f.read()
         if len(text.strip())<200:
             failure_rows.append({"product_id":pid, "reason":"scanned", "detail": "under 200 characters"})
-        
+            continue
         sections = split_sections(text)
         if 3 not in sections:
             failure_rows.append({"product_id": pid, "reason":"no_section_3","detail": "No section 3 exists"})

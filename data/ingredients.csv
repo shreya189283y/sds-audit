@@ -28,14 +28,15 @@ P002,Anisaldehyde,123-11-5,0.0,0.1,True,trade secret,Anisaldehyde 123-11-5 <0.1
 P002,Acetoxydihydrodicyclopentadiene,54830-99-8,0.0,0.1,True,trade secret,Acetoxydihydrodicyclopentadiene 54830-99-8 <0.1
 P002,Colorant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Colorant PROPRIETARY <0.1
 P002,Acid Blue 9,3844-45-9,0.0,0.1,True,trade secret,Acid Blue 9 3844-45-9 <0.1
-P003,Methyl Pyrrolidone,872-50-4,0.0,5.0,True,no CAS for: Other components below reportable levels,Methyl Pyrrolidone 872-50-4 3 - < 5
-P003,Triethylamine,121-44-8,0.0,3.0,True,no CAS for: Other components below reportable levels,Triethylamine 121-44-8 1 - < 3
+P003,Methyl Pyrrolidone,872-50-4,3.0,5.0,True,no CAS for: Other components below reportable levels,Methyl Pyrrolidone 872-50-4 3 - < 5
+P003,Triethylamine,121-44-8,1.0,3.0,True,no CAS for: Other components below reportable levels,Triethylamine 121-44-8 1 - < 3
 P003,Other components below reportable levels,,90.0,100.0,True,no CAS for: Other components below reportable levels,Other components below reportable levels 90 - 100
 P005,Urea (85% - 95%),57-13-6,,,True,proprietary,Urea (85% - 95%) 57-13-6
 P005,Sulfur (4% - 13%),7704-34-9,,,True,proprietary,Sulfur (4% - 13%) 7704-34-9
 P005,Polymer Coating (,,0.0,5.0,True,proprietary,Polymer Coating (<5%) Mixture
 P005,Non-Hazardous Dye (<0.1%) Proprietary,,0.0,0.1,True,proprietary,Non-Hazardous Dye (<0.1%) Proprietary
 P005,"Urea (Carbamide, carbonyldiamide,",57-13-6,,,True,proprietary,"Urea (Carbamide, carbonyldiamide, 57-13-6"
+P005,carbamidic acid) (,,97.5,99.7,True,proprietary,carbamidic acid) (97.5% - 99.7%)
 P005,Methylenediurea (0% - 2.5%),13547-17-6,,,True,proprietary,Methylenediurea (0% - 2.5%) 13547-17-6
 P005,Biuret (0% - 1.5%),108-19-0,,,True,proprietary,Biuret (0% - 1.5%) 108-19-0
 P005,Potassium Chloride (95% - 99.8%),7447-40-7,,,True,proprietary,Potassium Chloride (95% - 99.8%) 7447-40-7
@@ -48,8 +49,9 @@ P005,,,,,True,proprietary,11-52-0
 P005,Ammonium sulfate (5.5% - 7.5%),7783-20-2,,,True,proprietary,Ammonium sulfate (5.5% - 7.5%) 7783-20-2
 P005,Iron sucrate Iron oxide (70 % - < 80 %),1317-61-9,3.7,3.7,True,proprietary,Iron sucrate Iron oxide (70 % - < 80 %) 1317-61-9 C = 3.7%
 P005,Calcium sulfate (3 %- < 5 %),7778-18-9,,,True,proprietary,Calcium sulfate (3 %- < 5 %) 7778-18-9
-P005,(20 % -,,0.0,30.0,True,proprietary,(20 % - < 30 %)
+P005,(,,20.0,30.0,True,proprietary,(20 % - < 30 %)
 P005,Ferric Oxide (60% - 100%),1309-37-1,,,True,proprietary,Ferric Oxide (60% - 100%) 1309-37-1
+P005,(,,1.0,5.0,True,proprietary,(1% - 5%)
 P005,Silica (0.5% - 1.5%),7631-86-9,,,True,proprietary,Silica (0.5% - 1.5%) 7631-86-9
 P006,WATER,7732-18-5,40.0,70.0,True,trade secret,WATER 7732-18-5 40 - 70 Trade Secret *
 P006,WHITE MINERAL OIL (PETROLEUM),8042-47-5,10.0,30.0,True,trade secret,WHITE MINERAL OIL (PETROLEUM) 8042-47-5 10 - 30 Trade Secret *
@@ -96,9 +98,9 @@ P011,Ethylenediamine tetraacetate,64-02-8,1.0,5.0,False,,Ethylenediamine tetraac
 P011,Sodium Carbonate,497-19-8,1.0,5.0,False,,Sodium Carbonate 497-19-8 1-5
 P011,Sodium Xylene Sulfonate,1300-72-7,1.0,5.0,False,,Sodium Xylene Sulfonate 1300-72-7 1-5
 P012,Isopropylamine salt of glyphosate,38641-94-0,41.0,41.0,True,trade secret,Isopropylamine salt of glyphosate 38641-94-0 41.0
-P012,Surfactant blend (proprietary) >=5.0 – <=10.0,,5.0,100.0,True,trade secret,Surfactant blend (proprietary) >=5.0 – <=10.0
-P014,Methyl Pyrrolidone,872-50-4,0.0,3.0,True,no CAS for: Other components below reportable levels,Methyl Pyrrolidone 872-50-4 1 - < 3
-P014,Propoxypropanol,1569-01-3,0.0,3.0,True,no CAS for: Other components below reportable levels,Propoxypropanol 1569-01-3 1 - < 3
+P012,Surfactant blend (proprietary) >=5.0 – <=10.0,,5.0,10.0,True,trade secret,Surfactant blend (proprietary) >=5.0 – <=10.0
+P014,Methyl Pyrrolidone,872-50-4,1.0,3.0,True,no CAS for: Other components below reportable levels,Methyl Pyrrolidone 872-50-4 1 - < 3
+P014,Propoxypropanol,1569-01-3,1.0,3.0,True,no CAS for: Other components below reportable levels,Propoxypropanol 1569-01-3 1 - < 3
 P014,Other components below reportable levels,,90.0,100.0,True,no CAS for: Other components below reportable levels,Other components below reportable levels 90 - 100
 P015,dipropylene glycol (CAS-No.),110-98-5,90.0,95.0,True,no CAS for: Biodac,"dipropylene glycol (CAS-No.) 110-98-5 90-95 Eye Irrit. 2B, H320"
 P015,Biodac,,1.0,10.0,True,no CAS for: Biodac,"Biodac 1-10 Skin Irrit. 2, H315"
@@ -118,29 +120,29 @@ P017,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY
 P017,Colorant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Colorant PROPRIETARY <0.1
 P017,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
 P017,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P018,DIETHYLENE GLYCOL MONOETHYL ETHER,111-90-0,0.5,0.5,True,trade secret,DIETHYLENE GLYCOL MONOETHYL ETHER 111-90-0 0.5 – 1.0% YES
-P018,TRIBUTOXYETHYL PHOSPHATE,78-51-3,0.1,0.1,True,trade secret,TRIBUTOXYETHYL PHOSPHATE 78-51-3 0.1 – 0.5% YES
-P019,Diethylene glycol monoethyl ether,111-90-0,0.0,5.0,False,,Diethylene glycol monoethyl ether 111-90-0 3 - < 5%
-P019,Ethylene glycol 2-ethylhexyl ether,1559-35-9,0.0,3.0,False,,Ethylene glycol 2-ethylhexyl ether 1559-35-9 1 - < 3%
-P019,Zinc ammonium carbonate,40861-29-8,0.1,100.0,False,,Zinc ammonium carbonate 40861-29-8 > 0.1 - < 1%
-P019,Ammonium hydroxide,1336-21-6,0.1,100.0,False,,Ammonium hydroxide 1336-21-6 > 0.1 - < 1%
-P019,Potassium hydroxide,1310-58-3,0.1,100.0,False,,Potassium hydroxide 1310-58-3 > 0.1 - < 1%
-P020,Dipropylene glycol n-butyl ether,29911-28-2,0.0,3.0,True,trade secret,Dipropylene glycol n-butyl ether 29911-28-2 1% - < 3%
-P020,Tributoxyethyl phosphate,78-51-3,0.0,3.0,True,trade secret,Tributoxyethyl phosphate 78-51-3 1% - < 3%
+P018,DIETHYLENE GLYCOL MONOETHYL ETHER,111-90-0,0.5,1.0,True,trade secret,DIETHYLENE GLYCOL MONOETHYL ETHER 111-90-0 0.5 – 1.0% YES
+P018,TRIBUTOXYETHYL PHOSPHATE,78-51-3,0.1,0.5,True,trade secret,TRIBUTOXYETHYL PHOSPHATE 78-51-3 0.1 – 0.5% YES
+P019,Diethylene glycol monoethyl ether,111-90-0,3.0,5.0,False,,Diethylene glycol monoethyl ether 111-90-0 3 - < 5%
+P019,Ethylene glycol 2-ethylhexyl ether,1559-35-9,1.0,3.0,False,,Ethylene glycol 2-ethylhexyl ether 1559-35-9 1 - < 3%
+P019,Zinc ammonium carbonate,40861-29-8,0.1,1.0,False,,Zinc ammonium carbonate 40861-29-8 > 0.1 - < 1%
+P019,Ammonium hydroxide,1336-21-6,0.1,1.0,False,,Ammonium hydroxide 1336-21-6 > 0.1 - < 1%
+P019,Potassium hydroxide,1310-58-3,0.1,1.0,False,,Potassium hydroxide 1310-58-3 > 0.1 - < 1%
+P020,Dipropylene glycol n-butyl ether,29911-28-2,1.0,3.0,True,trade secret,Dipropylene glycol n-butyl ether 29911-28-2 1% - < 3%
+P020,Tributoxyethyl phosphate,78-51-3,1.0,3.0,True,trade secret,Tributoxyethyl phosphate 78-51-3 1% - < 3%
 P021,Water,7732-18-5,60.0,100.0,False,,Water 7732-18-5 60- 100
 P021,Sodium alphaolefinsulfonate,68439-57-6,3.0,7.0,False,,Sodium alphaolefinsulfonate 68439-57-6 3- 7
 P021,Cocamidopropyl Dimethylamine Oxide,68155-09-9,1.0,5.0,False,,Cocamidopropyl Dimethylamine Oxide 68155-09-9 1- 5
 P021,Cocamide DEA,68603-42-9,1.0,5.0,False,,Cocamide DEA 68603-42-9 1- 5
 P021,Glycerol,56-81-5,1.0,5.0,False,,Glycerol 56-81-5 1- 5
-P023,,64-02-8,3.0,3.0,True,trade secret,64-02-8 3 – 4% YES
+P023,,64-02-8,3.0,4.0,True,trade secret,64-02-8 3 – 4% YES
 P023,DIETHYLENE GLYCOL MONOBUTYL ETHER,112-34-5,2.0,3.0,True,trade secret,DIETHYLENE GLYCOL MONOBUTYL ETHER 112-34-5 2 - 3% YES
-P023,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,1.0,1.0,True,trade secret,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 1 – 2% YES
-P023,SODIUM LAURYL SULFATE,151-21-3,1.0,1.0,True,trade secret,SODIUM LAURYL SULFATE 151-21-3 1 – 2% YES
-P023,SODIUM TRIPOLYPHOSPHATE,7758-29-4,0.5,0.5,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 0.5 – 1% YES
-P023,PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,,0.1,0.1,True,trade secret,PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES
-P023,SODIUM GLYCOLATE,2836-32-0,0.1,0.1,True,trade secret,SODIUM GLYCOLATE 2836-32-0 0.1 – 0.4% YES
-P023,TRISODIUM NITRILOTRIACETATE,5064-31-3,0.1,0.1,True,trade secret,TRISODIUM NITRILOTRIACETATE 5064-31-3 0.1 – 0.2% YES
-P023,COCAMIDE MEA,68140-00-1,0.1,0.1,True,trade secret,COCAMIDE MEA 68140-00-1 0.1 – 0.5% YES
+P023,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,1.0,2.0,True,trade secret,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 1 – 2% YES
+P023,SODIUM LAURYL SULFATE,151-21-3,1.0,2.0,True,trade secret,SODIUM LAURYL SULFATE 151-21-3 1 – 2% YES
+P023,SODIUM TRIPOLYPHOSPHATE,7758-29-4,0.5,1.0,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 0.5 – 1% YES
+P023,PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,,0.1,0.5,True,trade secret,PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES
+P023,SODIUM GLYCOLATE,2836-32-0,0.1,0.4,True,trade secret,SODIUM GLYCOLATE 2836-32-0 0.1 – 0.4% YES
+P023,TRISODIUM NITRILOTRIACETATE,5064-31-3,0.1,0.2,True,trade secret,TRISODIUM NITRILOTRIACETATE 5064-31-3 0.1 – 0.2% YES
+P023,COCAMIDE MEA,68140-00-1,0.1,0.5,True,trade secret,COCAMIDE MEA 68140-00-1 0.1 – 0.5% YES
 P025,"2-Phosphonobutane-1,2,4-tricarboxylic acid, sodium salt",40372-66-5,5.0,10.0,True,trade secret,"2-Phosphonobutane-1,2,4-tricarboxylic acid, sodium salt 40372-66-5 5-10"
 P025,Sodium hydroxide,1310-73-2,5.0,10.0,True,trade secret,Sodium hydroxide 1310-73-2 5-10
 P025,Sodium polyacrylate,9003-04-7,1.0,5.0,True,trade secret,Sodium polyacrylate 9003-04-7 1-5
@@ -150,7 +152,6 @@ P027,Butane,106-97-8,60.0,80.0,True,trade secret,Butane 106-97-8 60 - 80
 P027,Propane,74-98-6,20.0,40.0,True,trade secret,Propane 74-98-6 20 - 40
 P027,Ethyl Alcohol,64-17-5,2.5,10.0,True,trade secret,Ethyl Alcohol 64-17-5 2.5 - 10
 P027,Other components below reportable levels,,0.01,0.1,True,trade secret,Other components below reportable levels 0.01 - 0.1
-P027,Product #: 1000001259 Version #: 29 Revision date:,,5.0,29.0,True,trade secret,Product #: 1000001259 Version #: 29 Revision date: 05-29-2015 Issue date: 04-21-2014 1 / 9
 P028,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
 P028,Undeceth-3,34398-01-1,1.0,5.0,True,trade secret,Undeceth-3 34398-01-1 1-5
 P028,Hydrogen Peroxide,7722-84-1,1.0,5.0,True,trade secret,Hydrogen Peroxide 7722-84-1 1-5
@@ -270,14 +271,13 @@ P047,Isopropyl alcohol (CAS-No.),67-63-0,4.0,4.0,False,,Isopropyl alcohol (CAS-N
 P047,Benzyl Alcohol (CAS-No.),100-51-6,5.0,5.0,False,,Benzyl Alcohol (CAS-No.) 100-51-6 5
 P047,Propane (CAS-No.),74-98-6,20.0,20.0,False,,Propane (CAS-No.) 74-98-6 20
 P047,"Distillates (petroleum), hydrotreated light (CAS-No.)",64742-47-8,69.6,69.6,False,,"Distillates (petroleum), hydrotreated light (CAS-No.) 64742-47-8 69.6"
-P050,Ethoxydiglycol,111-90-0,0.0,10.0,True,no CAS for: HIL00534 Version #: 02 Revision date:; Other components below reportable levels,Ethoxydiglycol 111-90-0 5 - < 10
-P050,HIL00534 Version #: 02 Revision date:,,11.0,19.0,True,no CAS for: HIL00534 Version #: 02 Revision date:; Other components below reportable levels,HIL00534 Version #: 02 Revision date: 11-19-2024 Issue date: 06-03-2024 1 / 7
-P050,Tributoxyethyl Phosphate,78-51-3,0.0,3.0,True,no CAS for: HIL00534 Version #: 02 Revision date:; Other components below reportable levels,Tributoxyethyl Phosphate 78-51-3 1 - < 3
-P050,Other components below reportable levels,,90.0,100.0,True,no CAS for: HIL00534 Version #: 02 Revision date:; Other components below reportable levels,Other components below reportable levels 90 - 100
+P050,Ethoxydiglycol,111-90-0,5.0,10.0,True,no CAS for: Other components below reportable levels,Ethoxydiglycol 111-90-0 5 - < 10
+P050,Tributoxyethyl Phosphate,78-51-3,1.0,3.0,True,no CAS for: Other components below reportable levels,Tributoxyethyl Phosphate 78-51-3 1 - < 3
+P050,Other components below reportable levels,,90.0,100.0,True,no CAS for: Other components below reportable levels,Other components below reportable levels 90 - 100
 P051,water,7732-18-5,60.0,100.0,True,trade secret,water 7732-18-5 60-100
 P051,paraffin wax PROPRIETARY 3-7,,3.0,7.0,True,trade secret,paraffin wax PROPRIETARY 3-7
 P051,anionic surfactant PROPRIETARY 1-5,,1.0,5.0,True,trade secret,anionic surfactant PROPRIETARY 1-5
-P052,Urethane Polymer ≥10 -,,0.0,25.0,True,confidential,Urethane Polymer ≥10 - <25 8440P
+P052,Urethane Polymer ≥,,10.0,25.0,True,confidential,Urethane Polymer ≥10 - <25 8440P
 P052,N-methyl-2-pyrrolidone ≥3 - <5,872-50-4,,,True,confidential,N-methyl-2-pyrrolidone ≥3 - <5 872-50-4
 P052,tris(2-butoxyethyl) phosphate ≥1 - <3,78-51-3,,,True,confidential,tris(2-butoxyethyl) phosphate ≥1 - <3 78-51-3
 P053,(2-methoxymethylethoxy)propanol 1 - 5,34590-94-8,,,False,,(2-methoxymethylethoxy)propanol 1 - 5 34590-94-8
@@ -295,7 +295,6 @@ P057,Ethyl Alcohol,64-17-5,2.5,10.0,True,trade secret,Ethyl Alcohol 64-17-5 2.5 
 P057,Butane,106-97-8,1.0,2.5,True,trade secret,Butane 106-97-8 1 - 2.5
 P057,Propane,74-98-6,1.0,2.5,True,trade secret,Propane 74-98-6 1 - 2.5
 P057,Other components below reportable levels,,90.0,100.0,True,trade secret,Other components below reportable levels 90 - 100
-P057,Product #: 1000000075 Version #: 16 Revision date:,,6.0,30.0,True,trade secret,Product #: 1000000075 Version #: 16 Revision date: 06-30-2016 Issue date: 05-26-2015 1 / 10
 P058,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
 P058,Undeceth-3,34398-01-1,1.0,5.0,True,trade secret,Undeceth-3 34398-01-1 1-5
 P058,Sodium Carbonate,497-19-8,1.0,5.0,True,trade secret,Sodium Carbonate 497-19-8 1-5
@@ -318,28 +317,28 @@ P060,Alcohol,64-17-5,1.0,5.0,True,trade secret,Alcohol 64-17-5 1-5
 P060,Tetrasodium EDTA,64-02-8,0.1,1.0,True,trade secret,Tetrasodium EDTA 64-02-8 0.1-1
 P060,C9-11 Pareth-6,68439-46-3,0.1,1.0,True,trade secret,C9-11 Pareth-6 68439-46-3 0.1-1
 P060,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P061,2-AMINOETHANOL,141-43-5,2.0,2.0,True,trade secret,2-AMINOETHANOL 141-43-5 2 – 3 % YES
-P061,"ALCOHOLS, C6-12, ETHOXYLATED PROPOXYLATED",68937-66-6,5.0,5.0,True,trade secret,"ALCOHOLS, C6-12, ETHOXYLATED PROPOXYLATED 68937-66-6 5 – 7% YES"
-P061,"ALCOHOLS, C10-16, ETHOXYLATED PROPOXYLATED",69227-22-1,2.0,2.0,True,trade secret,"ALCOHOLS, C10-16, ETHOXYLATED PROPOXYLATED 69227-22-1 2 – 4% YES"
-P061,SODIUM TRIPOLYPHOSPHATE,7758-29-4,3.0,3.0,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 3 – 4% YES
-P061,PHOSPHATE ESTER OF ETHOXYLATED ALCOHOLS,68130-47-2,1.0,1.0,True,trade secret,PHOSPHATE ESTER OF ETHOXYLATED ALCOHOLS 68130-47-2 1 – 3% YES
-P061,SODIUM METASILICATE,6834-92-0,0.5,0.5,True,trade secret,SODIUM METASILICATE 6834-92-0 0.5 – 1% YES
-P061,DIPENTENE (TERPENE HYDROCARBONS),68956-56-9,0.1,0.1,True,trade secret,DIPENTENE (TERPENE HYDROCARBONS) 68956-56-9 0.1 – 0.5% YES
+P061,2-AMINOETHANOL,141-43-5,2.0,3.0,True,trade secret,2-AMINOETHANOL 141-43-5 2 – 3 % YES
+P061,"ALCOHOLS, C6-12, ETHOXYLATED PROPOXYLATED",68937-66-6,5.0,7.0,True,trade secret,"ALCOHOLS, C6-12, ETHOXYLATED PROPOXYLATED 68937-66-6 5 – 7% YES"
+P061,"ALCOHOLS, C10-16, ETHOXYLATED PROPOXYLATED",69227-22-1,2.0,4.0,True,trade secret,"ALCOHOLS, C10-16, ETHOXYLATED PROPOXYLATED 69227-22-1 2 – 4% YES"
+P061,SODIUM TRIPOLYPHOSPHATE,7758-29-4,3.0,4.0,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 3 – 4% YES
+P061,PHOSPHATE ESTER OF ETHOXYLATED ALCOHOLS,68130-47-2,1.0,3.0,True,trade secret,PHOSPHATE ESTER OF ETHOXYLATED ALCOHOLS 68130-47-2 1 – 3% YES
+P061,SODIUM METASILICATE,6834-92-0,0.5,1.0,True,trade secret,SODIUM METASILICATE 6834-92-0 0.5 – 1% YES
+P061,DIPENTENE (TERPENE HYDROCARBONS),68956-56-9,0.1,0.5,True,trade secret,DIPENTENE (TERPENE HYDROCARBONS) 68956-56-9 0.1 – 0.5% YES
 P062,Dipropylene glycol monomethyl ether,34590-94-8,1.0,5.0,False,,Dipropylene glycol monomethyl ether 34590-94-8 1-5
 P062,"Alcohols, Ethoxylated",34398-01-1,1.0,5.0,False,,"Alcohols, Ethoxylated 34398-01-1 1-5"
 P062,Propylene Glycol Monobutyl,5131-66-8,1.0,5.0,False,,Propylene Glycol Monobutyl 5131-66-8 1-5
 P062,Tetrapotassium Pyrophosphate,7320-34-5,1.0,5.0,False,,Tetrapotassium Pyrophosphate 7320-34-5 1-5
-P063,2-AMINOETHANOL,141-43-5,2.0,2.0,True,trade secret,2-AMINOETHANOL 141-43-5 2 – 3 % YES
-P063,"ALCOHOLS, C9-11, ETHOXYLATED",68439-46-3,5.0,5.0,True,trade secret,"ALCOHOLS, C9-11, ETHOXYLATED 68439-46-3 5 – 8% YES"
-P063,SODIUM TRIPOLYPHOSPHATE,7758-29-4,3.0,3.0,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 3 – 4% YES
-P063,SODIUM METASILICATE,6834-92-0,0.5,0.5,True,trade secret,SODIUM METASILICATE 6834-92-0 0.5 – 1% YES
+P063,2-AMINOETHANOL,141-43-5,2.0,3.0,True,trade secret,2-AMINOETHANOL 141-43-5 2 – 3 % YES
+P063,"ALCOHOLS, C9-11, ETHOXYLATED",68439-46-3,5.0,8.0,True,trade secret,"ALCOHOLS, C9-11, ETHOXYLATED 68439-46-3 5 – 8% YES"
+P063,SODIUM TRIPOLYPHOSPHATE,7758-29-4,3.0,4.0,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 3 – 4% YES
+P063,SODIUM METASILICATE,6834-92-0,0.5,1.0,True,trade secret,SODIUM METASILICATE 6834-92-0 0.5 – 1% YES
 P064,Sodium etasulfate,126-92-1,5.0,10.0,False,,Sodium etasulfate 126-92-1 5 - 10%
 P064,"Alcohol, C9-C11, ethoxylated",68439-46-3,3.0,7.0,False,,"Alcohol, C9-C11, ethoxylated 68439-46-3 3 - 7%"
 P064,2-(2-butoxyethoxy)ethanol,112-34-5,1.0,5.0,False,,2-(2-butoxyethoxy)ethanol 112-34-5 1 - 5%
-P064,Ammonium hydroxide,1336-21-6,0.1,100.0,False,,Ammonium hydroxide 1336-21-6 > 0.1 - < 1%
-P065,butane,106-97-8,1.0,100.0,False,,butane 106-97-8 >= 1 - < 5
-P065,1-propoxypropan-2-ol,1569-01-3,1.0,100.0,False,,1-propoxypropan-2-ol 1569-01-3 >= 1 - < 5
-P065,ethanol,64-17-5,1.0,100.0,False,,ethanol 64-17-5 >= 1 - < 5
+P064,Ammonium hydroxide,1336-21-6,0.1,1.0,False,,Ammonium hydroxide 1336-21-6 > 0.1 - < 1%
+P065,butane,106-97-8,1.0,5.0,False,,butane 106-97-8 >= 1 - < 5
+P065,1-propoxypropan-2-ol,1569-01-3,1.0,5.0,False,,1-propoxypropan-2-ol 1569-01-3 >= 1 - < 5
+P065,ethanol,64-17-5,1.0,5.0,False,,ethanol 64-17-5 >= 1 - < 5
 P066,N-methyl-2-pyrrolidone ≥5 - <10,872-50-4,,,True,confidential,N-methyl-2-pyrrolidone ≥5 - <10 872-50-4
 P067,Water,7732-18-5,40.0,70.0,True,trade secret,Water 7732-18-5 40-70
 P067,Acrylic Polymer PROPRIETARY 10-30,,10.0,30.0,True,trade secret,Acrylic Polymer PROPRIETARY 10-30
@@ -370,7 +369,6 @@ P070,Ammonium Chloride,27479-28-3,1.6,1.6,False,,Ammonium Chloride 27479-28-3 1.
 P071,Diethylene glycol butyl ether,112-34-5,1.0,5.0,False,,Diethylene glycol butyl ether 112-34-5 1 - 5% 4500 =2700 mg/kg Not available
 P071,2-butoxyethanol,111-76-2,1.0,5.0,False,,2-butoxyethanol 111-76-2 1 - 5% 1400 =220 mg/kg =450 ppm (4 h)
 P071,Ethylene glycol phenyl ether,122-99-6,0.1,1.5,False,,Ethylene glycol phenyl ether 122-99-6 0.1 - 1.5% 1260 =5 mL/kg Not available
-P072,HIL00470 Version #: 02 Revision date:,,12.0,19.0,True,trade secret,HIL00470 Version #: 02 Revision date: 12-19-2018 Issue date: 01-22-2015 1 / 6
 P073,2-AMINOETHANOL,141-43-5,8.0,10.0,True,trade secret,2-AMINOETHANOL 141-43-5 8 - 10% YES
 P073,DIETHYLENE GLYCOL MONOBUTYL ETHER,112-34-5,8.0,10.0,True,trade secret,DIETHYLENE GLYCOL MONOBUTYL ETHER 112-34-5 8 - 10% YES
 P073,BENZYL ALCOHOL,100-51-6,12.0,14.0,True,trade secret,BENZYL ALCOHOL 100-51-6 12 - 14% YES
@@ -406,12 +404,11 @@ P081,(2-methoxymethylethoxy)propanol ≥5 - <10,34590-94-8,,,True,confidential,(
 P081,"Alcohols, C9-11, ethoxylated ≥3 - <5",68439-46-3,,,True,confidential,"Alcohols, C9-11, ethoxylated ≥3 - <5 68439-46-3"
 P081,"(R)-p-mentha-1,8-diene ≥2.6 - <3",5989-27-5,,,True,confidential,"(R)-p-mentha-1,8-diene ≥2.6 - <3 5989-27-5"
 P081,oleic acid ≥1.1 - <3,112-80-1,,,True,confidential,oleic acid ≥1.1 - <3 112-80-1
-P082,Isopropylamine Salt of Imazapyr,81510-83-0,26.8,26.8,True,trade secret,Isopropylamine Salt of Imazapyr 81510-83-0 26.8 – 28.5
+P082,Isopropylamine Salt of Imazapyr,81510-83-0,26.8,28.5,True,trade secret,Isopropylamine Salt of Imazapyr 81510-83-0 26.8 – 28.5
 P083,Butane,106-97-8,60.0,80.0,True,trade secret,Butane 106-97-8 60 - 80
 P083,Propane,74-98-6,20.0,40.0,True,trade secret,Propane 74-98-6 20 - 40
 P083,Ethyl Alcohol,64-17-5,2.5,10.0,True,trade secret,Ethyl Alcohol 64-17-5 2.5 - 10
 P083,Other components below reportable levels,,0.01,0.1,True,trade secret,Other components below reportable levels 0.01 - 0.1
-P083,Product #: 1000010343 Version #: 03 Issue date:,,8.0,5.0,True,trade secret,Product #: 1000010343 Version #: 03 Issue date: 08-05-2014 1 / 9
 P084,,122453-73-0,0.5,0.5,False,,122453-73-0 0.5 % chlorfenapyr
 P084,,115-10-6,0.0,15.0,False,,115-10-6 < 15.0% dimethyl ether
 P084,,124-38-9,0.0,2.0,False,,124-38-9 < 2.0% carbon dioxide
@@ -462,7 +459,6 @@ P101,Hydrotreated middle distillate,,0.0,10.0,True,no CAS for: Hydrotreated midd
 P101,Ethoxylated alcohol c6-12,68439-45-2,0.0,5.0,True,no CAS for: Hydrotreated middle distillate; Propellant,Ethoxylated alcohol c6-12 68439-45-2 0-5
 P101,Hydro treated Light Naphthenic,64742-53-6,0.0,5.0,True,no CAS for: Hydrotreated middle distillate; Propellant,Hydro treated Light Naphthenic 64742-53-6 0-5
 P101,Propellant,,0.0,5.0,True,no CAS for: Hydrotreated middle distillate; Propellant,Propellant 0-5
-P102,Product #: 1000006763 Version #: 10 Revision date:,,9.0,22.0,True,trade secret,Product #: 1000006763 Version #: 10 Revision date: 09-22-2015 Issue date: 01-19-2015 1 / 10
 P102,"Distillates (Petroleum),",64742-47-8,20.0,40.0,True,trade secret,"Distillates (Petroleum), 64742-47-8 20 - 40"
 P102,White Mineral Oil,8042-47-5,20.0,40.0,True,trade secret,White Mineral Oil 8042-47-5 20 - 40
 P102,Acetone,67-64-1,10.0,20.0,True,trade secret,Acetone 67-64-1 10 - 20
@@ -480,10 +476,9 @@ P105,POTASSIUM HYDROXIDE,1310-58-3,2.0,3.0,True,trade secret,POTASSIUM HYDROXIDE
 P105,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,0.5,1.0,True,trade secret,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 0.5-1.0% YES
 P106,Oryzalin,19044-88-3,40.9,40.9,True,trade secret,Oryzalin 19044-88-3 40.9
 P106,Glycerin,56-81-5,0.0,30.0,True,trade secret,Glycerin 56-81-5 <30
-P107,HIL00458 Version #: 04 Revision date:,,4.0,22.0,True,no CAS for: HIL00458 Version #: 04 Revision date:; Other components below reportable levels,HIL00458 Version #: 04 Revision date: 04-22-2024 Issue date: 11-24-2014 1 / 8
-P107,Butoxyethanol,111-76-2,0.0,3.0,True,no CAS for: HIL00458 Version #: 04 Revision date:; Other components below reportable levels,Butoxyethanol 111-76-2 1 - < 3
-P107,Isopropanol,67-63-0,0.0,3.0,True,no CAS for: HIL00458 Version #: 04 Revision date:; Other components below reportable levels,Isopropanol 67-63-0 1 - < 3
-P107,Other components below reportable levels,,90.0,100.0,True,no CAS for: HIL00458 Version #: 04 Revision date:; Other components below reportable levels,Other components below reportable levels 90 - 100
+P107,Butoxyethanol,111-76-2,1.0,3.0,True,no CAS for: Other components below reportable levels,Butoxyethanol 111-76-2 1 - < 3
+P107,Isopropanol,67-63-0,1.0,3.0,True,no CAS for: Other components below reportable levels,Isopropanol 67-63-0 1 - < 3
+P107,Other components below reportable levels,,90.0,100.0,True,no CAS for: Other components below reportable levels,Other components below reportable levels 90 - 100
 P108,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
 P108,Acrylate Copolymer PROPRIETARY 10-30,,10.0,30.0,True,trade secret,Acrylate Copolymer PROPRIETARY 10-30
 P108,Ethoxydiglycol,111-90-0,3.0,7.0,True,trade secret,Ethoxydiglycol 111-90-0 3-7

@@ -1,33 +1,21 @@
 product_id,reason,detail
 P004,scanned,under 200 characters
-P004,no_section_3,No section 3 exists
 P008,scanned,under 200 characters
-P008,no_section_3,No section 3 exists
 P013,scanned,under 200 characters
-P013,no_section_3,No section 3 exists
 P022,scanned,under 200 characters
-P022,no_section_3,No section 3 exists
 P024,scanned,under 200 characters
-P024,no_section_3,No section 3 exists
 P026,scanned,under 200 characters
-P026,no_section_3,No section 3 exists
 P031,scanned,under 200 characters
-P031,no_section_3,No section 3 exists
 P034,no_cas,No CAS available
 P048,no_section_3,No section 3 exists
 P049,scanned,under 200 characters
-P049,no_section_3,No section 3 exists
 P055,scanned,under 200 characters
-P055,no_section_3,No section 3 exists
+P072,no_cas,No CAS available
 P075,scanned,under 200 characters
-P075,no_section_3,No section 3 exists
 P085,scanned,under 200 characters
-P085,no_section_3,No section 3 exists
 P088,no_cas,No CAS available
 P092,no_cas,No CAS available
 P097,scanned,under 200 characters
-P097,no_section_3,No section 3 exists
 P104,no_cas,No CAS available
 P113,scanned,under 200 characters
-P113,no_section_3,No section 3 exists
 P115,no_cas,No CAS available

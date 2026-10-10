@@ -88,3 +88,23 @@ Propellant 0-5
     flag, evidence = check_undisclosed(section)
     assert flag is True
     assert evidence == "no CAS for: Propellant"
+
+def test_en_dash_range():
+    assert parse_concentration("3 – 4% YES") == (3.0, 4.0)
+
+
+def test_en_dash_range_with_decimal():
+    assert parse_concentration("0.5 – 1%") == (0.5, 1.0)
+
+
+def test_percent_and_bound_inside_range():
+    assert parse_concentration("1% - < 3%") == (1.0, 3.0)
+
+
+def test_bounds_on_both_ends():
+    assert parse_concentration(">=5.0 – <=10.0") == (5.0, 10.0)
+
+
+def test_footer_date_is_not_an_ingredient():
+    line = "HIL00470 Version #: 02 Revision date: 12-19-2018 Issue date: 01-22-2015 1 / 6"
+    assert parse_ingredients(line) == []

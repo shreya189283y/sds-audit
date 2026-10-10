@@ -52,10 +52,14 @@ class Ingredient:
     raw_line: str
 
 NUM = r"(\d+(?:\.\d+)?)"
+RANGE = (r"(?<![\d.\-/])(?:[<>]=?\s*)?" + NUM
+         + r"\s*%?\s*(?:-|–|—|to)\s*(?:[<>]=?\s*)?" + NUM
+         + r"(?!\d|\.\d|\s*[-/]\s*\d)")
+
 # Structure of Section 3 = includes the chemical name, CAS number, and weight % and some form of hazadorous status (usually)
 def parse_concentration(text):
     #1 - Range: 1-5%, 1 - 5, of 1 to 5 are all options
-    m = re.search(NUM + r"\s*(?:-|to)\s*"+ NUM, text)
+    m = re.search(RANGE, text)
     if m:
         low,high = float(m.group(1)), float(m.group(2))
         if low <= 100 and high <= 100:
@@ -79,7 +83,7 @@ def parse_concentration(text):
     return None,None
 
 def find_range(text):
-    return re.search(NUM + r"\s*(?:-|to)\s*" + NUM + r"|[<>]=?\s*" + NUM, text)
+    return re.search(RANGE + r"|[<>]=?\s*" + NUM, text)
 def parse_ingredients(section3):
     results = []
     stripped_list = []
