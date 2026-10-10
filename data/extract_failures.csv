@@ -14,13 +14,11 @@ P026,no_section_3,No section 3 exists
 P031,scanned,under 200 characters
 P031,no_section_3,No section 3 exists
 P034,no_cas,No CAS available
-P040,no_section_3,No section 3 exists
 P048,no_section_3,No section 3 exists
 P049,scanned,under 200 characters
 P049,no_section_3,No section 3 exists
 P055,scanned,under 200 characters
 P055,no_section_3,No section 3 exists
-P070,no_section_3,No section 3 exists
 P075,scanned,under 200 characters
 P075,no_section_3,No section 3 exists
 P085,scanned,under 200 characters
@@ -30,7 +28,6 @@ P092,no_cas,No CAS available
 P097,scanned,under 200 characters
 P097,no_section_3,No section 3 exists
 P104,no_cas,No CAS available
-P110,no_section_3,No section 3 exists
 P113,scanned,under 200 characters
 P113,no_section_3,No section 3 exists
 P115,no_cas,No CAS available

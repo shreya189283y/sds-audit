@@ -17,6 +17,7 @@ if 3 not in sections:
     sys.exit()
 
 section3 = sections[3]
+print(section3)
 results = parse_ingredients(section3)
 
 for item in results:

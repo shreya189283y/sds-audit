@@ -240,6 +240,11 @@ P039,CI 74180,1330-38-7,0.0,0.1,True,trade secret,CI 74180 1330-38-7 <0.1
 P039,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
 P039,Yellow 5,1934-21-0,0.0,0.1,True,trade secret,Yellow 5 1934-21-0 <0.1
 P039,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
+P040,Dodecyl benzyl sulfonic acid Corrosive,27176-87-0,0.0,6.0,False,,Dodecyl benzyl sulfonic acid Corrosive 27176-87-0 N/A N/A < 6.0
+P040,Silica (No respirable quartz) N/A,14808-60-7,0.0,40.0,False,,Silica (No respirable quartz) N/A 14808-60-7 0.1mg/M3 0.1mg/M3 < 40.0
+P040,Nonoxynol Irritant,9016-45-9,0.0,6.0,False,,Nonoxynol Irritant 9016-45-9 N/A N/A < 6.0
+P040,Water,7732-18-5,0.0,50.0,False,,Water 7732-18-5 N/A N/A < 50.0
+P040,Potassium Persulfate Oxidizer,37222-66-5,0.0,1.0,False,,Potassium Persulfate Oxidizer 37222-66-5 N/A N/A < 1
 P041,SODIUM LAURETH SULPHATE 500-234-8,68891-38-3,1.0,5.0,False,,SODIUM LAURETH SULPHATE 500-234-8 68891-38-3 1-5%
 P042,,770-35-4,,,True,proprietary,770-35-4 Propylene glycol phenyl ether Proprietary
 P043,Water,7732-18-5,40.0,70.0,True,trade secret,Water 7732-18-5 40-70
@@ -360,6 +365,8 @@ P069,Polypropylene,9003-07-0,3.5,3.5,False,,Polypropylene 9003-07-0 3.5
 P069,"Silica gel, precipitated",112926-00-8,1.2,1.2,False,,"Silica gel, precipitated 112926-00-8 1.2"
 P069,"Gas oils (petroleum), hydrotreated vacuum",64742-59-2,0.5,0.5,False,,"Gas oils (petroleum), hydrotreated vacuum 64742-59-2 0.5"
 P069,Natural rubber,9006-04-6,0.5,0.5,False,,Natural rubber 9006-04-6 0.5
+P070,Dimethly Benzyl Ammonium,68391-01-5,1.6,1.6,False,,Dimethly Benzyl Ammonium 68391-01-5 1.60 % NA No
+P070,Ammonium Chloride,27479-28-3,1.6,1.6,False,,Ammonium Chloride 27479-28-3 1.60 % NA No
 P071,Diethylene glycol butyl ether,112-34-5,1.0,5.0,False,,Diethylene glycol butyl ether 112-34-5 1 - 5% 4500 =2700 mg/kg Not available
 P071,2-butoxyethanol,111-76-2,1.0,5.0,False,,2-butoxyethanol 111-76-2 1 - 5% 1400 =220 mg/kg =450 ppm (4 h)
 P071,Ethylene glycol phenyl ether,122-99-6,0.1,1.5,False,,Ethylene glycol phenyl ether 122-99-6 0.1 - 1.5% 1260 =5 mL/kg Not available
@@ -490,6 +497,15 @@ P108,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazoli
 P109,PHOSPHORIC ACID,7664-38-2,18.0,20.0,True,trade secret,PHOSPHORIC ACID 7664-38-2 18-20% YES
 P109,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,2.0,3.0,True,trade secret,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 2-3% YES
 P109,2-BUTOXYETHANOL,111-76-2,1.0,2.0,True,trade secret,2-BUTOXYETHANOL 111-76-2 1-2% YES
+P110,Water,7732-18-5,40.0,70.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Water 7732-18-5 40 - 70 NA NA
+P110,Diethylene glycol monobutyl ether,112-34-5,5.0,10.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Diethylene glycol monobutyl ether 112-34-5 5 - 10 NA NA
+P110,Tripropylene glycol methyl ether,25498-49-1,5.0,10.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Tripropylene glycol methyl ether 25498-49-1 5 - 10 NA NA
+P110,Naphthalene sodium sulfonate,26264-58-4,5.0,10.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Naphthalene sodium sulfonate 26264-58-4 5 - 10 NA NA
+P110,Viable bacterial cultures NA,,3.0,7.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Viable bacterial cultures NA 3 - 7 NA NA
+P110,Linear primary alcohol ethoxylate,34398-01-1,1.0,5.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Linear primary alcohol ethoxylate 34398-01-1 1 - 5 NA NA
+P110,Tetrasodium ethylenediamine tetraacetate,64-02-8,1.0,5.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Tetrasodium ethylenediamine tetraacetate 64-02-8 1 - 5 NA NA
+P110,Diacetone alcohol,123-42-2,0.5,1.5,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Diacetone alcohol 123-42-2 0.5 - 1.5 50 ppm 238 mg/m3
+P110,Fragrance NA,,0.0,0.1,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Fragrance NA < 0.1 NA NA
 P111,Inert and Non-Hazardous Ingredients Proprietary 100.00%,,100.0,100.0,True,proprietary,Inert and Non-Hazardous Ingredients Proprietary 100.00%
 P112,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
 P112,Caprylyl/Capryl Glucoside,68515-73-1,1.0,5.0,True,trade secret,Caprylyl/Capryl Glucoside 68515-73-1 1-5
