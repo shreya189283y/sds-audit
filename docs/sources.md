@@ -175,13 +175,15 @@ The silica and titanium dioxide listings apply only to airborne particles of
 respirable size. A match on these is stored with a `condition` and must be
 read against the product's form. Titanium dioxide in a liquid is not the
 listed hazard.
-
+Ethylene glycol (107-21-1) and carbon black (1333-86-4) are also conditional.
+Their Prop 65 names state the condition: "Ethylene glycol (ingested)" and
+"Carbon black (airborne, unbound particles of respirable size)". lookup()
+reads the condition from the name, so these score MEDIUM, not HIGH.
 ### Glyphosate salts
 
 Products list glyphosate as a salt, not as glyphosate itself. OEHHA's 2017
 notice names five salts as relevant because they dissociate to free
-glyphosate. Only those five are mapped. The potassium salt (70901-12-1) is
-not named in the notice and is not mapped.
+glyphosate. Only those five are mapped. 
 
 ### Checked and deliberately not mapped
 

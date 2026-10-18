@@ -54,7 +54,7 @@ P052,EZ Plus Gym Coat N Seal,,HIGH,2,True,"[{""list_name"": ""Prop 65"", ""endpo
 P053,FiberPRO Spot Bet,,LOW,0,False,[]
 P054,FINAL COAT,,UNDISCLOSED,0,True,[]
 P055,,,UNREADABLE,0,False,[]
-P056,FP-575,,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""107-21-1""}]"
+P056,FP-575,,MEDIUM,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": ""Ethylene glycol (ingested)"", ""cas"": ""107-21-1""}]"
 P057,GLASS CLEANER,,UNDISCLOSED,0,True,[]
 P058,Product Name: GREEN SOLUTIONS INDUSTRIAL CLEANER,,UNDISCLOSED,0,True,[]
 P059,Product Name: GS HIGH DILUTION DISINFECTANT 256,,UNDISCLOSED,0,True,[]
@@ -87,7 +87,7 @@ P085,,,UNREADABLE,0,False,[]
 P086,Product Name Quali-Pro Oxadiazon 2G,,HIGH,2,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19666-30-9""}, {""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19666-30-9""}]"
 P087,Ranger PRO® Herbicide,,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Glyphosate"", ""condition"": """", ""cas"": ""38641-94-0""}]"
 P088,Product name Refresh Azure FOAM,,LOW,0,False,[]
-P089,Roundup PROMAX® Herbicide,,UNDISCLOSED,0,True,[]
+P089,Roundup PROMAX® Herbicide,,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Glyphosate"", ""condition"": """", ""cas"": ""70901-12-1""}]"
 P090,Product Name: SANI-T-10,,UNDISCLOSED,0,True,[]
 P091,Product Name: SHINELINE SEAL,,UNDISCLOSED,0,True,[]
 P092,Silicone Defoamer,,LOW,0,False,[]
@@ -101,7 +101,7 @@ P099,SPEED GLOSS,,UNDISCLOSED,0,True,[]
 P100,Spot Bet,,UNDISCLOSED,0,True,[]
 P101,Stainless Steel/All-Purpose Cleaner & Polish- Aerosol Product Use: Water based cleaner / polish.,,UNDISCLOSED,0,True,[]
 P102,STAINLESS STEEL POLISH & CLEANER (OIL BASE),,UNDISCLOSED,0,True,[]
-P103,Product Name: STRAIGHT SEAL,,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""107-21-1""}]"
+P103,Product Name: STRAIGHT SEAL,,MEDIUM,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": ""Ethylene glycol (ingested)"", ""cas"": ""107-21-1""}]"
 P104,Super Defoamer,,LOW,0,False,[]
 P105,SUPER STRIP,,HIGH,2,True,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}]"
 P106,Product Description: Surflan AS AG,,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19044-88-3""}]"

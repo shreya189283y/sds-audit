@@ -43,3 +43,7 @@ def test_empty_product():
 def test_flags_remember_cas():
     flags = score([NMP, WATER], False)["flags"]
     assert all(flag["cas"] == NMP for flag in flags)
+
+
+def test_ethylene_glycol_scores_medium():
+    assert score(["107-21-1", WATER], False)["level"] == "MEDIUM"

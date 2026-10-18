@@ -53,3 +53,13 @@ def test_glyphosate_salt_through_group():
     hits = lookup("38641-94-0")
     assert "Prop 65" in list_names(hits)
     assert hits[0]["via_group"] == "Glyphosate"
+
+
+def test_ethylene_glycol_is_conditional():
+    hits = lookup("107-21-1")
+    assert hits[0]["list_name"] == "Prop 65"
+    assert "ingested" in hits[0]["condition"]
+
+
+def test_nmp_is_not_conditional():
+    assert all(h["condition"] == "" for h in lookup("872-50-4"))
