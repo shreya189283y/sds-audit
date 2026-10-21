@@ -25,6 +25,11 @@ TITLES = {1: "identification", 2: r"hazards?(?!ous)",
           9: "physical", 10: "stability", 11: "toxicolog", 12: "ecolog",
           13: "disposal", 14: "transport", 15: "regulatory", 16: "other"}
 
+NO_CAS_BY_NATURE = re.compile(r"bacteri|spores|cultures", re.I)
+IDENTITY_HIDDEN = re.compile(
+    r"other\s+ingredients|inert\s+ingredients|chemical identity is being withheld", re.I)
+SECRET_WORDS = re.compile(r"trade secret|proprietary|confidential|withheld|\bcbi\b", re.I)
+
 def split_sections(text):
     starts = []
     for num, word in TITLES.items():
@@ -89,7 +94,7 @@ def parse_ingredients(section3):
     stripped_list = []
     lines = section3.splitlines()
     for i in lines:
-        if i == "":
+        if re.search(r"below reportable levels", i, re.I):
             continue
         else:
             stripped_i = i.strip()
@@ -127,22 +132,18 @@ def parse_ingredients(section3):
     return results 
 
 def check_undisclosed(section3):
-    keywords = ["trade secret", "proprietary", "confidential", "withheld"]
-    text = section3.lower()
-    for key in keywords:
-        if key in text:
-            return True, key
-    if re.search(r"\bcbi\b", text):
-        return True, "cbi"
     valid, invalid = find_cas(section3)
     if not valid:
         return True, "no valid CAS numbers"
-    results = parse_ingredients(section3)
-    missing = []
-    for r in results:
-        if r.cas is None:
-            missing.append(r.name)
+    rows = parse_ingredients(section3)
+    missing = [r.name for r in rows
+               if r.cas is None and not NO_CAS_BY_NATURE.search(r.name)]
     if missing:
         return True, "no CAS for: " + "; ".join(missing)
+    m = IDENTITY_HIDDEN.search(section3)
+    if m:
+        return True, "identity withheld: " + m.group(0)
+    if SECRET_WORDS.search(section3):
+        return False, "exact % withheld only"
     return False, ""
 

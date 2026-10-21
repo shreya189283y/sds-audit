@@ -35,8 +35,20 @@ Conditional matches also go here. The Prop 65 listings for crystalline silica
 and titanium dioxide apply only to airborne particles of respirable size, so
 whether they apply depends on the product's form.
 
-**UNDISCLOSED.** If part of the formula is hidden, the tool cannot check it.
-Calling the product LOW would claim more than the tool knows.
+## UNDISCLOSED (updated before validation)
+
+UNDISCLOSED means at least one ingredient's identity is hidden: a row with
+no CAS number, or a statement that "other ingredients" or a chemical
+identity is withheld.
+
+Not UNDISCLOSED:
+- Every ingredient is named with a CAS and only the exact percentage is
+  hidden. The tool notes "exact % withheld only" but does not flag it.
+- "Other components below reportable levels." This is a legal threshold
+  statement, not a hidden ingredient.
+- Bacterial spores or cultures. These have no CAS by nature.
+
+Order: HIGH > UNDISCLOSED > MEDIUM > LOW.
 
 **LOW (no list matches).** Every disclosed ingredient was checked and none
 appeared on the four lists.
