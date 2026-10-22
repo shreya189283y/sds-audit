@@ -64,3 +64,53 @@ if "results" in st.session_state:
     shown = shown.sort_values("RANK", ascending=False)
     shown["product_name"]=shown["product_name"].str.replace(r"^(Product\s*(Name|name|Description)|Trade name)\s*:?\s*", "", regex=True)
     st.dataframe(shown[["product_id", "product_name", "level", "n_flags"]],hide_index=True, use_container_width=True)
+
+    st.subheader("Product detail")
+
+    labels = (df["product_id"] + ": " + df["product_name"].fillna("(no name)").astype(str)).tolist()
+    pick = st.selectbox("Pick a product", labels)
+    pid = pick.split(":")[0]
+    row = df[df["product_id"] == pid].iloc[0]
+    level = row["level"]
+
+    if level == "HIGH":
+        st.error("HIGH: at least one ingredient is on Prop 65, EU SVHC, or EU ED List I.")
+    elif level == "MEDIUM":
+        st.warning("MEDIUM: matches only EU ED List II or III, or a conditional listing.")
+    elif level == "UNDISCLOSED":
+        st.warning("UNDISCLOSED: no list matches, but an ingredient's identity is hidden.")
+    elif level == "LOW":
+        st.info("LOW: no list matches and every ingredient is named. Not proof of safety.")
+    else:
+        st.error("UNREADABLE: could not read this SDS. Check it by hand.")
+
+    if "rule" in row.index and not pd.isna(row["rule"]):
+        st.caption(f"Rule applied: {row['rule']}")
+
+    if str(row["undisclosed"]) == "True":
+        st.write("At least one ingredient's identity is withheld by the manufacturer.")
+        if "evidence" in row.index and not pd.isna(row["evidence"]) and row["evidence"]:
+            st.caption(f"Evidence: {row['evidence']}")
+
+    flags_text = row["flags_json"]
+    if pd.isna(flags_text) or flags_text in ("", "[]"):
+        if level != "UNREADABLE":
+            st.write("No list matches.")
+    else:
+        st.markdown("**Flagged chemicals**")
+        for flag in json.loads(flags_text):
+            line = (f"- **CAS {flag['cas']}** on "
+                    f"[{flag['list_name']}]({flag['source_url']}): {flag['endpoint']}")
+            if flag.get("via_group"):
+                line += f" (listed as: {flag['via_group']})"
+            if flag.get("condition"):
+                line += f". Applies only: {flag['condition']}"
+            st.markdown(line)
+
+    st.subheader("Download")
+    st.download_button(
+        "Download audit (CSV)",
+        data=df.to_csv(index=False),
+        file_name="sds_audit.csv",
+        mime="text/csv",
+    )
