@@ -53,8 +53,8 @@ Agreement: 12 of 35 products.
 
 ## Chemical level
 
-Found by both: 10
-Manual only (tool missed): 37
+Found by both: 11
+Manual only (tool missed): 36
 Tool only (not in manual review): 2
 
 ### Manual only
@@ -76,7 +76,6 @@ Tool only (not in manual review): 2
 | P054 | 822-06-0 | Hexamethylene-1,6-Diisocyanate / HDI | list gap | HDI is on none of the four lists. |
 | P058 | 26172-55-4 | MCI | list gap | MCI is on none of the four lists. |
 | P058 | 2682-20-4 | MIT | list gap | MIT is on none of the four lists. |
-| P069 | 7440-38-2 | Arsenic | extraction error | Arsenic is Prop 65 listed but was not matched. CHECK Section 3 of P069 for how arsenic is written. |
 | P076 | 26172-55-4 | MCI | list gap | MCI is on none of the four lists. |
 | P076 | 2682-20-4 | MIT | list gap | MIT is on none of the four lists. |
 | P079 | 26172-55-4 | Methylchloroisothiazolinone/Methylisothiazolinone | list gap | MCI is on none of the four lists. |

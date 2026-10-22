@@ -16,9 +16,9 @@ RESULTS = "data/results.csv"
 OUT = "docs/validation_v1.md"
 LABELS = "docs/disagreements.csv" 
 
-MANUAL_LEVELS = ["HIGH", "MEDIUM", "LOW", "NONE"]
+MANUAL_LEVELS = ["HIGH", "MEDIUM","UNDISCLOSED", "LOW", "NONE"]
 TOOL_LEVELS = ["HIGH", "MEDIUM", "UNDISCLOSED", "LOW", "UNREADABLE"]
-RANK = {"NONE": 0, "LOW": 1, "MEDIUM": 2, "HIGH": 3}
+RANK = {"NONE": 0, "LOW": 1,"UNDISCLOSED":2, "MEDIUM": 2, "HIGH": 3}
 
 SAME_MEANING = {("NONE", "LOW")}
 SAFER_LISTS = {"EPA SCIL"}

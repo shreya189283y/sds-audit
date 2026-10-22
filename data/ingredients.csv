@@ -1,265 +1,261 @@
 product_id,name,cas,conc_min,conc_max,undisclosed,evidence,raw_line
-P001,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P001,Undeceth-3,34398-01-1,1.0,5.0,True,trade secret,Undeceth-3 34398-01-1 1-5
-P001,Hydrogen Peroxide,7722-84-1,1.0,5.0,True,trade secret,Hydrogen Peroxide 7722-84-1 1-5
-P001,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,trade secret,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
-P001,3-Isodecyloxypropanamine Chloride Ethoxylated,68478-94-4,1.0,5.0,True,trade secret,3-Isodecyloxypropanamine Chloride Ethoxylated 68478-94-4 1-5
-P001,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P001,Methyldihydrojasmonate,24851-98-7,0.0,0.1,True,trade secret,Methyldihydrojasmonate 24851-98-7 <0.1
-P001,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,trade secret,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
-P001,Acid Blue 80,4474-24-2,0.0,0.1,True,trade secret,Acid Blue 80 4474-24-2 <0.1
-P001,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P002,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P002,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,1.0,5.0,True,trade secret,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 1-5
-P002,C9-11 Alcohols Ethoxylated,68439-46-3,0.1,1.0,True,trade secret,C9-11 Alcohols Ethoxylated 68439-46-3 0.1-1
-P002,Isopropyl Alcohol,67-63-0,0.1,1.0,True,trade secret,Isopropyl Alcohol 67-63-0 0.1-1
-P002,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P002,Terpineol Acetate,8007-35-0,0.0,0.1,True,trade secret,Terpineol Acetate 8007-35-0 <0.1
-P002,Sodium Hydroxide,1310-73-2,0.0,0.1,True,trade secret,Sodium Hydroxide 1310-73-2 <0.1
-P002,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P002,Ethylene Brassylate,105-95-3,0.0,0.1,True,trade secret,Ethylene Brassylate 105-95-3 <0.1
-P002,Diphenyl Ether,101-84-8,0.0,0.1,True,trade secret,Diphenyl Ether 101-84-8 <0.1
-P002,4-Tert-Butylcyclohexyl Acetate,32210-23-4,0.0,0.1,True,trade secret,4-Tert-Butylcyclohexyl Acetate 32210-23-4 <0.1
-P002,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,trade secret,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
-P002,Isobornyl Acetate,125-12-2,0.0,0.1,True,trade secret,Isobornyl Acetate 125-12-2 <0.1
-P002,Eucalyptol,470-82-6,0.0,0.1,True,trade secret,Eucalyptol 470-82-6 <0.1
-P002,Benzyl Acetate,140-11-4,0.0,0.1,True,trade secret,Benzyl Acetate 140-11-4 <0.1
-P002,Anisaldehyde,123-11-5,0.0,0.1,True,trade secret,Anisaldehyde 123-11-5 <0.1
-P002,Acetoxydihydrodicyclopentadiene,54830-99-8,0.0,0.1,True,trade secret,Acetoxydihydrodicyclopentadiene 54830-99-8 <0.1
-P002,Colorant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Colorant PROPRIETARY <0.1
-P002,Acid Blue 9,3844-45-9,0.0,0.1,True,trade secret,Acid Blue 9 3844-45-9 <0.1
-P003,Methyl Pyrrolidone,872-50-4,3.0,5.0,True,no CAS for: Other components below reportable levels,Methyl Pyrrolidone 872-50-4 3 - < 5
-P003,Triethylamine,121-44-8,1.0,3.0,True,no CAS for: Other components below reportable levels,Triethylamine 121-44-8 1 - < 3
-P003,Other components below reportable levels,,90.0,100.0,True,no CAS for: Other components below reportable levels,Other components below reportable levels 90 - 100
-P005,Urea (85% - 95%),57-13-6,,,True,proprietary,Urea (85% - 95%) 57-13-6
-P005,Sulfur (4% - 13%),7704-34-9,,,True,proprietary,Sulfur (4% - 13%) 7704-34-9
-P005,Polymer Coating (,,0.0,5.0,True,proprietary,Polymer Coating (<5%) Mixture
-P005,Non-Hazardous Dye (<0.1%) Proprietary,,0.0,0.1,True,proprietary,Non-Hazardous Dye (<0.1%) Proprietary
-P005,"Urea (Carbamide, carbonyldiamide,",57-13-6,,,True,proprietary,"Urea (Carbamide, carbonyldiamide, 57-13-6"
-P005,carbamidic acid) (,,97.5,99.7,True,proprietary,carbamidic acid) (97.5% - 99.7%)
-P005,Methylenediurea (0% - 2.5%),13547-17-6,,,True,proprietary,Methylenediurea (0% - 2.5%) 13547-17-6
-P005,Biuret (0% - 1.5%),108-19-0,,,True,proprietary,Biuret (0% - 1.5%) 108-19-0
-P005,Potassium Chloride (95% - 99.8%),7447-40-7,,,True,proprietary,Potassium Chloride (95% - 99.8%) 7447-40-7
-P005,Sodium Chloride (0.1% - 4%),7647-14-5,17.7,17.7,True,proprietary,Sodium Chloride (0.1% - 4%) 7647-14-5 C = 17.7%
-P005,Calcium Sulfate (0.2% - 2.5%),7778-18-9,,,True,proprietary,Calcium Sulfate (0.2% - 2.5%) 7778-18-9
-P005,Calcium Limestone (80% - 100%),1317-65-3,,,True,proprietary,Calcium Limestone (80% - 100%) 1317-65-3
-P005,Carbonate Quartz (SiO ) (20%),14808-60-7,,,True,proprietary,Carbonate Quartz (SiO ) (20%) 14808-60-7
-P005,Monobasic ammonium phosphate (70% -,7722-76-1,,,True,proprietary,Monobasic ammonium phosphate (70% - 7722-76-1
-P005,,,,,True,proprietary,11-52-0
-P005,Ammonium sulfate (5.5% - 7.5%),7783-20-2,,,True,proprietary,Ammonium sulfate (5.5% - 7.5%) 7783-20-2
-P005,Iron sucrate Iron oxide (70 % - < 80 %),1317-61-9,3.7,3.7,True,proprietary,Iron sucrate Iron oxide (70 % - < 80 %) 1317-61-9 C = 3.7%
-P005,Calcium sulfate (3 %- < 5 %),7778-18-9,,,True,proprietary,Calcium sulfate (3 %- < 5 %) 7778-18-9
-P005,(,,20.0,30.0,True,proprietary,(20 % - < 30 %)
-P005,Ferric Oxide (60% - 100%),1309-37-1,,,True,proprietary,Ferric Oxide (60% - 100%) 1309-37-1
-P005,(,,1.0,5.0,True,proprietary,(1% - 5%)
-P005,Silica (0.5% - 1.5%),7631-86-9,,,True,proprietary,Silica (0.5% - 1.5%) 7631-86-9
-P006,WATER,7732-18-5,40.0,70.0,True,trade secret,WATER 7732-18-5 40 - 70 Trade Secret *
-P006,WHITE MINERAL OIL (PETROLEUM),8042-47-5,10.0,30.0,True,trade secret,WHITE MINERAL OIL (PETROLEUM) 8042-47-5 10 - 30 Trade Secret *
-P006,ISOBUTANE,75-28-5,7.0,13.0,True,trade secret,ISOBUTANE 75-28-5 7 - 13 Trade Secret *
-P006,SORBITAN OLEATE,1338-43-8,0.5,1.5,True,trade secret,SORBITAN OLEATE 1338-43-8 0.5 - 1.5 Trade Secret *
-P006,ETHANOLAMINE,141-43-5,0.1,1.0,True,trade secret,ETHANOLAMINE 141-43-5 0.1 - 1 Trade Secret *
+P001,Water,7732-18-5,80.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Water 7732-18-5 80-100
+P001,Undeceth-3,34398-01-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Undeceth-3 34398-01-1 1-5
+P001,Hydrogen Peroxide,7722-84-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Hydrogen Peroxide 7722-84-1 1-5
+P001,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
+P001,3-Isodecyloxypropanamine Chloride Ethoxylated,68478-94-4,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,3-Isodecyloxypropanamine Chloride Ethoxylated 68478-94-4 1-5
+P001,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P001,Methyldihydrojasmonate,24851-98-7,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Methyldihydrojasmonate 24851-98-7 <0.1
+P001,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
+P001,Acid Blue 80,4474-24-2,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Acid Blue 80 4474-24-2 <0.1
+P001,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P002,Water,7732-18-5,80.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Water 7732-18-5 80-100
+P002,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 1-5
+P002,C9-11 Alcohols Ethoxylated,68439-46-3,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,C9-11 Alcohols Ethoxylated 68439-46-3 0.1-1
+P002,Isopropyl Alcohol,67-63-0,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Isopropyl Alcohol 67-63-0 0.1-1
+P002,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P002,Terpineol Acetate,8007-35-0,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Terpineol Acetate 8007-35-0 <0.1
+P002,Sodium Hydroxide,1310-73-2,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Sodium Hydroxide 1310-73-2 <0.1
+P002,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P002,Ethylene Brassylate,105-95-3,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Ethylene Brassylate 105-95-3 <0.1
+P002,Diphenyl Ether,101-84-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Diphenyl Ether 101-84-8 <0.1
+P002,4-Tert-Butylcyclohexyl Acetate,32210-23-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,4-Tert-Butylcyclohexyl Acetate 32210-23-4 <0.1
+P002,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
+P002,Isobornyl Acetate,125-12-2,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Isobornyl Acetate 125-12-2 <0.1
+P002,Eucalyptol,470-82-6,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Eucalyptol 470-82-6 <0.1
+P002,Benzyl Acetate,140-11-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Benzyl Acetate 140-11-4 <0.1
+P002,Anisaldehyde,123-11-5,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Anisaldehyde 123-11-5 <0.1
+P002,Acetoxydihydrodicyclopentadiene,54830-99-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Acetoxydihydrodicyclopentadiene 54830-99-8 <0.1
+P002,Colorant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Colorant PROPRIETARY <0.1
+P002,Acid Blue 9,3844-45-9,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Acid Blue 9 3844-45-9 <0.1
+P003,Methyl Pyrrolidone,872-50-4,3.0,5.0,False,,Methyl Pyrrolidone 872-50-4 3 - < 5
+P003,Triethylamine,121-44-8,1.0,3.0,False,,Triethylamine 121-44-8 1 - < 3
+P005,Urea (85% - 95%),57-13-6,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Urea (85% - 95%) 57-13-6
+P005,Sulfur (4% - 13%),7704-34-9,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Sulfur (4% - 13%) 7704-34-9
+P005,Polymer Coating (,,0.0,5.0,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Polymer Coating (<5%) Mixture
+P005,Non-Hazardous Dye (<0.1%) Proprietary,,0.0,0.1,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Non-Hazardous Dye (<0.1%) Proprietary
+P005,"Urea (Carbamide, carbonyldiamide,",57-13-6,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,"Urea (Carbamide, carbonyldiamide, 57-13-6"
+P005,carbamidic acid) (,,97.5,99.7,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,carbamidic acid) (97.5% - 99.7%)
+P005,Methylenediurea (0% - 2.5%),13547-17-6,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Methylenediurea (0% - 2.5%) 13547-17-6
+P005,Biuret (0% - 1.5%),108-19-0,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Biuret (0% - 1.5%) 108-19-0
+P005,Potassium Chloride (95% - 99.8%),7447-40-7,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Potassium Chloride (95% - 99.8%) 7447-40-7
+P005,Sodium Chloride (0.1% - 4%),7647-14-5,17.7,17.7,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Sodium Chloride (0.1% - 4%) 7647-14-5 C = 17.7%
+P005,Calcium Sulfate (0.2% - 2.5%),7778-18-9,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Calcium Sulfate (0.2% - 2.5%) 7778-18-9
+P005,Calcium Limestone (80% - 100%),1317-65-3,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Calcium Limestone (80% - 100%) 1317-65-3
+P005,Carbonate Quartz (SiO ) (20%),14808-60-7,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Carbonate Quartz (SiO ) (20%) 14808-60-7
+P005,Monobasic ammonium phosphate (70% -,7722-76-1,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Monobasic ammonium phosphate (70% - 7722-76-1
+P005,,,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,11-52-0
+P005,Ammonium sulfate (5.5% - 7.5%),7783-20-2,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Ammonium sulfate (5.5% - 7.5%) 7783-20-2
+P005,Iron sucrate Iron oxide (70 % - < 80 %),1317-61-9,3.7,3.7,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Iron sucrate Iron oxide (70 % - < 80 %) 1317-61-9 C = 3.7%
+P005,Calcium sulfate (3 %- < 5 %),7778-18-9,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Calcium sulfate (3 %- < 5 %) 7778-18-9
+P005,(,,20.0,30.0,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,(20 % - < 30 %)
+P005,Ferric Oxide (60% - 100%),1309-37-1,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Ferric Oxide (60% - 100%) 1309-37-1
+P005,(,,1.0,5.0,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,(1% - 5%)
+P005,Silica (0.5% - 1.5%),7631-86-9,,,True,no CAS for: Polymer Coating (; Non-Hazardous Dye (<0.1%) Proprietary; carbamidic acid) (; ; (; (,Silica (0.5% - 1.5%) 7631-86-9
+P006,WATER,7732-18-5,40.0,70.0,False,exact % withheld only,WATER 7732-18-5 40 - 70 Trade Secret *
+P006,WHITE MINERAL OIL (PETROLEUM),8042-47-5,10.0,30.0,False,exact % withheld only,WHITE MINERAL OIL (PETROLEUM) 8042-47-5 10 - 30 Trade Secret *
+P006,ISOBUTANE,75-28-5,7.0,13.0,False,exact % withheld only,ISOBUTANE 75-28-5 7 - 13 Trade Secret *
+P006,SORBITAN OLEATE,1338-43-8,0.5,1.5,False,exact % withheld only,SORBITAN OLEATE 1338-43-8 0.5 - 1.5 Trade Secret *
+P006,ETHANOLAMINE,141-43-5,0.1,1.0,False,exact % withheld only,ETHANOLAMINE 141-43-5 0.1 - 1 Trade Secret *
 P007,Dipropylene glycol monomethyl ether,34590-94-8,1.0,5.0,False,,Dipropylene glycol monomethyl ether 34590-94-8 1-5
 P007,"Alcohols, Ethoxylated",68439-46-3,1.0,5.0,False,,"Alcohols, Ethoxylated 68439-46-3 1-5"
 P009,"Alcohols, Ethoxylated",34398-01-1,1.0,10.0,False,,"Alcohols, Ethoxylated 34398-01-1 1-10"
 P009,Alkylpolyglycoside,68515-73-1,1.0,5.0,False,,Alkylpolyglycoside 68515-73-1 1-5
 P009,Dipropylene glycol monomethyl ether,34590-94-8,1.0,5.0,False,,Dipropylene glycol monomethyl ether 34590-94-8 1-5
-P010,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P010,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,1.0,5.0,True,trade secret,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 1-5
-P010,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,trade secret,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
-P010,Isopropyl Alcohol,67-63-0,1.0,5.0,True,trade secret,Isopropyl Alcohol 67-63-0 1-5
-P010,Alcohol,64-17-5,0.1,1.0,True,trade secret,Alcohol 64-17-5 0.1-1
-P010,4-Tert-Butylcyclohexyl Acetate,32210-23-4,0.1,1.0,True,trade secret,4-Tert-Butylcyclohexyl Acetate 32210-23-4 0.1-1
-P010,Phenethyl Alcohol,60-12-8,0.1,1.0,True,trade secret,Phenethyl Alcohol 60-12-8 0.1-1
-P010,Citronellol,106-22-9,0.1,1.0,True,trade secret,Citronellol 106-22-9 0.1-1
-P010,Orange Terpenes,68647-72-3,0.1,1.0,True,trade secret,Orange Terpenes 68647-72-3 0.1-1
-P010,Limonene,5989-27-5,0.1,1.0,True,trade secret,Limonene 5989-27-5 0.1-1
-P010,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P010,Benzyl Acetate,140-11-4,0.0,0.1,True,trade secret,Benzyl Acetate 140-11-4 <0.1
-P010,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,trade secret,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
-P010,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P010,Linalyl Acetate,115-95-7,0.0,0.1,True,trade secret,Linalyl Acetate 115-95-7 <0.1
-P010,P-Methyl Acetophenone,122-00-9,0.0,0.1,True,trade secret,P-Methyl Acetophenone 122-00-9 <0.1
-P010,Amyl Cinnamal,122-40-7,0.0,0.1,True,trade secret,Amyl Cinnamal 122-40-7 <0.1
-P010,Terpineol Acetate,8007-35-0,0.0,0.1,True,trade secret,Terpineol Acetate 8007-35-0 <0.1
-P010,Benzyl Salicylate,118-58-1,0.0,0.1,True,trade secret,Benzyl Salicylate 118-58-1 <0.1
-P010,Cyclamen Aldehyde,103-95-7,0.0,0.1,True,trade secret,Cyclamen Aldehyde 103-95-7 <0.1
-P010,Hexamethylindanopyran,1222-05-5,0.0,0.1,True,trade secret,Hexamethylindanopyran 1222-05-5 <0.1
-P010,Colorant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Colorant PROPRIETARY <0.1
-P010,Sodium Hydroxide,1310-73-2,0.0,0.1,True,trade secret,Sodium Hydroxide 1310-73-2 <0.1
-P010,Coumarin,91-64-5,0.0,0.1,True,trade secret,Coumarin 91-64-5 <0.1
-P010,Terpineol,98-55-5,0.0,0.1,True,trade secret,Terpineol 98-55-5 <0.1
-P010,Geraniol,106-24-1,0.0,0.1,True,trade secret,Geraniol 106-24-1 <0.1
-P010,Undecylenal,112-45-8,0.0,0.1,True,trade secret,Undecylenal 112-45-8 <0.1
-P010,Methylbenzyl Acetate,93-92-5,0.0,0.1,True,trade secret,Methylbenzyl Acetate 93-92-5 <0.1
-P010,"1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)pent-1-en-3-on",7779-30-8,0.0,0.1,True,trade secret,"1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)pent-1-en-3-on 7779-30-8 <0.1"
-P010,Linalool,78-70-6,0.0,0.1,True,trade secret,Linalool 78-70-6 <0.1
+P010,Water,7732-18-5,80.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Water 7732-18-5 80-100
+P010,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 1-5
+P010,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
+P010,Isopropyl Alcohol,67-63-0,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Isopropyl Alcohol 67-63-0 1-5
+P010,Alcohol,64-17-5,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Alcohol 64-17-5 0.1-1
+P010,4-Tert-Butylcyclohexyl Acetate,32210-23-4,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,4-Tert-Butylcyclohexyl Acetate 32210-23-4 0.1-1
+P010,Phenethyl Alcohol,60-12-8,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Phenethyl Alcohol 60-12-8 0.1-1
+P010,Citronellol,106-22-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Citronellol 106-22-9 0.1-1
+P010,Orange Terpenes,68647-72-3,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Orange Terpenes 68647-72-3 0.1-1
+P010,Limonene,5989-27-5,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Limonene 5989-27-5 0.1-1
+P010,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P010,Benzyl Acetate,140-11-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Benzyl Acetate 140-11-4 <0.1
+P010,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
+P010,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P010,Linalyl Acetate,115-95-7,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Linalyl Acetate 115-95-7 <0.1
+P010,P-Methyl Acetophenone,122-00-9,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,P-Methyl Acetophenone 122-00-9 <0.1
+P010,Amyl Cinnamal,122-40-7,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Amyl Cinnamal 122-40-7 <0.1
+P010,Terpineol Acetate,8007-35-0,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Terpineol Acetate 8007-35-0 <0.1
+P010,Benzyl Salicylate,118-58-1,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Benzyl Salicylate 118-58-1 <0.1
+P010,Cyclamen Aldehyde,103-95-7,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Cyclamen Aldehyde 103-95-7 <0.1
+P010,Hexamethylindanopyran,1222-05-5,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Hexamethylindanopyran 1222-05-5 <0.1
+P010,Colorant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Colorant PROPRIETARY <0.1
+P010,Sodium Hydroxide,1310-73-2,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Sodium Hydroxide 1310-73-2 <0.1
+P010,Coumarin,91-64-5,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Coumarin 91-64-5 <0.1
+P010,Terpineol,98-55-5,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Terpineol 98-55-5 <0.1
+P010,Geraniol,106-24-1,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Geraniol 106-24-1 <0.1
+P010,Undecylenal,112-45-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Undecylenal 112-45-8 <0.1
+P010,Methylbenzyl Acetate,93-92-5,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Methylbenzyl Acetate 93-92-5 <0.1
+P010,"1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)pent-1-en-3-on",7779-30-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,"1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)pent-1-en-3-on 7779-30-8 <0.1"
+P010,Linalool,78-70-6,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Linalool 78-70-6 <0.1
 P011,"Alcohols, Ethoxylated",68439-46-3,1.0,5.0,False,,"Alcohols, Ethoxylated 68439-46-3 1-5"
 P011,Ethylenediamine tetraacetate,64-02-8,1.0,5.0,False,,Ethylenediamine tetraacetate 64-02-8 1-5
 P011,Sodium Carbonate,497-19-8,1.0,5.0,False,,Sodium Carbonate 497-19-8 1-5
 P011,Sodium Xylene Sulfonate,1300-72-7,1.0,5.0,False,,Sodium Xylene Sulfonate 1300-72-7 1-5
-P012,Isopropylamine salt of glyphosate,38641-94-0,41.0,41.0,True,trade secret,Isopropylamine salt of glyphosate 38641-94-0 41.0
-P012,Surfactant blend (proprietary) >=5.0 – <=10.0,,5.0,10.0,True,trade secret,Surfactant blend (proprietary) >=5.0 – <=10.0
-P014,Methyl Pyrrolidone,872-50-4,1.0,3.0,True,no CAS for: Other components below reportable levels,Methyl Pyrrolidone 872-50-4 1 - < 3
-P014,Propoxypropanol,1569-01-3,1.0,3.0,True,no CAS for: Other components below reportable levels,Propoxypropanol 1569-01-3 1 - < 3
-P014,Other components below reportable levels,,90.0,100.0,True,no CAS for: Other components below reportable levels,Other components below reportable levels 90 - 100
+P012,Isopropylamine salt of glyphosate,38641-94-0,41.0,41.0,True,no CAS for: Surfactant blend (proprietary) >=5.0 – <=10.0,Isopropylamine salt of glyphosate 38641-94-0 41.0
+P012,Surfactant blend (proprietary) >=5.0 – <=10.0,,5.0,10.0,True,no CAS for: Surfactant blend (proprietary) >=5.0 – <=10.0,Surfactant blend (proprietary) >=5.0 – <=10.0
+P014,Methyl Pyrrolidone,872-50-4,1.0,3.0,False,,Methyl Pyrrolidone 872-50-4 1 - < 3
+P014,Propoxypropanol,1569-01-3,1.0,3.0,False,,Propoxypropanol 1569-01-3 1 - < 3
 P015,dipropylene glycol (CAS-No.),110-98-5,90.0,95.0,True,no CAS for: Biodac,"dipropylene glycol (CAS-No.) 110-98-5 90-95 Eye Irrit. 2B, H320"
 P015,Biodac,,1.0,10.0,True,no CAS for: Biodac,"Biodac 1-10 Skin Irrit. 2, H315"
 P016,Sodium poly acrylate,9003-04-7,98.9,98.9,False,,Sodium poly acrylate 9003-04-7 98.9
 P016,"Terpenes and Terpenoids, sweet orange-oil",68647-72-3,0.193,0.193,False,,"Terpenes and Terpenoids, sweet orange-oil 68647-72-3 0.193"
 P016,Precipitated silica,112926-00-8,0.462,0.462,False,,Precipitated silica 112926-00-8 0.462
 P016,"Hydrocarbons, terpene processing by-products",68956-56-9,0.132,0.132,False,,"Hydrocarbons, terpene processing by-products 68956-56-9 0.132"
-P017,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P017,Caprylyl/Capryl Glucoside,68515-73-1,1.0,5.0,True,trade secret,Caprylyl/Capryl Glucoside 68515-73-1 1-5
-P017,Cocamidopropyl Hydroxysultaine,68139-30-0,1.0,5.0,True,trade secret,Cocamidopropyl Hydroxysultaine 68139-30-0 1-5
-P017,Lauryl Glucoside,110615-47-9,1.0,5.0,True,trade secret,Lauryl Glucoside 110615-47-9 1-5
-P017,Sodium Carbonate,497-19-8,0.1,1.0,True,trade secret,Sodium Carbonate 497-19-8 0.1-1
-P017,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P017,Ethylene Brassylate,105-95-3,0.0,0.1,True,trade secret,Ethylene Brassylate 105-95-3 <0.1
-P017,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,trade secret,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
-P017,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P017,Colorant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Colorant PROPRIETARY <0.1
-P017,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P017,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P018,DIETHYLENE GLYCOL MONOETHYL ETHER,111-90-0,0.5,1.0,True,trade secret,DIETHYLENE GLYCOL MONOETHYL ETHER 111-90-0 0.5 – 1.0% YES
-P018,TRIBUTOXYETHYL PHOSPHATE,78-51-3,0.1,0.5,True,trade secret,TRIBUTOXYETHYL PHOSPHATE 78-51-3 0.1 – 0.5% YES
+P017,Water,7732-18-5,80.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Water 7732-18-5 80-100
+P017,Caprylyl/Capryl Glucoside,68515-73-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Caprylyl/Capryl Glucoside 68515-73-1 1-5
+P017,Cocamidopropyl Hydroxysultaine,68139-30-0,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Cocamidopropyl Hydroxysultaine 68139-30-0 1-5
+P017,Lauryl Glucoside,110615-47-9,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Lauryl Glucoside 110615-47-9 1-5
+P017,Sodium Carbonate,497-19-8,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Sodium Carbonate 497-19-8 0.1-1
+P017,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P017,Ethylene Brassylate,105-95-3,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Ethylene Brassylate 105-95-3 <0.1
+P017,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
+P017,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P017,Colorant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Colorant PROPRIETARY <0.1
+P017,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P017,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
+P018,DIETHYLENE GLYCOL MONOETHYL ETHER,111-90-0,0.5,1.0,False,exact % withheld only,DIETHYLENE GLYCOL MONOETHYL ETHER 111-90-0 0.5 – 1.0% YES
+P018,TRIBUTOXYETHYL PHOSPHATE,78-51-3,0.1,0.5,False,exact % withheld only,TRIBUTOXYETHYL PHOSPHATE 78-51-3 0.1 – 0.5% YES
 P019,Diethylene glycol monoethyl ether,111-90-0,3.0,5.0,False,,Diethylene glycol monoethyl ether 111-90-0 3 - < 5%
 P019,Ethylene glycol 2-ethylhexyl ether,1559-35-9,1.0,3.0,False,,Ethylene glycol 2-ethylhexyl ether 1559-35-9 1 - < 3%
 P019,Zinc ammonium carbonate,40861-29-8,0.1,1.0,False,,Zinc ammonium carbonate 40861-29-8 > 0.1 - < 1%
 P019,Ammonium hydroxide,1336-21-6,0.1,1.0,False,,Ammonium hydroxide 1336-21-6 > 0.1 - < 1%
 P019,Potassium hydroxide,1310-58-3,0.1,1.0,False,,Potassium hydroxide 1310-58-3 > 0.1 - < 1%
-P020,Dipropylene glycol n-butyl ether,29911-28-2,1.0,3.0,True,trade secret,Dipropylene glycol n-butyl ether 29911-28-2 1% - < 3%
-P020,Tributoxyethyl phosphate,78-51-3,1.0,3.0,True,trade secret,Tributoxyethyl phosphate 78-51-3 1% - < 3%
+P020,Dipropylene glycol n-butyl ether,29911-28-2,1.0,3.0,False,exact % withheld only,Dipropylene glycol n-butyl ether 29911-28-2 1% - < 3%
+P020,Tributoxyethyl phosphate,78-51-3,1.0,3.0,False,exact % withheld only,Tributoxyethyl phosphate 78-51-3 1% - < 3%
 P021,Water,7732-18-5,60.0,100.0,False,,Water 7732-18-5 60- 100
 P021,Sodium alphaolefinsulfonate,68439-57-6,3.0,7.0,False,,Sodium alphaolefinsulfonate 68439-57-6 3- 7
 P021,Cocamidopropyl Dimethylamine Oxide,68155-09-9,1.0,5.0,False,,Cocamidopropyl Dimethylamine Oxide 68155-09-9 1- 5
 P021,Cocamide DEA,68603-42-9,1.0,5.0,False,,Cocamide DEA 68603-42-9 1- 5
 P021,Glycerol,56-81-5,1.0,5.0,False,,Glycerol 56-81-5 1- 5
-P023,,64-02-8,3.0,4.0,True,trade secret,64-02-8 3 – 4% YES
-P023,DIETHYLENE GLYCOL MONOBUTYL ETHER,112-34-5,2.0,3.0,True,trade secret,DIETHYLENE GLYCOL MONOBUTYL ETHER 112-34-5 2 - 3% YES
-P023,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,1.0,2.0,True,trade secret,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 1 – 2% YES
-P023,SODIUM LAURYL SULFATE,151-21-3,1.0,2.0,True,trade secret,SODIUM LAURYL SULFATE 151-21-3 1 – 2% YES
-P023,SODIUM TRIPOLYPHOSPHATE,7758-29-4,0.5,1.0,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 0.5 – 1% YES
-P023,PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,,0.1,0.5,True,trade secret,PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES
-P023,SODIUM GLYCOLATE,2836-32-0,0.1,0.4,True,trade secret,SODIUM GLYCOLATE 2836-32-0 0.1 – 0.4% YES
-P023,TRISODIUM NITRILOTRIACETATE,5064-31-3,0.1,0.2,True,trade secret,TRISODIUM NITRILOTRIACETATE 5064-31-3 0.1 – 0.2% YES
-P023,COCAMIDE MEA,68140-00-1,0.1,0.5,True,trade secret,COCAMIDE MEA 68140-00-1 0.1 – 0.5% YES
-P025,"2-Phosphonobutane-1,2,4-tricarboxylic acid, sodium salt",40372-66-5,5.0,10.0,True,trade secret,"2-Phosphonobutane-1,2,4-tricarboxylic acid, sodium salt 40372-66-5 5-10"
-P025,Sodium hydroxide,1310-73-2,5.0,10.0,True,trade secret,Sodium hydroxide 1310-73-2 5-10
-P025,Sodium polyacrylate,9003-04-7,1.0,5.0,True,trade secret,Sodium polyacrylate 9003-04-7 1-5
-P025,"Polymaleic acid, sodium salt",70247-90-4,1.0,5.0,True,trade secret,"Polymaleic acid, sodium salt 70247-90-4 1-5"
-P025,Sodium tolyltriazole,64665-57-2,1.0,5.0,True,trade secret,Sodium tolyltriazole 64665-57-2 1-5
-P027,Butane,106-97-8,60.0,80.0,True,trade secret,Butane 106-97-8 60 - 80
-P027,Propane,74-98-6,20.0,40.0,True,trade secret,Propane 74-98-6 20 - 40
-P027,Ethyl Alcohol,64-17-5,2.5,10.0,True,trade secret,Ethyl Alcohol 64-17-5 2.5 - 10
-P027,Other components below reportable levels,,0.01,0.1,True,trade secret,Other components below reportable levels 0.01 - 0.1
-P028,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P028,Undeceth-3,34398-01-1,1.0,5.0,True,trade secret,Undeceth-3 34398-01-1 1-5
-P028,Hydrogen Peroxide,7722-84-1,1.0,5.0,True,trade secret,Hydrogen Peroxide 7722-84-1 1-5
-P028,C9-11 Pareth-6,68439-46-3,1.0,5.0,True,trade secret,C9-11 Pareth-6 68439-46-3 1-5
-P028,"Poly(oxy-1,2-ethanediyl)",68478-94-4,1.0,5.0,True,trade secret,"Poly(oxy-1,2-ethanediyl) 68478-94-4 1-5"
-P028,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P028,Acid Blue 80,4474-24-2,0.0,0.1,True,trade secret,Acid Blue 80 4474-24-2 <0.1
-P028,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P029,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P029,Caprylyl/Capryl Glucoside,68515-73-1,1.0,5.0,True,trade secret,Caprylyl/Capryl Glucoside 68515-73-1 1-5
-P029,Cocamidopropyl Hydroxysultaine,68139-30-0,1.0,5.0,True,trade secret,Cocamidopropyl Hydroxysultaine 68139-30-0 1-5
-P029,Lauryl Glucoside,110615-47-9,1.0,5.0,True,trade secret,Lauryl Glucoside 110615-47-9 1-5
-P029,Sodium Carbonate,497-19-8,0.1,1.0,True,trade secret,Sodium Carbonate 497-19-8 0.1-1
-P029,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P029,Ethylene Brassylate,105-95-3,0.0,0.1,True,trade secret,Ethylene Brassylate 105-95-3 <0.1
-P029,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,trade secret,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
-P029,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P029,Colorant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Colorant PROPRIETARY <0.1
-P029,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P029,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P030,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P030,Undeceth-3,34398-01-1,1.0,5.0,True,trade secret,Undeceth-3 34398-01-1 1-5
-P030,Hydrogen Peroxide,7722-84-1,1.0,5.0,True,trade secret,Hydrogen Peroxide 7722-84-1 1-5
-P030,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,trade secret,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
-P030,3-Isodecyloxypropanamine Chloride Ethoxylated,68478-94-4,1.0,5.0,True,trade secret,3-Isodecyloxypropanamine Chloride Ethoxylated 68478-94-4 1-5
-P030,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P030,Methyldihydrojasmonate,24851-98-7,0.0,0.1,True,trade secret,Methyldihydrojasmonate 24851-98-7 <0.1
-P030,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,trade secret,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
-P030,Acid Blue 80,4474-24-2,0.0,0.1,True,trade secret,Acid Blue 80 4474-24-2 <0.1
-P030,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P032,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P032,Dicapryl/Dicaprylyl Dimonium Chloride,68424-95-3,1.0,5.0,True,trade secret,Dicapryl/Dicaprylyl Dimonium Chloride 68424-95-3 1-5
-P032,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,1.0,5.0,True,trade secret,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 1-5
-P032,Alcohol,64-17-5,1.0,5.0,True,trade secret,Alcohol 64-17-5 1-5
-P032,Tetrasodium EDTA,64-02-8,0.1,1.0,True,trade secret,Tetrasodium EDTA 64-02-8 0.1-1
-P032,C9-11 Pareth-6,68439-46-3,0.1,1.0,True,trade secret,C9-11 Pareth-6 68439-46-3 0.1-1
-P032,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P032,Limonene,5989-27-5,0.1,1.0,True,trade secret,Limonene 5989-27-5 0.1-1
-P032,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P032,Terpinolene,586-62-9,0.0,0.1,True,trade secret,Terpinolene 586-62-9 <0.1
-P032,Gamma-Terpinene,99-85-4,0.0,0.1,True,trade secret,Gamma-Terpinene 99-85-4 <0.1
-P032,CI 16035,25956-17-6,0.0,0.1,True,trade secret,CI 16035 25956-17-6 <0.1
-P033,Water,7732-18-5,15.0,40.0,True,trade secret,Water 7732-18-5 15-40
-P033,Benzalkonium Chloride,68424-85-1,1.0,5.0,True,trade secret,Benzalkonium Chloride 68424-85-1 1-5
-P033,C9-11 Pareth-6,68439-46-3,1.0,5.0,True,trade secret,C9-11 Pareth-6 68439-46-3 1-5
-P033,Isopropyl Alcohol,67-63-0,1.0,5.0,True,trade secret,Isopropyl Alcohol 67-63-0 1-5
-P033,Fragrance PROPRIETARY 0.1-1,,0.1,1.0,True,trade secret,Fragrance PROPRIETARY 0.1-1
+P023,,64-02-8,3.0,4.0,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,64-02-8 3 – 4% YES
+P023,DIETHYLENE GLYCOL MONOBUTYL ETHER,112-34-5,2.0,3.0,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,DIETHYLENE GLYCOL MONOBUTYL ETHER 112-34-5 2 - 3% YES
+P023,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,1.0,2.0,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 1 – 2% YES
+P023,SODIUM LAURYL SULFATE,151-21-3,1.0,2.0,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,SODIUM LAURYL SULFATE 151-21-3 1 – 2% YES
+P023,SODIUM TRIPOLYPHOSPHATE,7758-29-4,0.5,1.0,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,SODIUM TRIPOLYPHOSPHATE 7758-29-4 0.5 – 1% YES
+P023,PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,,0.1,0.5,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES
+P023,SODIUM GLYCOLATE,2836-32-0,0.1,0.4,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,SODIUM GLYCOLATE 2836-32-0 0.1 – 0.4% YES
+P023,TRISODIUM NITRILOTRIACETATE,5064-31-3,0.1,0.2,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,TRISODIUM NITRILOTRIACETATE 5064-31-3 0.1 – 0.2% YES
+P023,COCAMIDE MEA,68140-00-1,0.1,0.5,True,no CAS for: PROPRIETARY SURFACTANT BLEND TRADE SECRET 0.1 – 0.5% YES,COCAMIDE MEA 68140-00-1 0.1 – 0.5% YES
+P025,"2-Phosphonobutane-1,2,4-tricarboxylic acid, sodium salt",40372-66-5,5.0,10.0,False,exact % withheld only,"2-Phosphonobutane-1,2,4-tricarboxylic acid, sodium salt 40372-66-5 5-10"
+P025,Sodium hydroxide,1310-73-2,5.0,10.0,False,exact % withheld only,Sodium hydroxide 1310-73-2 5-10
+P025,Sodium polyacrylate,9003-04-7,1.0,5.0,False,exact % withheld only,Sodium polyacrylate 9003-04-7 1-5
+P025,"Polymaleic acid, sodium salt",70247-90-4,1.0,5.0,False,exact % withheld only,"Polymaleic acid, sodium salt 70247-90-4 1-5"
+P025,Sodium tolyltriazole,64665-57-2,1.0,5.0,False,exact % withheld only,Sodium tolyltriazole 64665-57-2 1-5
+P027,Butane,106-97-8,60.0,80.0,False,exact % withheld only,Butane 106-97-8 60 - 80
+P027,Propane,74-98-6,20.0,40.0,False,exact % withheld only,Propane 74-98-6 20 - 40
+P027,Ethyl Alcohol,64-17-5,2.5,10.0,False,exact % withheld only,Ethyl Alcohol 64-17-5 2.5 - 10
+P028,Water,7732-18-5,60.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Water 7732-18-5 60-100
+P028,Undeceth-3,34398-01-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Undeceth-3 34398-01-1 1-5
+P028,Hydrogen Peroxide,7722-84-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Hydrogen Peroxide 7722-84-1 1-5
+P028,C9-11 Pareth-6,68439-46-3,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,C9-11 Pareth-6 68439-46-3 1-5
+P028,"Poly(oxy-1,2-ethanediyl)",68478-94-4,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,"Poly(oxy-1,2-ethanediyl) 68478-94-4 1-5"
+P028,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P028,Acid Blue 80,4474-24-2,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Acid Blue 80 4474-24-2 <0.1
+P028,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P029,Water,7732-18-5,80.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Water 7732-18-5 80-100
+P029,Caprylyl/Capryl Glucoside,68515-73-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Caprylyl/Capryl Glucoside 68515-73-1 1-5
+P029,Cocamidopropyl Hydroxysultaine,68139-30-0,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Cocamidopropyl Hydroxysultaine 68139-30-0 1-5
+P029,Lauryl Glucoside,110615-47-9,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Lauryl Glucoside 110615-47-9 1-5
+P029,Sodium Carbonate,497-19-8,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Sodium Carbonate 497-19-8 0.1-1
+P029,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P029,Ethylene Brassylate,105-95-3,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Ethylene Brassylate 105-95-3 <0.1
+P029,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
+P029,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P029,Colorant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Colorant PROPRIETARY <0.1
+P029,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P029,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1; Colorant PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
+P030,Water,7732-18-5,80.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Water 7732-18-5 80-100
+P030,Undeceth-3,34398-01-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Undeceth-3 34398-01-1 1-5
+P030,Hydrogen Peroxide,7722-84-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Hydrogen Peroxide 7722-84-1 1-5
+P030,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
+P030,3-Isodecyloxypropanamine Chloride Ethoxylated,68478-94-4,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,3-Isodecyloxypropanamine Chloride Ethoxylated 68478-94-4 1-5
+P030,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P030,Methyldihydrojasmonate,24851-98-7,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Methyldihydrojasmonate 24851-98-7 <0.1
+P030,"2,6-Dimethyl-7-Octen-2-ol",18479-58-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,"2,6-Dimethyl-7-Octen-2-ol 18479-58-8 <0.1"
+P030,Acid Blue 80,4474-24-2,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Acid Blue 80 4474-24-2 <0.1
+P030,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P032,Water,7732-18-5,60.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Water 7732-18-5 60-100
+P032,Dicapryl/Dicaprylyl Dimonium Chloride,68424-95-3,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Dicapryl/Dicaprylyl Dimonium Chloride 68424-95-3 1-5
+P032,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 1-5
+P032,Alcohol,64-17-5,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Alcohol 64-17-5 1-5
+P032,Tetrasodium EDTA,64-02-8,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Tetrasodium EDTA 64-02-8 0.1-1
+P032,C9-11 Pareth-6,68439-46-3,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,C9-11 Pareth-6 68439-46-3 0.1-1
+P032,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P032,Limonene,5989-27-5,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Limonene 5989-27-5 0.1-1
+P032,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P032,Terpinolene,586-62-9,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Terpinolene 586-62-9 <0.1
+P032,Gamma-Terpinene,99-85-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Gamma-Terpinene 99-85-4 <0.1
+P032,CI 16035,25956-17-6,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,CI 16035 25956-17-6 <0.1
+P033,Water,7732-18-5,15.0,40.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Water 7732-18-5 15-40
+P033,Benzalkonium Chloride,68424-85-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Benzalkonium Chloride 68424-85-1 1-5
+P033,C9-11 Pareth-6,68439-46-3,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,C9-11 Pareth-6 68439-46-3 1-5
+P033,Isopropyl Alcohol,67-63-0,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Isopropyl Alcohol 67-63-0 1-5
+P033,Fragrance PROPRIETARY 0.1-1,,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Fragrance PROPRIETARY 0.1-1
 P035,Hydrogen peroxide,7722-84-1,1.4,1.4,False,,Hydrogen peroxide 7722-84-1 1.4
-P036,2-Butoxyethanol,111-76-2,2.5,10.0,True,trade secret,2-Butoxyethanol 111-76-2 2.5 - 10
-P036,Ethyl Alcohol,64-17-5,2.5,10.0,True,trade secret,Ethyl Alcohol 64-17-5 2.5 - 10
-P036,Butane,106-97-8,1.0,2.5,True,trade secret,Butane 106-97-8 1 - 2.5
-P036,Propane,74-98-6,1.0,2.5,True,trade secret,Propane 74-98-6 1 - 2.5
-P036,Other components below reportable levels,,90.0,100.0,True,trade secret,Other components below reportable levels 90 - 100
-P037,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P037,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,trade secret,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
-P037,Water,7732-18-5,1.0,5.0,True,trade secret,Water 7732-18-5 1-5
-P037,Xanthan Gum,11138-66-2,0.1,1.0,True,trade secret,Xanthan Gum 11138-66-2 0.1-1
-P037,Ethyl Vanillian,121-32-4,0.0,0.1,True,trade secret,Ethyl Vanillian 121-32-4 <0.1
-P037,Vanillin,121-33-5,0.0,0.1,True,trade secret,Vanillin 121-33-5 <0.1
-P037,Bacterial Spores PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Bacterial Spores PROPRIETARY <0.1
-P037,Sodium Hydroxide,1310-73-2,0.0,0.1,True,trade secret,Sodium Hydroxide 1310-73-2 <0.1
-P037,Hydrochloric Acid,7647-01-0,0.0,0.1,True,trade secret,Hydrochloric Acid 7647-01-0 <0.1
-P037,CI 45350,6417-85-2,0.0,0.1,True,trade secret,CI 45350 6417-85-2 <0.1
-P037,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P037,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P037,Colorant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Colorant PROPRIETARY <0.1
-P038,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P038,Citric Acid,77-92-9,5.0,10.0,True,trade secret,Citric Acid 77-92-9 5-10
-P038,C9-11 Alcohols Ethoxylated,68439-46-3,0.1,1.0,True,trade secret,C9-11 Alcohols Ethoxylated 68439-46-3 0.1-1
-P038,Xanthan Gum,11138-66-2,0.1,1.0,True,trade secret,Xanthan Gum 11138-66-2 0.1-1
-P038,Fragrance PROPRIETARY 0.1-1,,0.1,1.0,True,trade secret,Fragrance PROPRIETARY 0.1-1
-P038,Direct Blue 199,12222-04-7,0.0,0.1,True,trade secret,Direct Blue 199 12222-04-7 <0.1
-P038,Bacterial Spores PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Bacterial Spores PROPRIETARY <0.1
-P039,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P039,Undeceth-3,34398-01-1,1.0,5.0,True,trade secret,Undeceth-3 34398-01-1 1-5
-P039,Pentasodium Triphosphate,7758-29-4,1.0,5.0,True,trade secret,Pentasodium Triphosphate 7758-29-4 1-5
-P039,3-Isodecyloxypropanamine Chloride Ethoxylated,68478-94-4,0.1,1.0,True,trade secret,3-Isodecyloxypropanamine Chloride Ethoxylated 68478-94-4 0.1-1
-P039,Acrylic Copolymer PROPRIETARY 0.1-1,,0.1,1.0,True,trade secret,Acrylic Copolymer PROPRIETARY 0.1-1
-P039,Tetrasodium Glutamate Diacetate,51981-21-6,0.1,1.0,True,trade secret,Tetrasodium Glutamate Diacetate 51981-21-6 0.1-1
-P039,"Ethanol, 2,2'-Iminobis-, N-[3-(Branched",68478-65-9,0.1,1.0,True,trade secret,"Ethanol, 2,2'-Iminobis-, N-[3-(Branched 68478-65-9 0.1-1"
-P039,Citric Acid,77-92-9,0.0,0.1,True,trade secret,Citric Acid 77-92-9 <0.1
-P039,Limonene,5989-27-5,0.0,0.1,True,trade secret,Limonene 5989-27-5 <0.1
-P039,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P039,Bacterial Spores PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Bacterial Spores PROPRIETARY <0.1
-P039,Hexyl Cinnamal,101-86-0,0.0,0.1,True,trade secret,Hexyl Cinnamal 101-86-0 <0.1
-P039,CI 74180,1330-38-7,0.0,0.1,True,trade secret,CI 74180 1330-38-7 <0.1
-P039,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P039,Yellow 5,1934-21-0,0.0,0.1,True,trade secret,Yellow 5 1934-21-0 <0.1
-P039,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
+P036,2-Butoxyethanol,111-76-2,2.5,10.0,False,exact % withheld only,2-Butoxyethanol 111-76-2 2.5 - 10
+P036,Ethyl Alcohol,64-17-5,2.5,10.0,False,exact % withheld only,Ethyl Alcohol 64-17-5 2.5 - 10
+P036,Butane,106-97-8,1.0,2.5,False,exact % withheld only,Butane 106-97-8 1 - 2.5
+P036,Propane,74-98-6,1.0,2.5,False,exact % withheld only,Propane 74-98-6 1 - 2.5
+P037,Water,7732-18-5,80.0,100.0,True,no CAS for: Colorant PROPRIETARY <0.1,Water 7732-18-5 80-100
+P037,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,no CAS for: Colorant PROPRIETARY <0.1,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
+P037,Water,7732-18-5,1.0,5.0,True,no CAS for: Colorant PROPRIETARY <0.1,Water 7732-18-5 1-5
+P037,Xanthan Gum,11138-66-2,0.1,1.0,True,no CAS for: Colorant PROPRIETARY <0.1,Xanthan Gum 11138-66-2 0.1-1
+P037,Ethyl Vanillian,121-32-4,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,Ethyl Vanillian 121-32-4 <0.1
+P037,Vanillin,121-33-5,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,Vanillin 121-33-5 <0.1
+P037,Bacterial Spores PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,Bacterial Spores PROPRIETARY <0.1
+P037,Sodium Hydroxide,1310-73-2,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,Sodium Hydroxide 1310-73-2 <0.1
+P037,Hydrochloric Acid,7647-01-0,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,Hydrochloric Acid 7647-01-0 <0.1
+P037,CI 45350,6417-85-2,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,CI 45350 6417-85-2 <0.1
+P037,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P037,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
+P037,Colorant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Colorant PROPRIETARY <0.1,Colorant PROPRIETARY <0.1
+P038,Water,7732-18-5,80.0,100.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Water 7732-18-5 80-100
+P038,Citric Acid,77-92-9,5.0,10.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Citric Acid 77-92-9 5-10
+P038,C9-11 Alcohols Ethoxylated,68439-46-3,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,C9-11 Alcohols Ethoxylated 68439-46-3 0.1-1
+P038,Xanthan Gum,11138-66-2,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Xanthan Gum 11138-66-2 0.1-1
+P038,Fragrance PROPRIETARY 0.1-1,,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Fragrance PROPRIETARY 0.1-1
+P038,Direct Blue 199,12222-04-7,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Direct Blue 199 12222-04-7 <0.1
+P038,Bacterial Spores PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Bacterial Spores PROPRIETARY <0.1
+P039,Water,7732-18-5,80.0,100.0,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Water 7732-18-5 80-100
+P039,Undeceth-3,34398-01-1,1.0,5.0,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Undeceth-3 34398-01-1 1-5
+P039,Pentasodium Triphosphate,7758-29-4,1.0,5.0,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Pentasodium Triphosphate 7758-29-4 1-5
+P039,3-Isodecyloxypropanamine Chloride Ethoxylated,68478-94-4,0.1,1.0,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,3-Isodecyloxypropanamine Chloride Ethoxylated 68478-94-4 0.1-1
+P039,Acrylic Copolymer PROPRIETARY 0.1-1,,0.1,1.0,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Acrylic Copolymer PROPRIETARY 0.1-1
+P039,Tetrasodium Glutamate Diacetate,51981-21-6,0.1,1.0,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Tetrasodium Glutamate Diacetate 51981-21-6 0.1-1
+P039,"Ethanol, 2,2'-Iminobis-, N-[3-(Branched",68478-65-9,0.1,1.0,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,"Ethanol, 2,2'-Iminobis-, N-[3-(Branched 68478-65-9 0.1-1"
+P039,Citric Acid,77-92-9,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Citric Acid 77-92-9 <0.1
+P039,Limonene,5989-27-5,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Limonene 5989-27-5 <0.1
+P039,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P039,Bacterial Spores PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Bacterial Spores PROPRIETARY <0.1
+P039,Hexyl Cinnamal,101-86-0,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Hexyl Cinnamal 101-86-0 <0.1
+P039,CI 74180,1330-38-7,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,CI 74180 1330-38-7 <0.1
+P039,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P039,Yellow 5,1934-21-0,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Yellow 5 1934-21-0 <0.1
+P039,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Acrylic Copolymer PROPRIETARY 0.1-1; Fragrance PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
 P040,Dodecyl benzyl sulfonic acid Corrosive,27176-87-0,0.0,6.0,False,,Dodecyl benzyl sulfonic acid Corrosive 27176-87-0 N/A N/A < 6.0
 P040,Silica (No respirable quartz) N/A,14808-60-7,0.0,40.0,False,,Silica (No respirable quartz) N/A 14808-60-7 0.1mg/M3 0.1mg/M3 < 40.0
 P040,Nonoxynol Irritant,9016-45-9,0.0,6.0,False,,Nonoxynol Irritant 9016-45-9 N/A N/A < 6.0
 P040,Water,7732-18-5,0.0,50.0,False,,Water 7732-18-5 N/A N/A < 50.0
 P040,Potassium Persulfate Oxidizer,37222-66-5,0.0,1.0,False,,Potassium Persulfate Oxidizer 37222-66-5 N/A N/A < 1
 P041,SODIUM LAURETH SULPHATE 500-234-8,68891-38-3,1.0,5.0,False,,SODIUM LAURETH SULPHATE 500-234-8 68891-38-3 1-5%
-P042,,770-35-4,,,True,proprietary,770-35-4 Propylene glycol phenyl ether Proprietary
-P043,Water,7732-18-5,40.0,70.0,True,trade secret,Water 7732-18-5 40-70
-P043,C13-14 Alkane,64742-47-8,5.0,10.0,True,trade secret,C13-14 Alkane 64742-47-8 5-10
-P043,Mineral Oil,8042-47-5,5.0,10.0,True,trade secret,Mineral Oil 8042-47-5 5-10
-P043,Butane,106-97-8,3.0,7.0,True,trade secret,Butane 106-97-8 3-7
-P043,Propane,74-98-6,1.0,5.0,True,trade secret,Propane 74-98-6 1-5
-P043,Polyglyceryl-3 Oleate,9007-48-1,1.0,5.0,True,trade secret,Polyglyceryl-3 Oleate 9007-48-1 1-5
-P043,Sodium Benzoate,532-32-1,0.1,1.0,True,trade secret,Sodium Benzoate 532-32-1 0.1-1
-P043,Fragrance PROPRIETARY 0.1-1,,0.1,1.0,True,trade secret,Fragrance PROPRIETARY 0.1-1
-P043,Diethyl Phthalate,84-66-2,0.0,0.1,True,trade secret,Diethyl Phthalate 84-66-2 <0.1
-P044,,64742-46-7,,,True,withheld,64742-46-7
-P044,"ACETIC ACID, PENTYL ESTER",628-63-7,0.325,0.325,True,withheld,"ACETIC ACID, PENTYL ESTER 628-63-7 0.325"
-P044,,624-41-9,,,True,withheld,624-41-9
+P042,,770-35-4,,,False,exact % withheld only,770-35-4 Propylene glycol phenyl ether Proprietary
+P043,Water,7732-18-5,40.0,70.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Water 7732-18-5 40-70
+P043,C13-14 Alkane,64742-47-8,5.0,10.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,C13-14 Alkane 64742-47-8 5-10
+P043,Mineral Oil,8042-47-5,5.0,10.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Mineral Oil 8042-47-5 5-10
+P043,Butane,106-97-8,3.0,7.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Butane 106-97-8 3-7
+P043,Propane,74-98-6,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Propane 74-98-6 1-5
+P043,Polyglyceryl-3 Oleate,9007-48-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Polyglyceryl-3 Oleate 9007-48-1 1-5
+P043,Sodium Benzoate,532-32-1,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Sodium Benzoate 532-32-1 0.1-1
+P043,Fragrance PROPRIETARY 0.1-1,,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Fragrance PROPRIETARY 0.1-1
+P043,Diethyl Phthalate,84-66-2,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY 0.1-1,Diethyl Phthalate 84-66-2 <0.1
+P044,,64742-46-7,,,False,exact % withheld only,64742-46-7
+P044,"ACETIC ACID, PENTYL ESTER",628-63-7,0.325,0.325,False,exact % withheld only,"ACETIC ACID, PENTYL ESTER 628-63-7 0.325"
+P044,,624-41-9,,,False,exact % withheld only,624-41-9
 P045,Sodium Carbonate,497-19-8,2.0,4.0,False,,Sodium Carbonate 497-19-8 2 - 4
 P046,2-Phenethyl Propionate (CAS-No.),122-70-3,0.1,0.1,False,,2-Phenethyl Propionate (CAS-No.) 122-70-3 0.1
 P046,Benzyl Alcohol (CAS-No.),100-51-6,4.0,4.0,False,,Benzyl Alcohol (CAS-No.) 100-51-6 4
@@ -271,67 +267,65 @@ P047,Isopropyl alcohol (CAS-No.),67-63-0,4.0,4.0,False,,Isopropyl alcohol (CAS-N
 P047,Benzyl Alcohol (CAS-No.),100-51-6,5.0,5.0,False,,Benzyl Alcohol (CAS-No.) 100-51-6 5
 P047,Propane (CAS-No.),74-98-6,20.0,20.0,False,,Propane (CAS-No.) 74-98-6 20
 P047,"Distillates (petroleum), hydrotreated light (CAS-No.)",64742-47-8,69.6,69.6,False,,"Distillates (petroleum), hydrotreated light (CAS-No.) 64742-47-8 69.6"
-P050,Ethoxydiglycol,111-90-0,5.0,10.0,True,no CAS for: Other components below reportable levels,Ethoxydiglycol 111-90-0 5 - < 10
-P050,Tributoxyethyl Phosphate,78-51-3,1.0,3.0,True,no CAS for: Other components below reportable levels,Tributoxyethyl Phosphate 78-51-3 1 - < 3
-P050,Other components below reportable levels,,90.0,100.0,True,no CAS for: Other components below reportable levels,Other components below reportable levels 90 - 100
-P051,water,7732-18-5,60.0,100.0,True,trade secret,water 7732-18-5 60-100
-P051,paraffin wax PROPRIETARY 3-7,,3.0,7.0,True,trade secret,paraffin wax PROPRIETARY 3-7
-P051,anionic surfactant PROPRIETARY 1-5,,1.0,5.0,True,trade secret,anionic surfactant PROPRIETARY 1-5
-P052,Urethane Polymer ≥,,10.0,25.0,True,confidential,Urethane Polymer ≥10 - <25 8440P
-P052,N-methyl-2-pyrrolidone ≥3 - <5,872-50-4,,,True,confidential,N-methyl-2-pyrrolidone ≥3 - <5 872-50-4
-P052,tris(2-butoxyethyl) phosphate ≥1 - <3,78-51-3,,,True,confidential,tris(2-butoxyethyl) phosphate ≥1 - <3 78-51-3
+P050,Ethoxydiglycol,111-90-0,5.0,10.0,False,,Ethoxydiglycol 111-90-0 5 - < 10
+P050,Tributoxyethyl Phosphate,78-51-3,1.0,3.0,False,,Tributoxyethyl Phosphate 78-51-3 1 - < 3
+P051,water,7732-18-5,60.0,100.0,True,no CAS for: paraffin wax PROPRIETARY 3-7; anionic surfactant PROPRIETARY 1-5,water 7732-18-5 60-100
+P051,paraffin wax PROPRIETARY 3-7,,3.0,7.0,True,no CAS for: paraffin wax PROPRIETARY 3-7; anionic surfactant PROPRIETARY 1-5,paraffin wax PROPRIETARY 3-7
+P051,anionic surfactant PROPRIETARY 1-5,,1.0,5.0,True,no CAS for: paraffin wax PROPRIETARY 3-7; anionic surfactant PROPRIETARY 1-5,anionic surfactant PROPRIETARY 1-5
+P052,Urethane Polymer ≥,,10.0,25.0,True,no CAS for: Urethane Polymer ≥,Urethane Polymer ≥10 - <25 8440P
+P052,N-methyl-2-pyrrolidone ≥3 - <5,872-50-4,,,True,no CAS for: Urethane Polymer ≥,N-methyl-2-pyrrolidone ≥3 - <5 872-50-4
+P052,tris(2-butoxyethyl) phosphate ≥1 - <3,78-51-3,,,True,no CAS for: Urethane Polymer ≥,tris(2-butoxyethyl) phosphate ≥1 - <3 78-51-3
 P053,(2-methoxymethylethoxy)propanol 1 - 5,34590-94-8,,,False,,(2-methoxymethylethoxy)propanol 1 - 5 34590-94-8
 P053,3-butoxypropan-2-ol 1 - 5,5131-66-8,,,False,,3-butoxypropan-2-ol 1 - 5 5131-66-8
-P054,DIPROPYLENE GLYCOL MONOMETHYL ETHER,34590-94-8,0.1,0.5,True,trade secret,DIPROPYLENE GLYCOL MONOMETHYL ETHER 34590-94-8 0.1-0.5% YES
-P054,TRIETHANOLAMINE,121-44-8,0.1,0.5,True,trade secret,TRIETHANOLAMINE 121-44-8 0.1-0.5% YES
-P054,TRADE SECRET 3-5% YES,,3.0,5.0,True,trade secret,TRADE SECRET 3-5% YES
-P054,"HEXAMETHYLENE-1,6-DIISOCYANATE",822-06-0,0.0,0.1,True,trade secret,"HEXAMETHYLENE-1,6-DIISOCYANATE 822-06-0 <0.1% YES"
-P054,DIPROPYLENE GLYCOL METHYL ETHER ACETATE,88917-22-0,0.1,1.0,True,trade secret,DIPROPYLENE GLYCOL METHYL ETHER ACETATE 88917-22-0 0.1-1% YES
-P056,DIETHYLENE GLYCOL MONOETHYL ETHER,111-90-0,4.0,6.0,True,trade secret,DIETHYLENE GLYCOL MONOETHYL ETHER 111-90-0 4-6% YES
-P056,ETHYLENE GLYCOL,107-21-1,1.0,3.0,True,trade secret,ETHYLENE GLYCOL 107-21-1 1-3% YES
-P056,TRIBUTOXYETHYL PHOSPHATE,78-51-3,1.0,3.0,True,trade secret,TRIBUTOXYETHYL PHOSPHATE 78-51-3 1-3% YES
-P057,2-Butoxyethanol,111-76-2,2.5,10.0,True,trade secret,2-Butoxyethanol 111-76-2 2.5 - 10
-P057,Ethyl Alcohol,64-17-5,2.5,10.0,True,trade secret,Ethyl Alcohol 64-17-5 2.5 - 10
-P057,Butane,106-97-8,1.0,2.5,True,trade secret,Butane 106-97-8 1 - 2.5
-P057,Propane,74-98-6,1.0,2.5,True,trade secret,Propane 74-98-6 1 - 2.5
-P057,Other components below reportable levels,,90.0,100.0,True,trade secret,Other components below reportable levels 90 - 100
-P058,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P058,Undeceth-3,34398-01-1,1.0,5.0,True,trade secret,Undeceth-3 34398-01-1 1-5
-P058,Sodium Carbonate,497-19-8,1.0,5.0,True,trade secret,Sodium Carbonate 497-19-8 1-5
-P058,3-Isodecyloxypropanamine Chloride Ethoxylated,68478-94-4,1.0,5.0,True,trade secret,3-Isodecyloxypropanamine Chloride Ethoxylated 68478-94-4 1-5
-P058,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P058,Alkyl Glucoside PROPRIETARY 0.1-1,,0.1,1.0,True,trade secret,Alkyl Glucoside PROPRIETARY 0.1-1
-P058,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P058,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P059,Water,7732-18-5,40.0,70.0,True,trade secret,Water 7732-18-5 40-70
-P059,Dicapryl/Dicaprylyl Dimonium Chloride,68424-95-3,10.0,30.0,True,trade secret,Dicapryl/Dicaprylyl Dimonium Chloride 68424-95-3 10-30
-P059,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,5.0,10.0,True,trade secret,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 5-10
-P059,Alcohol,64-17-5,1.0,5.0,True,trade secret,Alcohol 64-17-5 1-5
-P059,Tetrasodium EDTA,64-02-8,1.0,5.0,True,trade secret,Tetrasodium EDTA 64-02-8 1-5
-P059,C9-11 Pareth-6,68439-46-3,1.0,5.0,True,trade secret,C9-11 Pareth-6 68439-46-3 1-5
-P059,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P060,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P060,Dicapryl/Dicaprylyl Dimonium Chloride,68424-95-3,1.0,5.0,True,trade secret,Dicapryl/Dicaprylyl Dimonium Chloride 68424-95-3 1-5
-P060,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,1.0,5.0,True,trade secret,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 1-5
-P060,Alcohol,64-17-5,1.0,5.0,True,trade secret,Alcohol 64-17-5 1-5
-P060,Tetrasodium EDTA,64-02-8,0.1,1.0,True,trade secret,Tetrasodium EDTA 64-02-8 0.1-1
-P060,C9-11 Pareth-6,68439-46-3,0.1,1.0,True,trade secret,C9-11 Pareth-6 68439-46-3 0.1-1
-P060,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P061,2-AMINOETHANOL,141-43-5,2.0,3.0,True,trade secret,2-AMINOETHANOL 141-43-5 2 – 3 % YES
-P061,"ALCOHOLS, C6-12, ETHOXYLATED PROPOXYLATED",68937-66-6,5.0,7.0,True,trade secret,"ALCOHOLS, C6-12, ETHOXYLATED PROPOXYLATED 68937-66-6 5 – 7% YES"
-P061,"ALCOHOLS, C10-16, ETHOXYLATED PROPOXYLATED",69227-22-1,2.0,4.0,True,trade secret,"ALCOHOLS, C10-16, ETHOXYLATED PROPOXYLATED 69227-22-1 2 – 4% YES"
-P061,SODIUM TRIPOLYPHOSPHATE,7758-29-4,3.0,4.0,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 3 – 4% YES
-P061,PHOSPHATE ESTER OF ETHOXYLATED ALCOHOLS,68130-47-2,1.0,3.0,True,trade secret,PHOSPHATE ESTER OF ETHOXYLATED ALCOHOLS 68130-47-2 1 – 3% YES
-P061,SODIUM METASILICATE,6834-92-0,0.5,1.0,True,trade secret,SODIUM METASILICATE 6834-92-0 0.5 – 1% YES
-P061,DIPENTENE (TERPENE HYDROCARBONS),68956-56-9,0.1,0.5,True,trade secret,DIPENTENE (TERPENE HYDROCARBONS) 68956-56-9 0.1 – 0.5% YES
+P054,DIPROPYLENE GLYCOL MONOMETHYL ETHER,34590-94-8,0.1,0.5,True,no CAS for: TRADE SECRET 3-5% YES,DIPROPYLENE GLYCOL MONOMETHYL ETHER 34590-94-8 0.1-0.5% YES
+P054,TRIETHANOLAMINE,121-44-8,0.1,0.5,True,no CAS for: TRADE SECRET 3-5% YES,TRIETHANOLAMINE 121-44-8 0.1-0.5% YES
+P054,TRADE SECRET 3-5% YES,,3.0,5.0,True,no CAS for: TRADE SECRET 3-5% YES,TRADE SECRET 3-5% YES
+P054,"HEXAMETHYLENE-1,6-DIISOCYANATE",822-06-0,0.0,0.1,True,no CAS for: TRADE SECRET 3-5% YES,"HEXAMETHYLENE-1,6-DIISOCYANATE 822-06-0 <0.1% YES"
+P054,DIPROPYLENE GLYCOL METHYL ETHER ACETATE,88917-22-0,0.1,1.0,True,no CAS for: TRADE SECRET 3-5% YES,DIPROPYLENE GLYCOL METHYL ETHER ACETATE 88917-22-0 0.1-1% YES
+P056,DIETHYLENE GLYCOL MONOETHYL ETHER,111-90-0,4.0,6.0,False,exact % withheld only,DIETHYLENE GLYCOL MONOETHYL ETHER 111-90-0 4-6% YES
+P056,ETHYLENE GLYCOL,107-21-1,1.0,3.0,False,exact % withheld only,ETHYLENE GLYCOL 107-21-1 1-3% YES
+P056,TRIBUTOXYETHYL PHOSPHATE,78-51-3,1.0,3.0,False,exact % withheld only,TRIBUTOXYETHYL PHOSPHATE 78-51-3 1-3% YES
+P057,2-Butoxyethanol,111-76-2,2.5,10.0,False,exact % withheld only,2-Butoxyethanol 111-76-2 2.5 - 10
+P057,Ethyl Alcohol,64-17-5,2.5,10.0,False,exact % withheld only,Ethyl Alcohol 64-17-5 2.5 - 10
+P057,Butane,106-97-8,1.0,2.5,False,exact % withheld only,Butane 106-97-8 1 - 2.5
+P057,Propane,74-98-6,1.0,2.5,False,exact % withheld only,Propane 74-98-6 1 - 2.5
+P058,Water,7732-18-5,80.0,100.0,True,no CAS for: Alkyl Glucoside PROPRIETARY 0.1-1,Water 7732-18-5 80-100
+P058,Undeceth-3,34398-01-1,1.0,5.0,True,no CAS for: Alkyl Glucoside PROPRIETARY 0.1-1,Undeceth-3 34398-01-1 1-5
+P058,Sodium Carbonate,497-19-8,1.0,5.0,True,no CAS for: Alkyl Glucoside PROPRIETARY 0.1-1,Sodium Carbonate 497-19-8 1-5
+P058,3-Isodecyloxypropanamine Chloride Ethoxylated,68478-94-4,1.0,5.0,True,no CAS for: Alkyl Glucoside PROPRIETARY 0.1-1,3-Isodecyloxypropanamine Chloride Ethoxylated 68478-94-4 1-5
+P058,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Alkyl Glucoside PROPRIETARY 0.1-1,Citric Acid 77-92-9 0.1-1
+P058,Alkyl Glucoside PROPRIETARY 0.1-1,,0.1,1.0,True,no CAS for: Alkyl Glucoside PROPRIETARY 0.1-1,Alkyl Glucoside PROPRIETARY 0.1-1
+P058,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Alkyl Glucoside PROPRIETARY 0.1-1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P058,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Alkyl Glucoside PROPRIETARY 0.1-1,Methylisothiazolinone 2682-20-4 <0.1
+P059,Water,7732-18-5,40.0,70.0,False,exact % withheld only,Water 7732-18-5 40-70
+P059,Dicapryl/Dicaprylyl Dimonium Chloride,68424-95-3,10.0,30.0,False,exact % withheld only,Dicapryl/Dicaprylyl Dimonium Chloride 68424-95-3 10-30
+P059,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,5.0,10.0,False,exact % withheld only,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 5-10
+P059,Alcohol,64-17-5,1.0,5.0,False,exact % withheld only,Alcohol 64-17-5 1-5
+P059,Tetrasodium EDTA,64-02-8,1.0,5.0,False,exact % withheld only,Tetrasodium EDTA 64-02-8 1-5
+P059,C9-11 Pareth-6,68439-46-3,1.0,5.0,False,exact % withheld only,C9-11 Pareth-6 68439-46-3 1-5
+P059,Citric Acid,77-92-9,0.1,1.0,False,exact % withheld only,Citric Acid 77-92-9 0.1-1
+P060,Water,7732-18-5,60.0,100.0,False,exact % withheld only,Water 7732-18-5 60-100
+P060,Dicapryl/Dicaprylyl Dimonium Chloride,68424-95-3,1.0,5.0,False,exact % withheld only,Dicapryl/Dicaprylyl Dimonium Chloride 68424-95-3 1-5
+P060,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,1.0,5.0,False,exact % withheld only,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 1-5
+P060,Alcohol,64-17-5,1.0,5.0,False,exact % withheld only,Alcohol 64-17-5 1-5
+P060,Tetrasodium EDTA,64-02-8,0.1,1.0,False,exact % withheld only,Tetrasodium EDTA 64-02-8 0.1-1
+P060,C9-11 Pareth-6,68439-46-3,0.1,1.0,False,exact % withheld only,C9-11 Pareth-6 68439-46-3 0.1-1
+P060,Citric Acid,77-92-9,0.1,1.0,False,exact % withheld only,Citric Acid 77-92-9 0.1-1
+P061,2-AMINOETHANOL,141-43-5,2.0,3.0,False,exact % withheld only,2-AMINOETHANOL 141-43-5 2 – 3 % YES
+P061,"ALCOHOLS, C6-12, ETHOXYLATED PROPOXYLATED",68937-66-6,5.0,7.0,False,exact % withheld only,"ALCOHOLS, C6-12, ETHOXYLATED PROPOXYLATED 68937-66-6 5 – 7% YES"
+P061,"ALCOHOLS, C10-16, ETHOXYLATED PROPOXYLATED",69227-22-1,2.0,4.0,False,exact % withheld only,"ALCOHOLS, C10-16, ETHOXYLATED PROPOXYLATED 69227-22-1 2 – 4% YES"
+P061,SODIUM TRIPOLYPHOSPHATE,7758-29-4,3.0,4.0,False,exact % withheld only,SODIUM TRIPOLYPHOSPHATE 7758-29-4 3 – 4% YES
+P061,PHOSPHATE ESTER OF ETHOXYLATED ALCOHOLS,68130-47-2,1.0,3.0,False,exact % withheld only,PHOSPHATE ESTER OF ETHOXYLATED ALCOHOLS 68130-47-2 1 – 3% YES
+P061,SODIUM METASILICATE,6834-92-0,0.5,1.0,False,exact % withheld only,SODIUM METASILICATE 6834-92-0 0.5 – 1% YES
+P061,DIPENTENE (TERPENE HYDROCARBONS),68956-56-9,0.1,0.5,False,exact % withheld only,DIPENTENE (TERPENE HYDROCARBONS) 68956-56-9 0.1 – 0.5% YES
 P062,Dipropylene glycol monomethyl ether,34590-94-8,1.0,5.0,False,,Dipropylene glycol monomethyl ether 34590-94-8 1-5
 P062,"Alcohols, Ethoxylated",34398-01-1,1.0,5.0,False,,"Alcohols, Ethoxylated 34398-01-1 1-5"
 P062,Propylene Glycol Monobutyl,5131-66-8,1.0,5.0,False,,Propylene Glycol Monobutyl 5131-66-8 1-5
 P062,Tetrapotassium Pyrophosphate,7320-34-5,1.0,5.0,False,,Tetrapotassium Pyrophosphate 7320-34-5 1-5
-P063,2-AMINOETHANOL,141-43-5,2.0,3.0,True,trade secret,2-AMINOETHANOL 141-43-5 2 – 3 % YES
-P063,"ALCOHOLS, C9-11, ETHOXYLATED",68439-46-3,5.0,8.0,True,trade secret,"ALCOHOLS, C9-11, ETHOXYLATED 68439-46-3 5 – 8% YES"
-P063,SODIUM TRIPOLYPHOSPHATE,7758-29-4,3.0,4.0,True,trade secret,SODIUM TRIPOLYPHOSPHATE 7758-29-4 3 – 4% YES
-P063,SODIUM METASILICATE,6834-92-0,0.5,1.0,True,trade secret,SODIUM METASILICATE 6834-92-0 0.5 – 1% YES
+P063,2-AMINOETHANOL,141-43-5,2.0,3.0,False,exact % withheld only,2-AMINOETHANOL 141-43-5 2 – 3 % YES
+P063,"ALCOHOLS, C9-11, ETHOXYLATED",68439-46-3,5.0,8.0,False,exact % withheld only,"ALCOHOLS, C9-11, ETHOXYLATED 68439-46-3 5 – 8% YES"
+P063,SODIUM TRIPOLYPHOSPHATE,7758-29-4,3.0,4.0,False,exact % withheld only,SODIUM TRIPOLYPHOSPHATE 7758-29-4 3 – 4% YES
+P063,SODIUM METASILICATE,6834-92-0,0.5,1.0,False,exact % withheld only,SODIUM METASILICATE 6834-92-0 0.5 – 1% YES
 P064,Sodium etasulfate,126-92-1,5.0,10.0,False,,Sodium etasulfate 126-92-1 5 - 10%
 P064,"Alcohol, C9-C11, ethoxylated",68439-46-3,3.0,7.0,False,,"Alcohol, C9-C11, ethoxylated 68439-46-3 3 - 7%"
 P064,2-(2-butoxyethoxy)ethanol,112-34-5,1.0,5.0,False,,2-(2-butoxyethoxy)ethanol 112-34-5 1 - 5%
@@ -339,22 +333,22 @@ P064,Ammonium hydroxide,1336-21-6,0.1,1.0,False,,Ammonium hydroxide 1336-21-6 > 
 P065,butane,106-97-8,1.0,5.0,False,,butane 106-97-8 >= 1 - < 5
 P065,1-propoxypropan-2-ol,1569-01-3,1.0,5.0,False,,1-propoxypropan-2-ol 1569-01-3 >= 1 - < 5
 P065,ethanol,64-17-5,1.0,5.0,False,,ethanol 64-17-5 >= 1 - < 5
-P066,N-methyl-2-pyrrolidone ≥5 - <10,872-50-4,,,True,confidential,N-methyl-2-pyrrolidone ≥5 - <10 872-50-4
-P067,Water,7732-18-5,40.0,70.0,True,trade secret,Water 7732-18-5 40-70
-P067,Acrylic Polymer PROPRIETARY 10-30,,10.0,30.0,True,trade secret,Acrylic Polymer PROPRIETARY 10-30
-P067,Ethoxydiglycol,111-90-0,3.0,7.0,True,trade secret,Ethoxydiglycol 111-90-0 3-7
-P067,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,trade secret,Tributoxyethyl Phosphate 78-51-3 1-5
-P067,Styrene/Acrylates Copolymer,9010-92-8,1.0,5.0,True,trade secret,Styrene/Acrylates Copolymer 9010-92-8 1-5
-P067,PPG-2 Methyl Ether,34590-94-8,1.0,5.0,True,trade secret,PPG-2 Methyl Ether 34590-94-8 1-5
-P067,Polypropylene Polymer PROPRIETARY 0.1-1,,0.1,1.0,True,trade secret,Polypropylene Polymer PROPRIETARY 0.1-1
-P067,Polyethylene Polymer PROPRIETARY 0.1-1,,0.1,1.0,True,trade secret,Polyethylene Polymer PROPRIETARY 0.1-1
-P067,Zinc Oxide,1314-13-2,0.1,1.0,True,trade secret,Zinc Oxide 1314-13-2 0.1-1
-P067,Ammonium Hydroxide,1336-21-6,0.1,1.0,True,trade secret,Ammonium Hydroxide 1336-21-6 0.1-1
-P067,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fluorosurfactant PROPRIETARY <0.1
-P067,Dimethicone,63148-62-9,0.0,0.1,True,trade secret,Dimethicone 63148-62-9 <0.1
-P067,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P067,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P068,Hydrogen chloride ≥5 - <10,7647-01-0,,,True,confidential,Hydrogen chloride ≥5 - <10 7647-01-0
+P066,N-methyl-2-pyrrolidone ≥5 - <10,872-50-4,,,False,exact % withheld only,N-methyl-2-pyrrolidone ≥5 - <10 872-50-4
+P067,Water,7732-18-5,40.0,70.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Water 7732-18-5 40-70
+P067,Acrylic Polymer PROPRIETARY 10-30,,10.0,30.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Acrylic Polymer PROPRIETARY 10-30
+P067,Ethoxydiglycol,111-90-0,3.0,7.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Ethoxydiglycol 111-90-0 3-7
+P067,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Tributoxyethyl Phosphate 78-51-3 1-5
+P067,Styrene/Acrylates Copolymer,9010-92-8,1.0,5.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Styrene/Acrylates Copolymer 9010-92-8 1-5
+P067,PPG-2 Methyl Ether,34590-94-8,1.0,5.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,PPG-2 Methyl Ether 34590-94-8 1-5
+P067,Polypropylene Polymer PROPRIETARY 0.1-1,,0.1,1.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Polypropylene Polymer PROPRIETARY 0.1-1
+P067,Polyethylene Polymer PROPRIETARY 0.1-1,,0.1,1.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Polyethylene Polymer PROPRIETARY 0.1-1
+P067,Zinc Oxide,1314-13-2,0.1,1.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Zinc Oxide 1314-13-2 0.1-1
+P067,Ammonium Hydroxide,1336-21-6,0.1,1.0,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Ammonium Hydroxide 1336-21-6 0.1-1
+P067,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Fluorosurfactant PROPRIETARY <0.1
+P067,Dimethicone,63148-62-9,0.0,0.1,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Dimethicone 63148-62-9 <0.1
+P067,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P067,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Acrylic Polymer PROPRIETARY 10-30; Polypropylene Polymer PROPRIETARY 0.1-1; Polyethylene Polymer PROPRIETARY 0.1-1; Fluorosurfactant PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
+P068,Hydrogen chloride ≥5 - <10,7647-01-0,,,False,exact % withheld only,Hydrogen chloride ≥5 - <10 7647-01-0
 P069,Lead,7439-92-1,62.0,62.0,False,,Lead 7439-92-1 62
 P069,Sulfuric acid,7664-93-9,31.0,31.0,False,,Sulfuric acid 7664-93-9 31
 P069,Antimony,7440-36-0,1.0,1.0,False,,Antimony 7440-36-0 1
@@ -369,159 +363,156 @@ P070,Ammonium Chloride,27479-28-3,1.6,1.6,False,,Ammonium Chloride 27479-28-3 1.
 P071,Diethylene glycol butyl ether,112-34-5,1.0,5.0,False,,Diethylene glycol butyl ether 112-34-5 1 - 5% 4500 =2700 mg/kg Not available
 P071,2-butoxyethanol,111-76-2,1.0,5.0,False,,2-butoxyethanol 111-76-2 1 - 5% 1400 =220 mg/kg =450 ppm (4 h)
 P071,Ethylene glycol phenyl ether,122-99-6,0.1,1.5,False,,Ethylene glycol phenyl ether 122-99-6 0.1 - 1.5% 1260 =5 mL/kg Not available
-P073,2-AMINOETHANOL,141-43-5,8.0,10.0,True,trade secret,2-AMINOETHANOL 141-43-5 8 - 10% YES
-P073,DIETHYLENE GLYCOL MONOBUTYL ETHER,112-34-5,8.0,10.0,True,trade secret,DIETHYLENE GLYCOL MONOBUTYL ETHER 112-34-5 8 - 10% YES
-P073,BENZYL ALCOHOL,100-51-6,12.0,14.0,True,trade secret,BENZYL ALCOHOL 100-51-6 12 - 14% YES
-P074,,64742-47-8,65.0,85.0,True,trade secret,64742-47-8 65-85 PETROLEUM DISTILLATES LIGHT(R)
-P074,,64742-46-7,10.0,30.0,True,trade secret,"64742-46-7. 10-30 distillates, petroleum, middle, hydrotreated"
-P076,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P076,Acrylate Copolymer PROPRIETARY 7-13,,7.0,13.0,True,trade secret,Acrylate Copolymer PROPRIETARY 7-13
-P076,Ethoxydiglycol,111-90-0,3.0,7.0,True,trade secret,Ethoxydiglycol 111-90-0 3-7
-P076,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,trade secret,Tributoxyethyl Phosphate 78-51-3 1-5
-P076,Ethylene Copolymer,67892-91-5,0.1,1.0,True,trade secret,Ethylene Copolymer 67892-91-5 0.1-1
-P076,Zinc Ammonium Carbonate,38714-47-5,0.1,1.0,True,trade secret,Zinc Ammonium Carbonate 38714-47-5 0.1-1
-P076,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fluorosurfactant PROPRIETARY <0.1
-P076,Dimethicone,63148-62-9,0.0,0.1,True,trade secret,Dimethicone 63148-62-9 <0.1
-P076,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P076,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
+P073,2-AMINOETHANOL,141-43-5,8.0,10.0,False,exact % withheld only,2-AMINOETHANOL 141-43-5 8 - 10% YES
+P073,DIETHYLENE GLYCOL MONOBUTYL ETHER,112-34-5,8.0,10.0,False,exact % withheld only,DIETHYLENE GLYCOL MONOBUTYL ETHER 112-34-5 8 - 10% YES
+P073,BENZYL ALCOHOL,100-51-6,12.0,14.0,False,exact % withheld only,BENZYL ALCOHOL 100-51-6 12 - 14% YES
+P074,,64742-47-8,65.0,85.0,False,exact % withheld only,64742-47-8 65-85 PETROLEUM DISTILLATES LIGHT(R)
+P074,,64742-46-7,10.0,30.0,False,exact % withheld only,"64742-46-7. 10-30 distillates, petroleum, middle, hydrotreated"
+P076,Water,7732-18-5,60.0,100.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Water 7732-18-5 60-100
+P076,Acrylate Copolymer PROPRIETARY 7-13,,7.0,13.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Acrylate Copolymer PROPRIETARY 7-13
+P076,Ethoxydiglycol,111-90-0,3.0,7.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Ethoxydiglycol 111-90-0 3-7
+P076,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Tributoxyethyl Phosphate 78-51-3 1-5
+P076,Ethylene Copolymer,67892-91-5,0.1,1.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Ethylene Copolymer 67892-91-5 0.1-1
+P076,Zinc Ammonium Carbonate,38714-47-5,0.1,1.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Zinc Ammonium Carbonate 38714-47-5 0.1-1
+P076,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Fluorosurfactant PROPRIETARY <0.1
+P076,Dimethicone,63148-62-9,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Dimethicone 63148-62-9 <0.1
+P076,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P076,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
 P077,"Alcohols, Ethoxylated",68002-97-1,1.0,10.0,False,,"Alcohols, Ethoxylated 68002-97-1 1-10"
 P077,D-Limonene,5989-27-5,1.0,10.0,False,,D-Limonene 5989-27-5 1-10
 P077,Propylene Glycol Monomethyl Ether,107-98-2,1.0,10.0,False,,Propylene Glycol Monomethyl Ether 107-98-2 1-10
-P078,Isopropylamine salt of Imazapyr,81510-83-0,53.1,53.1,False,,Isopropylamine salt of Imazapyr 81510-83-0 53.1
-P079,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P079,Acrylate Copolymer PROPRIETARY 7-13,,7.0,13.0,True,trade secret,Acrylate Copolymer PROPRIETARY 7-13
-P079,Ethoxydiglycol,111-90-0,3.0,7.0,True,trade secret,Ethoxydiglycol 111-90-0 3-7
-P079,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,trade secret,Tributoxyethyl Phosphate 78-51-3 1-5
-P079,Ethylene Copolymer,67892-91-5,0.1,1.0,True,trade secret,Ethylene Copolymer 67892-91-5 0.1-1
-P079,Zinc Ammonium Carbonate,38714-47-5,0.1,1.0,True,trade secret,Zinc Ammonium Carbonate 38714-47-5 0.1-1
-P079,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fluorosurfactant PROPRIETARY <0.1
-P079,Dimethicone,63148-62-9,0.0,0.1,True,trade secret,Dimethicone 63148-62-9 <0.1
-P079,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P079,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
+P078,Isopropylamine salt of Imazapyr,81510-83-0,53.1,53.1,True,identity withheld: Other Ingredients,Isopropylamine salt of Imazapyr 81510-83-0 53.1
+P079,Water,7732-18-5,60.0,100.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Water 7732-18-5 60-100
+P079,Acrylate Copolymer PROPRIETARY 7-13,,7.0,13.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Acrylate Copolymer PROPRIETARY 7-13
+P079,Ethoxydiglycol,111-90-0,3.0,7.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Ethoxydiglycol 111-90-0 3-7
+P079,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Tributoxyethyl Phosphate 78-51-3 1-5
+P079,Ethylene Copolymer,67892-91-5,0.1,1.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Ethylene Copolymer 67892-91-5 0.1-1
+P079,Zinc Ammonium Carbonate,38714-47-5,0.1,1.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Zinc Ammonium Carbonate 38714-47-5 0.1-1
+P079,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Fluorosurfactant PROPRIETARY <0.1
+P079,Dimethicone,63148-62-9,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Dimethicone 63148-62-9 <0.1
+P079,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P079,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 7-13; Fluorosurfactant PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
 P080,Alkylpolyglycoside,68515-73-1,1.0,5.0,False,,Alkylpolyglycoside 68515-73-1 1-5
-P081,2-butoxyethanol ≥7 - <10,111-76-2,,,True,confidential,2-butoxyethanol ≥7 - <10 111-76-2
-P081,(2-methoxymethylethoxy)propanol ≥5 - <10,34590-94-8,,,True,confidential,(2-methoxymethylethoxy)propanol ≥5 - <10 34590-94-8
-P081,"Alcohols, C9-11, ethoxylated ≥3 - <5",68439-46-3,,,True,confidential,"Alcohols, C9-11, ethoxylated ≥3 - <5 68439-46-3"
-P081,"(R)-p-mentha-1,8-diene ≥2.6 - <3",5989-27-5,,,True,confidential,"(R)-p-mentha-1,8-diene ≥2.6 - <3 5989-27-5"
-P081,oleic acid ≥1.1 - <3,112-80-1,,,True,confidential,oleic acid ≥1.1 - <3 112-80-1
-P082,Isopropylamine Salt of Imazapyr,81510-83-0,26.8,28.5,True,trade secret,Isopropylamine Salt of Imazapyr 81510-83-0 26.8 – 28.5
-P083,Butane,106-97-8,60.0,80.0,True,trade secret,Butane 106-97-8 60 - 80
-P083,Propane,74-98-6,20.0,40.0,True,trade secret,Propane 74-98-6 20 - 40
-P083,Ethyl Alcohol,64-17-5,2.5,10.0,True,trade secret,Ethyl Alcohol 64-17-5 2.5 - 10
-P083,Other components below reportable levels,,0.01,0.1,True,trade secret,Other components below reportable levels 0.01 - 0.1
+P081,2-butoxyethanol ≥7 - <10,111-76-2,,,False,exact % withheld only,2-butoxyethanol ≥7 - <10 111-76-2
+P081,(2-methoxymethylethoxy)propanol ≥5 - <10,34590-94-8,,,False,exact % withheld only,(2-methoxymethylethoxy)propanol ≥5 - <10 34590-94-8
+P081,"Alcohols, C9-11, ethoxylated ≥3 - <5",68439-46-3,,,False,exact % withheld only,"Alcohols, C9-11, ethoxylated ≥3 - <5 68439-46-3"
+P081,"(R)-p-mentha-1,8-diene ≥2.6 - <3",5989-27-5,,,False,exact % withheld only,"(R)-p-mentha-1,8-diene ≥2.6 - <3 5989-27-5"
+P081,oleic acid ≥1.1 - <3,112-80-1,,,False,exact % withheld only,oleic acid ≥1.1 - <3 112-80-1
+P082,Isopropylamine Salt of Imazapyr,81510-83-0,26.8,28.5,True,identity withheld: Other Ingredients,Isopropylamine Salt of Imazapyr 81510-83-0 26.8 – 28.5
+P083,Butane,106-97-8,60.0,80.0,False,exact % withheld only,Butane 106-97-8 60 - 80
+P083,Propane,74-98-6,20.0,40.0,False,exact % withheld only,Propane 74-98-6 20 - 40
+P083,Ethyl Alcohol,64-17-5,2.5,10.0,False,exact % withheld only,Ethyl Alcohol 64-17-5 2.5 - 10
 P084,,122453-73-0,0.5,0.5,False,,122453-73-0 0.5 % chlorfenapyr
 P084,,115-10-6,0.0,15.0,False,,115-10-6 < 15.0% dimethyl ether
 P084,,124-38-9,0.0,2.0,False,,124-38-9 < 2.0% carbon dioxide
 P084,,67-64-1,0.0,35.0,False,,67-64-1 < 35.0% Acetone
-P086,Oxadiazon,19666-30-9,0.0,5.0,True,trade secret,Oxadiazon 19666-30-9 <5
-P087,Isopropylamine salt of glyphosate,38641-94-0,41.0,41.0,True,trade secret,Isopropylamine salt of glyphosate 38641-94-0 41
-P089,Potassium salt of glyphosate,70901-12-1,48.7,48.7,True,trade secret,Potassium salt of glyphosate 70901-12-1 48.7
-P089,Surfactant(s),,0.0,9.0,True,trade secret,Surfactant(s) <=9
-P089,Water and minor formulating ingredients,,0.0,42.0,True,trade secret,Water and minor formulating ingredients <=42
-P090,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P090,Benzalkonium Chloride,68391-01-5,3.0,7.0,True,trade secret,Benzalkonium Chloride 68391-01-5 3-7
-P090,Alkyl C12-14 Dimethyl Ethylbenzyl Ammonium,85409-23-0,3.0,7.0,True,trade secret,Alkyl C12-14 Dimethyl Ethylbenzyl Ammonium 85409-23-0 3-7
-P091,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P091,Acrylate Copolymer PROPRIETARY 10-30,,10.0,30.0,True,trade secret,Acrylate Copolymer PROPRIETARY 10-30
-P091,Ethoxydiglycol,111-90-0,3.0,7.0,True,trade secret,Ethoxydiglycol 111-90-0 3-7
-P091,Ethylene Copolymer,67892-91-5,1.0,5.0,True,trade secret,Ethylene Copolymer 67892-91-5 1-5
-P091,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,trade secret,Tributoxyethyl Phosphate 78-51-3 1-5
-P091,Zinc Ammonium Carbonate,38714-47-5,0.1,1.0,True,trade secret,Zinc Ammonium Carbonate 38714-47-5 0.1-1
-P091,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fluorosurfactant PROPRIETARY <0.1
-P091,Dimethicone,63148-62-9,0.0,0.1,True,trade secret,Dimethicone 63148-62-9 <0.1
-P091,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P091,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P093,Water,7732-18-5,45.0,70.0,True,trade secret,Water 7732-18-5 45-70
-P093,Sodium Metasilicate,6834-92-0,5.0,10.0,True,trade secret,Sodium Metasilicate 6834-92-0 5-10
-P093,Pentasodium Triphosphate,7758-29-4,1.0,5.0,True,trade secret,Pentasodium Triphosphate 7758-29-4 1-5
-P093,Sodium Xylenesulfonate,1300-72-7,1.0,5.0,True,trade secret,Sodium Xylenesulfonate 1300-72-7 1-5
-P093,Potassium Hydroxide,1310-58-3,1.0,5.0,True,trade secret,Potassium Hydroxide 1310-58-3 1-5
-P093,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,True,trade secret,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
-P093,CI 15620,1658-56-6,0.0,0.1,True,trade secret,CI 15620 1658-56-6 <0.1
-P093,Direct Blue 199,12222-04-7,0.0,0.1,True,trade secret,Direct Blue 199 12222-04-7 <0.1
+P086,Oxadiazon,19666-30-9,0.0,5.0,False,exact % withheld only,Oxadiazon 19666-30-9 <5
+P087,Isopropylamine salt of glyphosate,38641-94-0,41.0,41.0,True,identity withheld: Other ingredients,Isopropylamine salt of glyphosate 38641-94-0 41
+P089,Potassium salt of glyphosate,70901-12-1,48.7,48.7,True,no CAS for: Surfactant(s); Water and minor formulating ingredients,Potassium salt of glyphosate 70901-12-1 48.7
+P089,Surfactant(s),,0.0,9.0,True,no CAS for: Surfactant(s); Water and minor formulating ingredients,Surfactant(s) <=9
+P089,Water and minor formulating ingredients,,0.0,42.0,True,no CAS for: Surfactant(s); Water and minor formulating ingredients,Water and minor formulating ingredients <=42
+P090,Water,7732-18-5,60.0,100.0,False,exact % withheld only,Water 7732-18-5 60-100
+P090,Benzalkonium Chloride,68391-01-5,3.0,7.0,False,exact % withheld only,Benzalkonium Chloride 68391-01-5 3-7
+P090,Alkyl C12-14 Dimethyl Ethylbenzyl Ammonium,85409-23-0,3.0,7.0,False,exact % withheld only,Alkyl C12-14 Dimethyl Ethylbenzyl Ammonium 85409-23-0 3-7
+P091,Water,7732-18-5,60.0,100.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Water 7732-18-5 60-100
+P091,Acrylate Copolymer PROPRIETARY 10-30,,10.0,30.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Acrylate Copolymer PROPRIETARY 10-30
+P091,Ethoxydiglycol,111-90-0,3.0,7.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Ethoxydiglycol 111-90-0 3-7
+P091,Ethylene Copolymer,67892-91-5,1.0,5.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Ethylene Copolymer 67892-91-5 1-5
+P091,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Tributoxyethyl Phosphate 78-51-3 1-5
+P091,Zinc Ammonium Carbonate,38714-47-5,0.1,1.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Zinc Ammonium Carbonate 38714-47-5 0.1-1
+P091,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Fluorosurfactant PROPRIETARY <0.1
+P091,Dimethicone,63148-62-9,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Dimethicone 63148-62-9 <0.1
+P091,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P091,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
+P093,Water,7732-18-5,45.0,70.0,False,exact % withheld only,Water 7732-18-5 45-70
+P093,Sodium Metasilicate,6834-92-0,5.0,10.0,False,exact % withheld only,Sodium Metasilicate 6834-92-0 5-10
+P093,Pentasodium Triphosphate,7758-29-4,1.0,5.0,False,exact % withheld only,Pentasodium Triphosphate 7758-29-4 1-5
+P093,Sodium Xylenesulfonate,1300-72-7,1.0,5.0,False,exact % withheld only,Sodium Xylenesulfonate 1300-72-7 1-5
+P093,Potassium Hydroxide,1310-58-3,1.0,5.0,False,exact % withheld only,Potassium Hydroxide 1310-58-3 1-5
+P093,C9-11 Alcohols Ethoxylated,68439-46-3,1.0,5.0,False,exact % withheld only,C9-11 Alcohols Ethoxylated 68439-46-3 1-5
+P093,CI 15620,1658-56-6,0.0,0.1,False,exact % withheld only,CI 15620 1658-56-6 <0.1
+P093,Direct Blue 199,12222-04-7,0.0,0.1,False,exact % withheld only,Direct Blue 199 12222-04-7 <0.1
 P094,Isopropanol,67-63-0,1.0,5.0,False,,Isopropanol 67-63-0 1-5
 P095,"Alcohols, Ethoxylated",68439-46-3,1.0,5.0,False,,"Alcohols, Ethoxylated 68439-46-3 1-5"
 P095,Isopropanol,67-63-0,1.0,5.0,False,,Isopropanol 67-63-0 1-5
-P096,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P096,Hydrochloric Acid,7647-01-0,5.0,10.0,True,trade secret,Hydrochloric Acid 7647-01-0 5-10
-P096,Tallow Dihyroxyethyl Betaine,70750-46-8,1.0,5.0,True,trade secret,Tallow Dihyroxyethyl Betaine 70750-46-8 1-5
-P096,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,0.1,1.0,True,trade secret,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 0.1-1
-P096,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P096,Methyl Salicylate,119-36-8,0.0,0.1,True,trade secret,Methyl Salicylate 119-36-8 <0.1
-P096,Benzyl Acetate,140-11-4,0.0,0.1,True,trade secret,Benzyl Acetate 140-11-4 <0.1
-P096,Acid Blue 9,3844-45-9,0.0,0.1,True,trade secret,Acid Blue 9 3844-45-9 <0.1
+P096,Water,7732-18-5,60.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Water 7732-18-5 60-100
+P096,Hydrochloric Acid,7647-01-0,5.0,10.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Hydrochloric Acid 7647-01-0 5-10
+P096,Tallow Dihyroxyethyl Betaine,70750-46-8,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Tallow Dihyroxyethyl Betaine 70750-46-8 1-5
+P096,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride,68424-85-1,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Alkyl C12-16 Dimethylbenzyl Ammonium Chloride 68424-85-1 0.1-1
+P096,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P096,Methyl Salicylate,119-36-8,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Methyl Salicylate 119-36-8 <0.1
+P096,Benzyl Acetate,140-11-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Benzyl Acetate 140-11-4 <0.1
+P096,Acid Blue 9,3844-45-9,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Acid Blue 9 3844-45-9 <0.1
 P098,Isopropanol,67-63-0,1.0,5.0,False,,Isopropanol 67-63-0 1-5
-P099,DIETHYLENE GLYCOL MONOETHYL ETHER,111-90-0,3.0,5.0,True,trade secret,DIETHYLENE GLYCOL MONOETHYL ETHER 111-90-0 3-5% YES
-P099,TRIBUTOXYETHYL PHOSPHATE,78-51-3,1.0,3.0,True,trade secret,TRIBUTOXYETHYL PHOSPHATE 78-51-3 1-3% YES
-P100,(2-methoxymethylethoxy)propanol ≥1 - <3,34590-94-8,,,True,confidential,(2-methoxymethylethoxy)propanol ≥1 - <3 34590-94-8
-P100,3-butoxypropan-2-ol ≥1 - <3,5131-66-8,,,True,confidential,3-butoxypropan-2-ol ≥1 - <3 5131-66-8
+P099,DIETHYLENE GLYCOL MONOETHYL ETHER,111-90-0,3.0,5.0,False,exact % withheld only,DIETHYLENE GLYCOL MONOETHYL ETHER 111-90-0 3-5% YES
+P099,TRIBUTOXYETHYL PHOSPHATE,78-51-3,1.0,3.0,False,exact % withheld only,TRIBUTOXYETHYL PHOSPHATE 78-51-3 1-3% YES
+P100,(2-methoxymethylethoxy)propanol ≥1 - <3,34590-94-8,,,False,exact % withheld only,(2-methoxymethylethoxy)propanol ≥1 - <3 34590-94-8
+P100,3-butoxypropan-2-ol ≥1 - <3,5131-66-8,,,False,exact % withheld only,3-butoxypropan-2-ol ≥1 - <3 5131-66-8
 P101,Hydrotreated middle distillate,,0.0,10.0,True,no CAS for: Hydrotreated middle distillate; Propellant,Hydrotreated middle distillate 6472-46-7 0-10
 P101,Ethoxylated alcohol c6-12,68439-45-2,0.0,5.0,True,no CAS for: Hydrotreated middle distillate; Propellant,Ethoxylated alcohol c6-12 68439-45-2 0-5
 P101,Hydro treated Light Naphthenic,64742-53-6,0.0,5.0,True,no CAS for: Hydrotreated middle distillate; Propellant,Hydro treated Light Naphthenic 64742-53-6 0-5
 P101,Propellant,,0.0,5.0,True,no CAS for: Hydrotreated middle distillate; Propellant,Propellant 0-5
-P102,"Distillates (Petroleum),",64742-47-8,20.0,40.0,True,trade secret,"Distillates (Petroleum), 64742-47-8 20 - 40"
-P102,White Mineral Oil,8042-47-5,20.0,40.0,True,trade secret,White Mineral Oil 8042-47-5 20 - 40
-P102,Acetone,67-64-1,10.0,20.0,True,trade secret,Acetone 67-64-1 10 - 20
-P102,Propane,74-98-6,10.0,20.0,True,trade secret,Propane 74-98-6 10 - 20
-P102,Methyl Acetate,79-20-9,2.5,10.0,True,trade secret,Methyl Acetate 79-20-9 2.5 - 10
-P102,Other components below reportable levels,,1.0,2.5,True,trade secret,Other components below reportable levels 1 - 2.5
-P103,water,7732-18-5,40.0,70.0,True,trade secret,water 7732-18-5 40-70
-P103,styrene acrylic copolymer PROPRIETARY 10-30,,10.0,30.0,True,trade secret,styrene acrylic copolymer PROPRIETARY 10-30
-P103,diethylene glycol monobutyl ether,112-34-5,5.0,10.0,True,trade secret,diethylene glycol monobutyl ether 112-34-5 5-10
-P103,tributoxyethyl phosphate,78-51-3,1.0,5.0,True,trade secret,tributoxyethyl phosphate 78-51-3 1-5
-P103,ethylene glycol,107-21-1,1.0,5.0,True,trade secret,ethylene glycol 107-21-1 1-5
-P105,2-BUTOXYETHANOL,111-76-2,8.0,12.0,True,trade secret,2-BUTOXYETHANOL 111-76-2 8-12% YES
-P105,2-AMINOETHANOL,141-43-5,18.0,22.0,True,trade secret,2-AMINOETHANOL 141-43-5 18-22% YES
-P105,POTASSIUM HYDROXIDE,1310-58-3,2.0,3.0,True,trade secret,POTASSIUM HYDROXIDE 1310-58-3 2-3% YES
-P105,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,0.5,1.0,True,trade secret,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 0.5-1.0% YES
-P106,Oryzalin,19044-88-3,40.9,40.9,True,trade secret,Oryzalin 19044-88-3 40.9
-P106,Glycerin,56-81-5,0.0,30.0,True,trade secret,Glycerin 56-81-5 <30
-P107,Butoxyethanol,111-76-2,1.0,3.0,True,no CAS for: Other components below reportable levels,Butoxyethanol 111-76-2 1 - < 3
-P107,Isopropanol,67-63-0,1.0,3.0,True,no CAS for: Other components below reportable levels,Isopropanol 67-63-0 1 - < 3
-P107,Other components below reportable levels,,90.0,100.0,True,no CAS for: Other components below reportable levels,Other components below reportable levels 90 - 100
-P108,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P108,Acrylate Copolymer PROPRIETARY 10-30,,10.0,30.0,True,trade secret,Acrylate Copolymer PROPRIETARY 10-30
-P108,Ethoxydiglycol,111-90-0,3.0,7.0,True,trade secret,Ethoxydiglycol 111-90-0 3-7
-P108,Ethylene Copolymer,67892-91-5,1.0,5.0,True,trade secret,Ethylene Copolymer 67892-91-5 1-5
-P108,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,trade secret,Tributoxyethyl Phosphate 78-51-3 1-5
-P108,Zinc Ammonium Carbonate,38714-47-5,0.1,1.0,True,trade secret,Zinc Ammonium Carbonate 38714-47-5 0.1-1
-P108,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fluorosurfactant PROPRIETARY <0.1
-P108,Dimethicone,63148-62-9,0.0,0.1,True,trade secret,Dimethicone 63148-62-9 <0.1
-P108,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P108,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P109,PHOSPHORIC ACID,7664-38-2,18.0,20.0,True,trade secret,PHOSPHORIC ACID 7664-38-2 18-20% YES
-P109,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,2.0,3.0,True,trade secret,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 2-3% YES
-P109,2-BUTOXYETHANOL,111-76-2,1.0,2.0,True,trade secret,2-BUTOXYETHANOL 111-76-2 1-2% YES
-P110,Water,7732-18-5,40.0,70.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Water 7732-18-5 40 - 70 NA NA
-P110,Diethylene glycol monobutyl ether,112-34-5,5.0,10.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Diethylene glycol monobutyl ether 112-34-5 5 - 10 NA NA
-P110,Tripropylene glycol methyl ether,25498-49-1,5.0,10.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Tripropylene glycol methyl ether 25498-49-1 5 - 10 NA NA
-P110,Naphthalene sodium sulfonate,26264-58-4,5.0,10.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Naphthalene sodium sulfonate 26264-58-4 5 - 10 NA NA
-P110,Viable bacterial cultures NA,,3.0,7.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Viable bacterial cultures NA 3 - 7 NA NA
-P110,Linear primary alcohol ethoxylate,34398-01-1,1.0,5.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Linear primary alcohol ethoxylate 34398-01-1 1 - 5 NA NA
-P110,Tetrasodium ethylenediamine tetraacetate,64-02-8,1.0,5.0,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Tetrasodium ethylenediamine tetraacetate 64-02-8 1 - 5 NA NA
-P110,Diacetone alcohol,123-42-2,0.5,1.5,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Diacetone alcohol 123-42-2 0.5 - 1.5 50 ppm 238 mg/m3
-P110,Fragrance NA,,0.0,0.1,True,no CAS for: Viable bacterial cultures NA; Fragrance NA,Fragrance NA < 0.1 NA NA
-P111,Inert and Non-Hazardous Ingredients Proprietary 100.00%,,100.0,100.0,True,proprietary,Inert and Non-Hazardous Ingredients Proprietary 100.00%
-P112,Water,7732-18-5,80.0,100.0,True,trade secret,Water 7732-18-5 80-100
-P112,Caprylyl/Capryl Glucoside,68515-73-1,1.0,5.0,True,trade secret,Caprylyl/Capryl Glucoside 68515-73-1 1-5
-P112,Deceth-9,26183-52-8,1.0,5.0,True,trade secret,Deceth-9 26183-52-8 1-5
-P112,Capryleth-4,27252-75-1,1.0,5.0,True,trade secret,Capryleth-4 27252-75-1 1-5
-P112,Lauryl Glucoside,110615-47-9,1.0,5.0,True,trade secret,Lauryl Glucoside 110615-47-9 1-5
-P112,PEG-15 Cocomonium Chloride,61791-10-4,0.1,1.0,True,trade secret,PEG-15 Cocomonium Chloride 61791-10-4 0.1-1
-P112,Trisodium Dicarboxymethyl Alaninate,164462-16-2,0.1,1.0,True,trade secret,Trisodium Dicarboxymethyl Alaninate 164462-16-2 0.1-1
-P112,Laureth-9,68439-50-9,0.1,1.0,True,trade secret,Laureth-9 68439-50-9 0.1-1
-P112,Citric Acid,77-92-9,0.1,1.0,True,trade secret,Citric Acid 77-92-9 0.1-1
-P112,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,trade secret,Fragrance PROPRIETARY <0.1
-P112,Benzisothiazolinone,2634-33-5,0.0,0.1,True,trade secret,Benzisothiazolinone 2634-33-5 <0.1
-P112,Methylisothiazolinone,2682-20-4,0.0,0.1,True,trade secret,Methylisothiazolinone 2682-20-4 <0.1
-P112,Yellow 5,1934-21-0,0.0,0.1,True,trade secret,Yellow 5 1934-21-0 <0.1
-P112,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,trade secret,Methylchloroisothiazolinone 26172-55-4 <0.1
-P112,CI 16035,25956-17-6,0.0,0.1,True,trade secret,CI 16035 25956-17-6 <0.1
+P102,"Distillates (Petroleum),",64742-47-8,20.0,40.0,False,exact % withheld only,"Distillates (Petroleum), 64742-47-8 20 - 40"
+P102,White Mineral Oil,8042-47-5,20.0,40.0,False,exact % withheld only,White Mineral Oil 8042-47-5 20 - 40
+P102,Acetone,67-64-1,10.0,20.0,False,exact % withheld only,Acetone 67-64-1 10 - 20
+P102,Propane,74-98-6,10.0,20.0,False,exact % withheld only,Propane 74-98-6 10 - 20
+P102,Methyl Acetate,79-20-9,2.5,10.0,False,exact % withheld only,Methyl Acetate 79-20-9 2.5 - 10
+P103,water,7732-18-5,40.0,70.0,True,no CAS for: styrene acrylic copolymer PROPRIETARY 10-30,water 7732-18-5 40-70
+P103,styrene acrylic copolymer PROPRIETARY 10-30,,10.0,30.0,True,no CAS for: styrene acrylic copolymer PROPRIETARY 10-30,styrene acrylic copolymer PROPRIETARY 10-30
+P103,diethylene glycol monobutyl ether,112-34-5,5.0,10.0,True,no CAS for: styrene acrylic copolymer PROPRIETARY 10-30,diethylene glycol monobutyl ether 112-34-5 5-10
+P103,tributoxyethyl phosphate,78-51-3,1.0,5.0,True,no CAS for: styrene acrylic copolymer PROPRIETARY 10-30,tributoxyethyl phosphate 78-51-3 1-5
+P103,ethylene glycol,107-21-1,1.0,5.0,True,no CAS for: styrene acrylic copolymer PROPRIETARY 10-30,ethylene glycol 107-21-1 1-5
+P105,2-BUTOXYETHANOL,111-76-2,8.0,12.0,False,exact % withheld only,2-BUTOXYETHANOL 111-76-2 8-12% YES
+P105,2-AMINOETHANOL,141-43-5,18.0,22.0,False,exact % withheld only,2-AMINOETHANOL 141-43-5 18-22% YES
+P105,POTASSIUM HYDROXIDE,1310-58-3,2.0,3.0,False,exact % withheld only,POTASSIUM HYDROXIDE 1310-58-3 2-3% YES
+P105,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,0.5,1.0,False,exact % withheld only,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 0.5-1.0% YES
+P106,Oryzalin,19044-88-3,40.9,40.9,False,exact % withheld only,Oryzalin 19044-88-3 40.9
+P106,Glycerin,56-81-5,0.0,30.0,False,exact % withheld only,Glycerin 56-81-5 <30
+P107,Butoxyethanol,111-76-2,1.0,3.0,False,,Butoxyethanol 111-76-2 1 - < 3
+P107,Isopropanol,67-63-0,1.0,3.0,False,,Isopropanol 67-63-0 1 - < 3
+P108,Water,7732-18-5,60.0,100.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Water 7732-18-5 60-100
+P108,Acrylate Copolymer PROPRIETARY 10-30,,10.0,30.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Acrylate Copolymer PROPRIETARY 10-30
+P108,Ethoxydiglycol,111-90-0,3.0,7.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Ethoxydiglycol 111-90-0 3-7
+P108,Ethylene Copolymer,67892-91-5,1.0,5.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Ethylene Copolymer 67892-91-5 1-5
+P108,Tributoxyethyl Phosphate,78-51-3,1.0,5.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Tributoxyethyl Phosphate 78-51-3 1-5
+P108,Zinc Ammonium Carbonate,38714-47-5,0.1,1.0,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Zinc Ammonium Carbonate 38714-47-5 0.1-1
+P108,Fluorosurfactant PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Fluorosurfactant PROPRIETARY <0.1
+P108,Dimethicone,63148-62-9,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Dimethicone 63148-62-9 <0.1
+P108,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P108,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Acrylate Copolymer PROPRIETARY 10-30; Fluorosurfactant PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
+P109,PHOSPHORIC ACID,7664-38-2,18.0,20.0,False,exact % withheld only,PHOSPHORIC ACID 7664-38-2 18-20% YES
+P109,NONYLPHENOL POLYETHYLENE GLYCOL ETHER,127087-87-0,2.0,3.0,False,exact % withheld only,NONYLPHENOL POLYETHYLENE GLYCOL ETHER 127087-87-0 2-3% YES
+P109,2-BUTOXYETHANOL,111-76-2,1.0,2.0,False,exact % withheld only,2-BUTOXYETHANOL 111-76-2 1-2% YES
+P110,Water,7732-18-5,40.0,70.0,True,no CAS for: Fragrance NA,Water 7732-18-5 40 - 70 NA NA
+P110,Diethylene glycol monobutyl ether,112-34-5,5.0,10.0,True,no CAS for: Fragrance NA,Diethylene glycol monobutyl ether 112-34-5 5 - 10 NA NA
+P110,Tripropylene glycol methyl ether,25498-49-1,5.0,10.0,True,no CAS for: Fragrance NA,Tripropylene glycol methyl ether 25498-49-1 5 - 10 NA NA
+P110,Naphthalene sodium sulfonate,26264-58-4,5.0,10.0,True,no CAS for: Fragrance NA,Naphthalene sodium sulfonate 26264-58-4 5 - 10 NA NA
+P110,Viable bacterial cultures NA,,3.0,7.0,True,no CAS for: Fragrance NA,Viable bacterial cultures NA 3 - 7 NA NA
+P110,Linear primary alcohol ethoxylate,34398-01-1,1.0,5.0,True,no CAS for: Fragrance NA,Linear primary alcohol ethoxylate 34398-01-1 1 - 5 NA NA
+P110,Tetrasodium ethylenediamine tetraacetate,64-02-8,1.0,5.0,True,no CAS for: Fragrance NA,Tetrasodium ethylenediamine tetraacetate 64-02-8 1 - 5 NA NA
+P110,Diacetone alcohol,123-42-2,0.5,1.5,True,no CAS for: Fragrance NA,Diacetone alcohol 123-42-2 0.5 - 1.5 50 ppm 238 mg/m3
+P110,Fragrance NA,,0.0,0.1,True,no CAS for: Fragrance NA,Fragrance NA < 0.1 NA NA
+P111,Inert and Non-Hazardous Ingredients Proprietary 100.00%,,100.0,100.0,True,no valid CAS numbers,Inert and Non-Hazardous Ingredients Proprietary 100.00%
+P112,Water,7732-18-5,80.0,100.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Water 7732-18-5 80-100
+P112,Caprylyl/Capryl Glucoside,68515-73-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Caprylyl/Capryl Glucoside 68515-73-1 1-5
+P112,Deceth-9,26183-52-8,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Deceth-9 26183-52-8 1-5
+P112,Capryleth-4,27252-75-1,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Capryleth-4 27252-75-1 1-5
+P112,Lauryl Glucoside,110615-47-9,1.0,5.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Lauryl Glucoside 110615-47-9 1-5
+P112,PEG-15 Cocomonium Chloride,61791-10-4,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,PEG-15 Cocomonium Chloride 61791-10-4 0.1-1
+P112,Trisodium Dicarboxymethyl Alaninate,164462-16-2,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Trisodium Dicarboxymethyl Alaninate 164462-16-2 0.1-1
+P112,Laureth-9,68439-50-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Laureth-9 68439-50-9 0.1-1
+P112,Citric Acid,77-92-9,0.1,1.0,True,no CAS for: Fragrance PROPRIETARY <0.1,Citric Acid 77-92-9 0.1-1
+P112,Fragrance PROPRIETARY <0.1,,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Fragrance PROPRIETARY <0.1
+P112,Benzisothiazolinone,2634-33-5,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Benzisothiazolinone 2634-33-5 <0.1
+P112,Methylisothiazolinone,2682-20-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Methylisothiazolinone 2682-20-4 <0.1
+P112,Yellow 5,1934-21-0,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Yellow 5 1934-21-0 <0.1
+P112,Methylchloroisothiazolinone,26172-55-4,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,Methylchloroisothiazolinone 26172-55-4 <0.1
+P112,CI 16035,25956-17-6,0.0,0.1,True,no CAS for: Fragrance PROPRIETARY <0.1,CI 16035 25956-17-6 <0.1
 P114,Triclopyr-2-butoxyethyl ester,64700-56-7,60.5,60.5,False,,Triclopyr-2-butoxyethyl ester 64700-56-7 60.5%
 P114,Ethylene glycol monobutyl ether,111-76-2,0.5,0.5,False,,Ethylene glycol monobutyl ether 111-76-2 0.5%
-P116,Water,7732-18-5,60.0,100.0,True,trade secret,Water 7732-18-5 60-100
-P116,C9-11 Pareth-6,68439-46-3,1.0,5.0,True,trade secret,C9-11 Pareth-6 68439-46-3 1-5
-P116,sodium carbonate,497-19-8,1.0,5.0,True,trade secret,sodium carbonate 497-19-8 1-5
-P116,Butoxyethanol,111-76-2,1.0,5.0,True,trade secret,Butoxyethanol 111-76-2 1-5
-P116,Tetrasodium EDTA,64-02-8,1.0,5.0,True,trade secret,Tetrasodium EDTA 64-02-8 1-5
-P116,sodium alkylnaphthalenesulfonate,111163-74-7,1.0,5.0,True,trade secret,sodium alkylnaphthalenesulfonate 111163-74-7 1-5
+P116,Water,7732-18-5,60.0,100.0,False,exact % withheld only,Water 7732-18-5 60-100
+P116,C9-11 Pareth-6,68439-46-3,1.0,5.0,False,exact % withheld only,C9-11 Pareth-6 68439-46-3 1-5
+P116,sodium carbonate,497-19-8,1.0,5.0,False,exact % withheld only,sodium carbonate 497-19-8 1-5
+P116,Butoxyethanol,111-76-2,1.0,5.0,False,exact % withheld only,Butoxyethanol 111-76-2 1-5
+P116,Tetrasodium EDTA,64-02-8,1.0,5.0,False,exact % withheld only,Tetrasodium EDTA 64-02-8 1-5
+P116,sodium alkylnaphthalenesulfonate,111163-74-7,1.0,5.0,False,exact % withheld only,sodium alkylnaphthalenesulfonate 111163-74-7 1-5
