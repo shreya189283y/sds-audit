@@ -1,0 +1,12 @@
+product_id,cas,chemical_name,concern_level,notes
+P025,,,LOW,"All 5 ingredients have CAS; none found on Prop 65, SVHC, or ED lists. Only exact % withheld."
+P006,,,LOW,"All 5 ingredients have CAS. White mineral oil is highly refined, not 'untreated or mildly treated' (Prop 65). Boilerplate says identity and/or % withheld but every row has a CAS."
+P051,,paraffin wax; anionic surfactant,UNDISCLOSED,"Both listed as PROPRIETARY with no CAS. No list hits on the remaining ingredient (water)."
+P045,,,LOW,"Only sodium carbonate listed (hazardous ingredients only). Not on any list. Nothing stated as withheld."
+P040,9016-45-9,Nonoxynol (nonylphenol ethoxylate),HIGH,"NPE is on EU SVHC as 4-nonylphenol ethoxylated group. Also crystalline silica 14808-60-7 (Prop 65 conditional: respirable particles). Old format: composition is Section Two."
+P040,14808-60-7,Silica (crystalline),MEDIUM,Prop 65 entry is conditional (airborne particles of respirable size); SDS says no respirable quartz.
+P028,,Fragrance,UNDISCLOSED,"Fragrance PROPRIETARY with no CAS. Other ingredients (hydrogen peroxide, ethoxylated alcohols, quat, Acid Blue 80) not found on any list."
+P024,,,UNDISCLOSED,"Scanned 2007 MSDS. Lists 'Hazardous ingredients: None' with no CAS anywhere. Frozen rule: no valid CAS numbers = undisclosed. Composition is Section 2."
+P098,,,LOW,"Only isopropanol 67-63-0. Prop 65 lists isopropyl alcohol manufacture by strong-acid process, a process not the chemical."
+P022,,alkylated naphthalene sulfonate sodium salt,UNDISCLOSED,"Scanned. CAS given as Proprietary. Tetrapotassium pyrophosphate 7320-34-5 not on any list."
+P075,,,LOW,"Scanned 2013 MSDS. Magnesium nitrate, MCI 26172-55-4, magnesium chloride, all with CAS; none on the four lists. No percentages given at all, but no identity withheld. Note: MCI is the isothiazolinone your manual audit rated HIGH; list-based grading makes it LOW."
