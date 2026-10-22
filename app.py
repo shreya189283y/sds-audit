@@ -9,18 +9,29 @@ st.title("SDS Audit: First Comphrensive Review of EDCs in School Products")
 st.write("Upload your school district's SDS PDFs, and the app checks every ingredient against established datasets like Prop 65, EU SVHC, and the EU endocrien disruptor lists to determine any potential health or environmental risks. ")
 
 files = st.file_uploader("Upload SDS PDFs", type = "pdf", accept_multiple_files = True)
-if st.button("Run audit"):
-    if files is None:
-        st.warning("Upload at least one PDF first.")
-        st.stop()
-    bar = st.progress(0)
-    rows = []
-    for i, f in enumerate(files, start=1):
-        result = audit_one(f, f"U{i:03d}",f.name)
-        rows.append(result)
-        bar.progress(i/len(files))
-    st.session_state["results"] = pd.DataFrame(rows)
-    st.success(f"Audited {len(files)} files")
+
 if "results" in st.session_state:
     st.dataframe(st.session_state["results"])
-    
+
+col1, col2 = st.columns(2)
+with col1:
+    if st.button("Run audit"):
+        if files is None:
+            st.warning("Upload at least one PDF first.")
+            st.stop()
+        bar = st.progress(0)
+        rows = []
+        for i, f in enumerate(files, start=1):
+            result = audit_one(f, f"U{i:03d}",f.name)
+            rows.append(result)
+            bar.progress(i/len(files))
+        st.session_state["results"] = pd.DataFrame(rows)
+        st.success(f"Audited {len(files)} files")
+with col2:
+    if st.button("Try a sample district"):
+        sample = pd.read_csv("data/results.csv")
+        st.session_state["results"] = sample
+        st.info (f"Showing a sample district of {len(sample)} products. ")
+        
+if "results" in st.session_state:
+    st.dataframe(st.session_state["results"])
