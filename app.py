@@ -56,4 +56,11 @@ if "results" in st.session_state:
     )
     st.subheader("Summary")
     st.write(f"{len(df)} products audited.")
-    st.dataframe(st.session_state["results"])
+    st.subheader("Products")
+    picked = st.multiselect("Show levels", levels, default=levels)
+    shown = df[df["level"].isin(picked)]
+    RANK = {"HIGH": 5, "MEDIUM":4, "UNDISCLOSED":3, "LOW":2, "UNREADABLE":1}
+    shown = shown.assign(RANK=shown["level"].map(RANK))
+    shown = shown.sort_values("RANK", ascending=False)
+    shown["product_name"]=shown["product_name"].str.replace(r"^(Product\s*(Name|name|Description)|Trade name)\s*:?\s*", "", regex=True)
+    st.dataframe(shown[["product_id", "product_name", "level", "n_flags"]],hide_index=True, use_container_width=True)
