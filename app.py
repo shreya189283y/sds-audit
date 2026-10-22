@@ -34,4 +34,26 @@ with col2:
         st.info (f"Showing a sample district of {len(sample)} products. ")
         
 if "results" in st.session_state:
+    df = st.session_state["results"]
+    counts = df["level"].value_counts()
+    counts.get("HIGH", 0)
+    cols = st.columns(5)
+    levels = ["HIGH", "MEDIUM", "UNDISCLOSED", "LOW", "UNREADABLE"]
+    for c, l in zip(cols, levels):
+        c.metric(l, counts.get(l,0))
+    st.info("“Ingredients are checked against Prop 65, the EU SVHC list, and the EU endocrine disruptor lists. LOW means no list match, not proven safe. Chemicals not on these lists, such as some preservatives and plasticizers, are not flagged.")
+    with st.expander("What the levels mean"):
+            st.markdown(
+            "- **HIGH:** at least one ingredient is on Prop 65, the EU SVHC list, "
+            "or EU Endocrine Disruptor List I.\n"
+            "- **MEDIUM:** matches only EU Endocrine Disruptor List II or III, "
+            "or a listing that applies only under a condition, such as a particle size.\n"
+            "- **UNDISCLOSED:** no list matches, but at least one ingredient's identity "
+            "is hidden, so it cannot be checked.\n"
+            "- **LOW:** no list matches and every ingredient is named. "
+            "This is not proof that the product is safe.\n"
+            "- **UNREADABLE:** scanned or unreadable PDF. Check this SDS by hand."
+    )
+    st.subheader("Summary")
+    st.write(f"{len(df)} products audited.")
     st.dataframe(st.session_state["results"])
