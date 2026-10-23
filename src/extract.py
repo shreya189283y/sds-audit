@@ -57,7 +57,7 @@ class Ingredient:
     raw_line: str
 
 NUM = r"(\d+(?:\.\d+)?)"
-RANGE = (r"(?<![\d.\-/])(?:[<>]=?\s*)?" + NUM
+RANGE = (r"(?<![\w.\-/])(?:[<>]=?\s*)?" + NUM
          + r"\s*%?\s*(?:-|–|—|to)\s*(?:[<>]=?\s*)?" + NUM
          + r"(?!\d|\.\d|\s*[-/]\s*\d)")
 
@@ -126,7 +126,7 @@ def parse_ingredients(section3):
             if m:
                 name = k[:m.start()].strip()
                 conc_min, conc_max = parse_concentration(k[m.start():])
-                if name and conc_min is not None:
+                if name and not name.endswith(":") and conc_min is not None:
                     item = Ingredient(name = name, cas = None, conc_min = conc_min, conc_max = conc_max, raw_line = k)
                     results.append(item)
     return results 

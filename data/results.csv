@@ -1,117 +1,117 @@
-product_id,product_name,category,level,n_flags,undisclosed,flags_json
-P001,Product Name: CLEAN BY PEROXY,,UNDISCLOSED,0,True,[]
-P002,Product Name: X-EFFECT,,UNDISCLOSED,0,True,[]
-P003,1907 Waterborne Urethane Gym Finish,,HIGH,2,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}]"
-P004,,,UNREADABLE,0,False,[]
-P005,"Product name 24-5-11 TurfGro 50% XCU, 2% Fe, w WT Fe",,MEDIUM,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Silica, crystalline (airborne particles of respirable size)"", ""condition"": ""airborne particles of respirable size"", ""cas"": ""14808-60-7""}]"
-P006,3M™Stainless Steel Cleaner & Polish,,LOW,0,False,[]
-P007,3 Enzyme Cleaner Deodorant,,LOW,0,False,[]
-P008,,,UNREADABLE,0,False,[]
-P009,405 Heavy Duty Cleaner Degreaser,,LOW,0,False,[]
-P010,Product Name: NABC CONCENTRATE,,MEDIUM,1,True,"[{""list_name"": ""EU ED List II"", ""endpoint"": ""health, environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""1222-05-5""}]"
-P011,NBD 160 Non Butyl Cleaner Degreaser,,LOW,0,False,[]
-P012,Trade name RANGER PRO® HERBICIDE,,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Glyphosate"", ""condition"": """", ""cas"": ""38641-94-0""}]"
-P013,,,UNREADABLE,0,False,[]
-P014,BASECOAT II,,HIGH,2,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}]"
-P015,BEST Dimension 270G,,UNDISCLOSED,0,True,[]
-P016,Big D D'Vour,,LOW,0,False,[]
-P017,Product Name: BIORENEWABLES GLASS CLEANER,,UNDISCLOSED,0,True,[]
-P018,BOND COAT,,LOW,0,False,[]
-P019,Carefree Floor Finish,,LOW,0,False,[]
-P020,CareFree Matte Low Gloss Floor Finish,,LOW,0,False,[]
-P021,Carex® Lotion Cleanser,,HIGH,1,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Coconut oil diethanolamine condensate (cocamide diethanolamine)"", ""condition"": """", ""cas"": ""68603-42-9""}]"
-P022,,,UNREADABLE,0,False,[]
-P023,CARPET RESTORATION PRE-SPRAY,,HIGH,2,True,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}]"
-P024,,,UNREADABLE,0,False,[]
-P025,CHEM-AQUA 15000MT Product Code 775C,,LOW,0,False,[]
-P026,,,UNREADABLE,0,False,[]
-P027,CHEWING GUM REMOVER,,LOW,0,False,[]
-P028,Product Name: CLEAN BY PEROXY,,UNDISCLOSED,0,True,[]
-P029,Product Name: CLEAN ON THE GO BIORENEWABLES GLASS CLEANER [18],,UNDISCLOSED,0,True,[]
-P030,Product Name: CLEAN ON THE GO CLEAN BY PEROXY [15],,UNDISCLOSED,0,True,[]
-P031,,,UNREADABLE,0,False,[]
-P032,Product Name: CLEAN ON THE GO hdqC2,,UNDISCLOSED,0,True,[]
-P033,Product Name: CLEAN ON THE GO NABC CONCENTRATE [1],,UNDISCLOSED,0,True,[]
-P034,Product Name Clorox Healthcare® Hydrogen Peroxide Cleaner Disinfectant,,LOW,0,False,[]
-P035,Clorox Healthcare® Hydrogen Peroxide Cleaner Disinfectant Wipes,,LOW,0,False,[]
-P036,COLE GLASS CLEANER KR050,,LOW,0,False,[]
-P037,Product Name: CONSUME,,UNDISCLOSED,0,True,[]
-P038,Product Name: CONSUME BIO-BOWL,,UNDISCLOSED,0,True,[]
-P039,Product Name: CONSUME MICRO-MUSCLE,,UNDISCLOSED,0,True,[]
-P040,"CREME CLEAN Date: April 10, 2002",,HIGH,3,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Silica, crystalline (airborne particles of respirable size)"", ""condition"": ""airborne particles of respirable size"", ""cas"": ""14808-60-7""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""9016-45-9""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""9016-45-9""}]"
-P041,Deb Azure Foam Wash-US,,LOW,0,False,[]
-P042,Dura Seal Concrete Sealer,,LOW,0,False,[]
-P043,Product Name: DUST MOP / DUST CLOTH TREATMENT (AEROSOL),,UNDISCLOSED,0,True,[]
-P044,Product Name DUST MOP TREATMENT,,LOW,0,False,[]
-P045,E-San 335 Lemon,,LOW,0,False,[]
-P046,EcoPCO ACU Insecticide,,LOW,0,False,[]
-P047,EcoPCO AR-X Multi-Purpose Insecticide,,LOW,0,False,[]
-P048,,,UNREADABLE,0,False,[]
-P049,,,UNREADABLE,0,False,[]
-P050,EXPLORER,,LOW,0,False,[]
-P051,Product Name: EXTERIOR WATERPROOFER,,UNDISCLOSED,0,True,[]
-P052,EZ Plus Gym Coat N Seal,,HIGH,2,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}]"
-P053,FiberPRO Spot Bet,,LOW,0,False,[]
-P054,FINAL COAT,,UNDISCLOSED,0,True,[]
-P055,,,UNREADABLE,0,False,[]
-P056,FP-575,,MEDIUM,1,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": ""Ethylene glycol (ingested)"", ""cas"": ""107-21-1""}]"
-P057,GLASS CLEANER,,LOW,0,False,[]
-P058,Product Name: GREEN SOLUTIONS INDUSTRIAL CLEANER,,UNDISCLOSED,0,True,[]
-P059,Product Name: GS HIGH DILUTION DISINFECTANT 256,,LOW,0,False,[]
-P060,Product Name: GS NEUTRAL DISINFECTANT CLEANER,,LOW,0,False,[]
-P061,HC-150,,LOW,0,False,[]
-P062,HDX Carpet Cleaner,,LOW,0,False,[]
-P063,HEAVY DUTY DEGREASER,,LOW,0,False,[]
-P064,Heavy Duty Prespray Plus,,LOW,0,False,[]
-P065,,,LOW,0,False,[]
-P066,HP Gym Coat,,HIGH,2,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}]"
-P067,Product Name: ISHINE,,UNDISCLOSED,0,True,[]
-P068,Kling,,LOW,0,False,[]
-P069,Lead Acid Battery,,HIGH,4,False,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""7439-92-1""}, {""list_name"": ""Prop 65"", ""endpoint"": ""developmental, female, male"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Lead"", ""condition"": """", ""cas"": ""7439-92-1""}, {""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Lead and lead compounds"", ""condition"": """", ""cas"": ""7439-92-1""}, {""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Arsenic (inorganic arsenic compounds)"", ""condition"": """", ""cas"": ""7440-38-2""}]"
-P070,Lemon Q,,LOW,0,False,[]
-P071,LinoSAFE Linoleum/Stone Stripper (1:4 Dilution),,LOW,0,False,[]
-P072,LIQUID ENZYME II,,LOW,0,False,[]
-P073,LOW ODOR STRIPPER,,LOW,0,False,[]
-P074,Product name LPS® 1®,,LOW,0,False,[]
-P075,,,UNREADABLE,0,False,[]
-P076,Product Name: MILLENNIA BRIGHT DURA PRIME,,UNDISCLOSED,0,True,[]
-P077,New Spinkleen,,LOW,0,False,[]
-P078,EPA Reg. No.: 228-570,,UNDISCLOSED,0,True,[]
-P079,Product Name: ON BASE,,UNDISCLOSED,0,True,[]
-P080,Pink Premium Hand Soap,,LOW,0,False,[]
-P081,PK Cleaner,,LOW,0,False,[]
-P082,Polaris® Herbicide,,UNDISCLOSED,0,True,[]
-P083,PRO SERIES GUM REMOVER,,LOW,0,False,[]
-P084,used on the label,,LOW,0,False,[]
-P085,,,UNREADABLE,0,False,[]
-P086,Product Name Quali-Pro Oxadiazon 2G,,HIGH,2,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19666-30-9""}, {""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19666-30-9""}]"
-P087,Ranger PRO® Herbicide,,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Glyphosate"", ""condition"": """", ""cas"": ""38641-94-0""}]"
-P088,Product name Refresh Azure FOAM,,LOW,0,False,[]
-P089,Roundup PROMAX® Herbicide,,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Glyphosate"", ""condition"": """", ""cas"": ""70901-12-1""}]"
-P090,Product Name: SANI-T-10,,LOW,0,False,[]
-P091,Product Name: SHINELINE SEAL,,UNDISCLOSED,0,True,[]
-P092,Silicone Defoamer,,LOW,0,False,[]
-P093,Product Name: SNB-130,,LOW,0,False,[]
-P094,Soil Away,,LOW,0,False,[]
-P095,Soil Release,,LOW,0,False,[]
-P096,Product Name: SPARCLING,,UNDISCLOSED,0,True,[]
-P097,,,UNREADABLE,0,False,[]
-P098,Sparkle II,,LOW,0,False,[]
-P099,SPEED GLOSS,,LOW,0,False,[]
-P100,Spot Bet,,LOW,0,False,[]
-P101,Stainless Steel/All-Purpose Cleaner & Polish- Aerosol Product Use: Water based cleaner / polish.,,UNDISCLOSED,0,True,[]
-P102,STAINLESS STEEL POLISH & CLEANER (OIL BASE),,LOW,0,False,[]
-P103,Product Name: STRAIGHT SEAL,,MEDIUM,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": ""Ethylene glycol (ingested)"", ""cas"": ""107-21-1""}]"
-P104,Super Defoamer,,LOW,0,False,[]
-P105,SUPER STRIP,,HIGH,2,False,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}]"
-P106,Product Description: Surflan AS AG,,HIGH,1,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19044-88-3""}]"
-P107,TACK-IT,,LOW,0,False,[]
-P108,Product Name: TERRA GLAZE,,UNDISCLOSED,0,True,[]
-P109,TILE BRITE,,HIGH,2,False,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}]"
-P110,/Use: TRAIL BREAKER Heavy-Duty Prespray with Prozyme,,UNDISCLOSED,0,True,[]
-P111,"TRAPPER® RAT GLUE, MOUSE GLUE, BULK GLUE, PRO PACK",,UNDISCLOSED,0,True,[]
-P112,Product Name: TRIBASE MULTI PURPOSE CLEANER,,UNDISCLOSED,0,True,[]
-P113,,,UNREADABLE,0,False,[]
-P114,TURFLON™ Ester Issue Date: 05/04/2015,,LOW,0,False,[]
-P115,TyGlu,,LOW,0,False,[]
-P116,Product Name: XTRACTION II,,LOW,0,False,[]
+product_id,product_name,level,n_flags,undisclosed,flags_json,rule,category
+P001,Product Name: CLEAN BY PEROXY,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P002,Product Name: X-EFFECT,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P003,1907 Waterborne Urethane Gym Finish,HIGH,2,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P004,,UNREADABLE,0,False,[],,
+P005,"Product name 24-5-11 TurfGro 50% XCU, 2% Fe, w WT Fe",MEDIUM,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Silica, crystalline (airborne particles of respirable size)"", ""condition"": ""airborne particles of respirable size"", ""cas"": ""14808-60-7""}]","Matches only on EU ED List II or III, or only conditional matches.",
+P006,3M™Stainless Steel Cleaner & Polish,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P007,3 Enzyme Cleaner Deodorant,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P008,,UNREADABLE,0,False,[],,
+P009,405 Heavy Duty Cleaner Degreaser,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P010,Product Name: NABC CONCENTRATE,MEDIUM,1,True,"[{""list_name"": ""EU ED List II"", ""endpoint"": ""health, environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""1222-05-5""}]","Matches only on EU ED List II or III, or only conditional matches.",
+P011,NBD 160 Non Butyl Cleaner Degreaser,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P012,Trade name RANGER PRO® HERBICIDE,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Glyphosate"", ""condition"": """", ""cas"": ""38641-94-0""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P013,,UNREADABLE,0,False,[],,
+P014,BASECOAT II,HIGH,2,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P015,BEST Dimension 270G,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P016,Big D D'Vour,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P017,Product Name: BIORENEWABLES GLASS CLEANER,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P018,BOND COAT,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P019,Carefree Floor Finish,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P020,CareFree Matte Low Gloss Floor Finish,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P021,Carex® Lotion Cleanser,HIGH,1,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Coconut oil diethanolamine condensate (cocamide diethanolamine)"", ""condition"": """", ""cas"": ""68603-42-9""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P022,,UNREADABLE,0,False,[],,
+P023,CARPET RESTORATION PRE-SPRAY,HIGH,2,True,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P024,,UNREADABLE,0,False,[],,
+P025,CHEM-AQUA 15000MT Product Code 775C,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P026,,UNREADABLE,0,False,[],,
+P027,CHEWING GUM REMOVER,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P028,Product Name: CLEAN BY PEROXY,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P029,Product Name: CLEAN ON THE GO BIORENEWABLES GLASS CLEANER [18],UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P030,Product Name: CLEAN ON THE GO CLEAN BY PEROXY [15],UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P031,,UNREADABLE,0,False,[],,
+P032,Product Name: CLEAN ON THE GO hdqC2,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P033,Product Name: CLEAN ON THE GO NABC CONCENTRATE [1],UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P034,Product Name Clorox Healthcare® Hydrogen Peroxide Cleaner Disinfectant,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P035,Clorox Healthcare® Hydrogen Peroxide Cleaner Disinfectant Wipes,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P036,COLE GLASS CLEANER KR050,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P037,Product Name: CONSUME,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P038,Product Name: CONSUME BIO-BOWL,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P039,Product Name: CONSUME MICRO-MUSCLE,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P040,"CREME CLEAN Date: April 10, 2002",HIGH,3,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Silica, crystalline (airborne particles of respirable size)"", ""condition"": ""airborne particles of respirable size"", ""cas"": ""14808-60-7""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""9016-45-9""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""9016-45-9""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P041,Deb Azure Foam Wash-US,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P042,Dura Seal Concrete Sealer,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P043,Product Name: DUST MOP / DUST CLOTH TREATMENT (AEROSOL),UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P044,Product Name DUST MOP TREATMENT,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P045,E-San 335 Lemon,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P046,EcoPCO ACU Insecticide,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P047,EcoPCO AR-X Multi-Purpose Insecticide,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P048,,UNREADABLE,0,False,[],,
+P049,,UNREADABLE,0,False,[],,
+P050,EXPLORER,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P051,Product Name: EXTERIOR WATERPROOFER,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P052,EZ Plus Gym Coat N Seal,HIGH,2,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P053,FiberPRO Spot Bet,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P054,FINAL COAT,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P055,,UNREADABLE,0,False,[],,
+P056,FP-575,MEDIUM,1,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": ""Ethylene glycol (ingested)"", ""cas"": ""107-21-1""}]","Matches only on EU ED List II or III, or only conditional matches.",
+P057,GLASS CLEANER,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P058,Product Name: GREEN SOLUTIONS INDUSTRIAL CLEANER,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P059,Product Name: GS HIGH DILUTION DISINFECTANT 256,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P060,Product Name: GS NEUTRAL DISINFECTANT CLEANER,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P061,HC-150,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P062,HDX Carpet Cleaner,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P063,HEAVY DUTY DEGREASER,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P064,Heavy Duty Prespray Plus,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P065,,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P066,HP Gym Coat,HIGH,2,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}, {""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""872-50-4""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P067,Product Name: ISHINE,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P068,Kling,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P069,Lead Acid Battery,HIGH,4,False,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Toxic for reproduction (Article 57c)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""7439-92-1""}, {""list_name"": ""Prop 65"", ""endpoint"": ""developmental, female, male"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Lead"", ""condition"": """", ""cas"": ""7439-92-1""}, {""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Lead and lead compounds"", ""condition"": """", ""cas"": ""7439-92-1""}, {""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Arsenic (inorganic arsenic compounds)"", ""condition"": """", ""cas"": ""7440-38-2""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P070,Lemon Q,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P071,LinoSAFE Linoleum/Stone Stripper (1:4 Dilution),LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P072,LIQUID ENZYME II,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P073,LOW ODOR STRIPPER,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P074,Product name LPS® 1®,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P075,,UNREADABLE,0,False,[],,
+P076,Product Name: MILLENNIA BRIGHT DURA PRIME,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P077,New Spinkleen,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P078,EPA Reg. No.: 228-570,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P079,Product Name: ON BASE,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P080,Pink Premium Hand Soap,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P081,PK Cleaner,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P082,Polaris® Herbicide,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P083,PRO SERIES GUM REMOVER,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P084,used on the label,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P085,,UNREADABLE,0,False,[],,
+P086,Product Name Quali-Pro Oxadiazon 2G,HIGH,2,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19666-30-9""}, {""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19666-30-9""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P087,Ranger PRO® Herbicide,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Glyphosate"", ""condition"": """", ""cas"": ""38641-94-0""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P088,Product name Refresh Azure FOAM,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P089,Roundup PROMAX® Herbicide,HIGH,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": ""Glyphosate"", ""condition"": """", ""cas"": ""70901-12-1""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P090,Product Name: SANI-T-10,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P091,Product Name: SHINELINE SEAL,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P092,Silicone Defoamer,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P093,Product Name: SNB-130,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P094,Soil Away,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P095,Soil Release,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P096,Product Name: SPARCLING,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P097,,UNREADABLE,0,False,[],,
+P098,Sparkle II,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P099,SPEED GLOSS,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P100,Spot Bet,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P101,Stainless Steel/All-Purpose Cleaner & Polish- Aerosol Product Use: Water based cleaner / polish.,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P102,STAINLESS STEEL POLISH & CLEANER (OIL BASE),LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P103,Product Name: STRAIGHT SEAL,MEDIUM,1,True,"[{""list_name"": ""Prop 65"", ""endpoint"": ""developmental"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": ""Ethylene glycol (ingested)"", ""cas"": ""107-21-1""}]","Matches only on EU ED List II or III, or only conditional matches.",
+P104,Super Defoamer,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P105,SUPER STRIP,HIGH,2,False,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P106,Product Description: Surflan AS AG,HIGH,1,False,"[{""list_name"": ""Prop 65"", ""endpoint"": ""cancer"", ""source_url"": ""https://oehha.ca.gov/proposition-65/proposition-65-list/"", ""via_group"": """", ""condition"": """", ""cas"": ""19044-88-3""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P107,TACK-IT,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P108,Product Name: TERRA GLAZE,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P109,TILE BRITE,HIGH,2,False,"[{""list_name"": ""EU SVHC"", ""endpoint"": ""Endocrine disrupting properties (Article 57(f) - environment)"", ""source_url"": ""https://echa.europa.eu/candidate-list-table"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}, {""list_name"": ""EU ED List I"", ""endpoint"": ""environment"", ""source_url"": ""https://edlists.org/"", ""via_group"": """", ""condition"": """", ""cas"": ""127087-87-0""}]","At least one ingredient is on Prop 65, EU SVHC, or EU ED LIST I.",
+P110,/Use: TRAIL BREAKER Heavy-Duty Prespray with Prozyme,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P111,"TRAPPER® RAT GLUE, MOUSE GLUE, BULK GLUE, PRO PACK",UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P112,Product Name: TRIBASE MULTI PURPOSE CLEANER,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P113,,UNREADABLE,0,False,[],,
+P114,TURFLON™ Ester Issue Date: 05/04/2015,LOW,0,False,[],"No list matches, and the formula is fully disclosed",
+P115,TyGlu,UNDISCLOSED,0,True,[],"No list matches, but part of the formula is withheld.",
+P116,Product Name: XTRACTION II,LOW,0,False,[],"No list matches, and the formula is fully disclosed",

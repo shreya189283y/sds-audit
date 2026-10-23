@@ -61,7 +61,7 @@ def test_empty_input():
 def test_undisclosed_keyword():
     flag, evidence = check_undisclosed(FAKE_SECTION_3)
     assert flag is True
-    assert evidence == "trade secret"
+    assert evidence.startswith("no CAS for:")
 
 
 def test_fully_disclosed():

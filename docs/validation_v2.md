@@ -18,6 +18,7 @@ Rows are the manual level. Columns are the tool level.
 |---|---|---|---|---|---|
 | HIGH | 6 | 1 | 9 | 0 | 0 |
 | MEDIUM | 3 | 1 | 1 | 5 | 0 |
+| UNDISCLOSED | 0 | 0 | 0 | 0 | 0 |
 | LOW | 1 | 0 | 2 | 5 | 0 |
 | NONE | 0 | 0 | 1 | 0 | 0 |
 
