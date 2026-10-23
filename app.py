@@ -9,9 +9,8 @@ import streamlit as st
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from src.audit import audit_one
 
-st.set_page_config(page_title="SDS Chemical Audit", layout="wide")
+st.set_page_config(page_title="ToxiCheck: SDS Chemical Audit", layout="wide")
 
-# ---------- Settings ----------
 LEVELS = ["HIGH", "MEDIUM", "UNDISCLOSED", "LOW", "UNREADABLE"]
 RANK = {"HIGH": 5, "MEDIUM": 4, "UNDISCLOSED": 3, "LOW": 2, "UNREADABLE": 1}
 
@@ -39,7 +38,6 @@ NEXT_STEP = {
     "UNREADABLE": "Ask the supplier for a text-based SDS, or review this one by hand.",
 }
 
-# Keyword in the official endpoint -> plain-language meaning
 PLAIN_ENDPOINT = [
     (("cancer", "carcinogen", "57a"), "Linked to cancer"),
     (("mutagen", "57b"), "Can damage genes"),
@@ -64,7 +62,6 @@ def clean_name(text):
 
 
 def plain_endpoint(endpoint):
-    """Turn official endpoint wording into plain phrases."""
     low = str(endpoint).lower()
     found = [plain for keys, plain in PLAIN_ENDPOINT if any(k in low for k in keys)]
     return ", ".join(dict.fromkeys(found)) or str(endpoint)
@@ -74,7 +71,6 @@ def style_level(value):
     return LEVEL_STYLE.get(value, "")
 
 
-# ---------- Sidebar: controls ----------
 with st.sidebar:
     st.header("Run an audit")
     files = st.file_uploader("Upload SDS PDFs", type="pdf", accept_multiple_files=True)
@@ -107,13 +103,12 @@ with st.sidebar:
     )
 
 # ---------- Header ----------
-st.title("SDS Chemical Audit")
+st.title("ToxiCheck: SDS Chemical Audit")
 st.write(
     "Find which products in a school district's inventory contain chemicals on "
     "major regulatory hazard lists, and which ones hide their ingredients."
 )
 
-# ---------- Welcome screen ----------
 if "results" not in st.session_state:
     st.info("Upload SDS PDFs in the sidebar, or click **Try a sample district** to see an example.")
     c1, c2, c3 = st.columns(3)
@@ -122,12 +117,10 @@ if "results" not in st.session_state:
     c3.markdown("### 3. Review\nSee which products to replace first, and why.")
     st.stop()
 
-# ---------- Results ----------
 df = st.session_state["results"].copy()
 df["display_name"] = df["product_name"].map(clean_name)
 st.caption(f"Showing results for {st.session_state.get('source', 'your audit')}.")
 
-# Summary
 st.subheader("Summary")
 counts = df["level"].value_counts()
 for col, level in zip(st.columns(5), LEVELS):
@@ -141,7 +134,6 @@ st.info(
 with st.expander("What the levels mean"):
     st.markdown("\n".join(f"- **{lv}:** {LEVEL_MEANING[lv]}" for lv in LEVELS))
 
-# Product table
 st.subheader("Products")
 picked = st.multiselect("Show levels", LEVELS, default=LEVELS)
 shown = df[df["level"].isin(picked)].copy()
@@ -163,10 +155,8 @@ try:
         selected_id = shown.iloc[event.selection.rows[0]]["product_id"]
     st.caption("Click a row to see its details.")
 except TypeError:
-    # Streamlit older than 1.35 has no row selection
     st.dataframe(styled, hide_index=True, use_container_width=True)
 
-# Product detail
 st.subheader("Product detail")
 ids = df["product_id"].tolist()
 labels = (df["product_id"] + ": " + df["display_name"]).tolist()
@@ -195,7 +185,6 @@ if pd.isna(flags_text) or flags_text in ("", "[]"):
     if level != "UNREADABLE":
         st.write("No list matches.")
 else:
-    # One block per chemical, with every list it appears on
     grouped = {}
     for flag in json.loads(flags_text):
         grouped.setdefault(flag["cas"], []).append(flag)
@@ -214,7 +203,6 @@ else:
                 st.markdown(line)
             st.caption("Official wording: " + "; ".join(dict.fromkeys(f["endpoint"] for f in flags)))
 
-# Download
 st.subheader("Download")
 st.download_button(
     "Download audit (CSV)",
