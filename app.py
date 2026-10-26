@@ -96,7 +96,7 @@ NAME_HINTS = [
 CSS = Template("""
 <style>
 .stApp { background: $bg; }
-.block-container { padding-top: 1.25rem; max-width: 1200px; }
+.block-container { padding-top: 3.5rem; max-width: 1200px; }
 h1, h2, h3 { color: $text; font-weight: 800 !important; letter-spacing: -0.5px; }
 
 [data-testid="stSidebar"] { background: $card; border-right: 1px solid $green_border; }
@@ -110,17 +110,20 @@ h1, h2, h3 { color: $text; font-weight: 800 !important; letter-spacing: -0.5px; 
 .stButton > button[kind="primary"]:hover { color: #fff; filter: brightness(0.94); }
 .stButton > button:disabled { opacity: 0.35; }
 
-div[data-testid="stRadio"] div[role="radiogroup"] {
+.st-key-nav div[role="radiogroup"] {
   background: $card; border: 1px solid $green_border; border-radius: 14px;
   padding: 4px; gap: 4px; display: flex; flex-wrap: wrap;
 }
-div[data-testid="stRadio"] div[role="radiogroup"] > label {
+.st-key-nav div[role="radiogroup"] label {
   margin: 0; padding: 8px 18px; border-radius: 10px; cursor: pointer;
 }
-div[data-testid="stRadio"] div[role="radiogroup"] > label > div:first-child { display: none; }
-div[data-testid="stRadio"] div[role="radiogroup"] > label p { font-weight: 600; color: $text_faint; }
-div[data-testid="stRadio"] div[role="radiogroup"] > label:has(input:checked) { background: $green_soft; }
-div[data-testid="stRadio"] div[role="radiogroup"] > label:has(input:checked) p { color: $green; }
+.st-key-nav div[role="radiogroup"] label > div > div:first-child:not([data-testid]),
+.st-key-nav div[role="radiogroup"] > label > div:first-child { display: none; }
+.st-key-nav div[role="radiogroup"] label p { font-weight: 600; color: $text_faint; margin: 0; }
+.st-key-nav div[role="radiogroup"] label:has(input:checked),
+.st-key-nav div[role="radiogroup"] label[data-selected="true"] { background: $green_soft; }
+.st-key-nav div[role="radiogroup"] label:has(input:checked) p,
+.st-key-nav div[role="radiogroup"] label[data-selected="true"] p { color: $green; }
 
 [data-testid="stExpander"] details { background: $card; border: 1px solid $green_border; border-radius: 14px; }
 [data-testid="stFileUploaderDropzone"] { border-radius: 14px; border: 1.5px dashed $green_border; background: $green_soft; }
