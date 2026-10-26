@@ -112,7 +112,17 @@ def audit_one(pdf_file, product_id, product_name):
     cas_list = [r.cas for r in rows if r.cas is not None]
  
     result = score(cas_list, undisclosed)
- 
+    names = {}
+    for r in rows:
+        if r.cas is not None and r.cas not in names:
+            names[r.cas] = r.name
+    for f in result["flags"]:
+        f["name"] = names.get(f["cas"], "")
+
+    ingredients = [
+        {"name": r.name, "cas": r.cas, "conc_min": r.conc_min, "conc_max": r.conc_max}
+        for r in rows
+    ]
     rule = result["rule"]
     if evidence == "no valid CAS numbers":
         rule = ("The SDS lists no ingredients with CAS numbers, so nothing could be checked. "
@@ -128,4 +138,5 @@ def audit_one(pdf_file, product_id, product_name):
         "rule": rule,
         "evidence": evidence,
         "ocr": ocr,
+        "ingredients_json": json.dumps(ingredients),
     }
